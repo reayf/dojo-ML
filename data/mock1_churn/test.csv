@@ -1,0 +1,1001 @@
+id_pelanggan,umur,jenis_kelamin,kota,paket,kecepatan_mbps,kontrak,lama_langganan_bulan,biaya_bulanan_ribu,total_tagihan_ribu,metode_bayar,autodebet,pakai_tv_kabel,gangguan_per_bulan,jumlah_keluhan_3bln,skor_kepuasan,tanggal_daftar,negara
+PLG-10004,27.0,Perempuan,Semarang,Basic,10,2 Tahun,40,284,11199.0,E-Wallet,Tidak,Ya,1.4,1,8.0,2023-02-07,Indonesia
+PLG-10018,23.0,Laki-laki,surabaya,Standar,30,Bulanan,21,321,6480.0,E-Wallet,Ya,Tidak,0.4,0,,2024-09-07,Indonesia
+PLG-10021,41.0,Laki-laki,Denpasar,Standar,30,Tahunan,15,309,4717.0,Transfer Bank,Tidak,Tidak,0.6,1,5.0,2025-03-16,Indonesia
+PLG-10024,42.0,Perempuan,Bandung,Standar,30,Tahunan,60,349,20333.0,Kartu Kredit,Tidak,Tidak,3.0,1,,2021-06-19,Indonesia
+PLG-10026,45.0,Perempuan,Surabaya,Standar,30,Bulanan,8,341,2766.0,E-Wallet,Ya,Tidak,1.7,0,7.0,2025-10-25,Indonesia
+PLG-10027,30.0,Laki-laki,Jakarta,Premium,100,Bulanan,18,546,9559.0,Transfer Bank,Tidak,Tidak,3.6,2,,2024-12-13,Indonesia
+PLG-10040,33.0,Perempuan,Makassar,Standar,30,Bulanan,7,421,3075.0,E-Wallet,Ya,Ya,0.3,1,8.0,2025-11-06,Indonesia
+PLG-10043,51.0,Perempuan,Yogyakarta,Basic,10,2 Tahun,68,287,19708.0,E-Wallet,Tidak,Ya,0.9,0,7.0,2020-10-28,Indonesia
+PLG-10045,18.0,Laki-laki,Medan,Basic,10,Bulanan,17,279,4576.0,Kartu Kredit,Ya,Ya,0.6,2,9.0,2025-01-05,Indonesia
+PLG-10046,25.0,Laki-laki,Jakarta,Premium,100,Bulanan,41,554,23457.0,Transfer Bank,Ya,Tidak,0.8,3,7.0,2023-01-27,Indonesia
+PLG-10048,44.0,Perempuan,Jakarta,Basic,10,Tahunan,3,203,629.0,Kartu Kredit,Ya,Tidak,2.2,2,8.0,2026-03-08,Indonesia
+PLG-10050,43.0,Laki-laki,Bandung,Standar,30,Tahunan,28,399,11107.0,E-Wallet,Ya,Ya,0.3,0,7.0,2024-02-11,Indonesia
+PLG-10060,33.0,Perempuan,Denpasar,Standar,30,Tahunan,40,329,13483.0,Kartu Kredit,Ya,Tidak,0.8,0,8.0,2023-02-11,Indonesia
+PLG-10061,48.0,Perempuan,Surabaya,Standar,30,Bulanan,33,352,11778.0,Transfer Bank,Ya,Tidak,0.4,1,8.0,2023-09-15,Indonesia
+PLG-10065,56.0,Perempuan,Denpasar,Standar,30,Tahunan,24,412,9792.0,E-Wallet,Tidak,Ya,1.7,0,10.0,2024-06-05,Indonesia
+PLG-10069,42.0,Laki-laki,Jakarta,Premium,100,2 Tahun,72,625,43200.0,E-Wallet,Tidak,Ya,2.1,0,7.0,2020-06-14,Indonesia
+PLG-10071,,Perempuan,Jakarta,Premium,100,Bulanan,13,635,8432.0,Minimarket,Tidak,Ya,2.4,0,9.0,2025-05-14,Indonesia
+PLG-10072,41.0,Perempuan,Makassar,Basic,10,Bulanan,11,294,3144.0,Kartu Kredit,Ya,Ya,1.5,0,7.0,2025-07-15,Indonesia
+PLG-10079,36.0,Perempuan,Medan,Basic,10,Tahunan,21,185,3948.0,Minimarket,Tidak,Tidak,1.1,1,7.0,2024-09-27,Indonesia
+PLG-10085,150.0,Laki-laki,Bandung,Standar,30,Bulanan,6,318,1861.0,Transfer Bank,Tidak,Tidak,1.3,1,9.0,2025-12-06,Indonesia
+PLG-10088,34.0,Laki-laki,Jakarta,Basic,10,Tahunan,21,189,4115.0,Kartu Kredit,Tidak,Tidak,2.5,1,6.0,2024-09-08,Indonesia
+PLG-10091,37.0,Perempuan,Makassar,Standar,30,Tahunan,1,392,407.0,Minimarket,Tidak,Ya,3.5,2,6.0,2026-05-27,Indonesia
+PLG-10097,28.0,Perempuan,Surabaya,Basic,10,Bulanan,7,177,1283.0,E-Wallet,Ya,Tidak,2.3,1,8.0,2025-11-11,Indonesia
+PLG-10098,43.0,Laki-laki,Jakarta,Standar,30,Tahunan,28,418,12049.0,Minimarket,Tidak,Ya,0.1,0,6.0,2024-02-11,Indonesia
+PLG-10099,31.0,Laki-laki,Jakarta,Standar,30,Bulanan,2,406,778.0,Transfer Bank,Tidak,Ya,0.9,0,,2026-04-14,Indonesia
+PLG-10106,46.0,Laki-laki,Surabaya,Standar,30,Bulanan,6,338,1997.0,Kartu Kredit,Tidak,Tidak,0.7,0,6.0,2025-12-07,Indonesia
+PLG-10113,38.0,Perempuan,jakarta,Premium,100,2 Tahun,25,632,16139.0,Minimarket,Tidak,Ya,0.3,0,7.0,2024-05-13,Indonesia
+PLG-10123,46.0,Perempuan,Surabaya,Standar,30,Bulanan,5,344,1791.0,Kartu Kredit,Ya,Tidak,1.2,2,6.0,2026-01-19,Indonesia
+PLG-10129,30.0,Laki-laki,Bandung,Basic,10,2 Tahun,4,213,810.0,Transfer Bank,Ya,Tidak,0.3,1,7.0,2026-02-13,Indonesia
+PLG-10130,45.0,Laki-laki,Bandung,Basic,10,Tahunan,47,198,9103.0,,Tidak,Tidak,1.0,1,,2022-07-30,Indonesia
+PLG-10131,43.0,Perempuan,Jakarta,Basic,10,2 Tahun,61,196,11484.0,Minimarket,Tidak,Tidak,5.4,1,4.0,2021-05-13,Indonesia
+PLG-10133,49.0,Laki-laki,Denpasar,Basic,10,Bulanan,1,183,186.0,Transfer Bank,Tidak,Tidak,3.4,1,,2026-05-04,Indonesia
+PLG-10134,43.0,Laki-laki,JAKARTA,Standar,30,Bulanan,3,417,1252.0,Minimarket,Tidak,Ya,1.6,0,8.0,2026-03-11,Indonesia
+PLG-10137,40.0,Perempuan,Surabaya,Basic,10,2 Tahun,10,280,2815.0,E-Wallet,Tidak,Ya,0.6,0,7.0,2025-08-26,Indonesia
+PLG-10144,50.0,Perempuan,Semarang,Basic,10,2 Tahun,43,206,9145.0,E-Wallet,Ya,Tidak,1.1,1,8.0,2022-11-08,Indonesia
+PLG-10146,,Perempuan,Surabaya,Basic,10,Bulanan,8,195,1506.0,Transfer Bank,Tidak,Tidak,0.2,0,9.0,2025-10-17,Indonesia
+PLG-10147,41.0,Perempuan,Jakarta,Premium,100,Bulanan,15,553,8693.0,Kartu Kredit,Tidak,Tidak,0.3,0,6.0,2025-03-11,Indonesia
+PLG-10148,45.0,Laki-laki,Jakarta,Standar,30,Tahunan,17,320,5290.0,Transfer Bank,Ya,Tidak,0.6,0,8.0,2025-01-23,Indonesia
+PLG-10152,25.0,Perempuan,Jakarta ,Standar,30,2 Tahun,59,324,18469.0,,Tidak,Tidak,0.1,0,5.0,2021-07-16,Indonesia
+PLG-10153,28.0,Perempuan,Medan,Basic,10,Bulanan,2,193,375.0,Transfer Bank,Tidak,Tidak,2.2,2,,2026-04-03,Indonesia
+PLG-10156,28.0,Laki-laki,Bandung,Premium,100,Tahunan,14,545,7301.0,Transfer Bank,Tidak,Tidak,0.2,1,6.0,2025-04-09,Indonesia
+PLG-10157,18.0,Perempuan,Surabaya,Standar,30,Tahunan,20,329,6423.0,E-Wallet,Tidak,Tidak,1.7,0,9.0,2024-10-09,Indonesia
+PLG-10160,55.0,Perempuan,Jakarta,Basic,10,Tahunan,31,194,5909.0,Minimarket,Tidak,Tidak,0.8,1,8.0,2023-11-26,Indonesia
+PLG-10162,35.0,Laki-laki,Surabaya,Basic,10,2 Tahun,13,191,2362.0,E-Wallet,Tidak,Tidak,0.3,0,8.0,2025-05-15,Indonesia
+PLG-10163,52.0,Laki-laki,Bandung,Basic,10,Bulanan,2,185,358.0,,Tidak,Tidak,3.2,1,5.0,2026-04-17,Indonesia
+PLG-10177,43.0,Perempuan,Jakarta,Standar,30,2 Tahun,72,407,30695.0,Minimarket,Tidak,Ya,2.6,0,8.0,2020-06-22,Indonesia
+PLG-10178,27.0,Perempuan,Medan,Standar,30,Bulanan,6,340,1991.0,Minimarket,Tidak,Tidak,0.6,0,,2025-12-23,Indonesia
+PLG-10180,26.0,Perempuan,Yogyakarta,Standar,30,Bulanan,10,313,3257.0,Kartu Kredit,Ya,Tidak,0.5,1,7.0,2025-08-22,Indonesia
+PLG-10181,,Laki-laki,Bandung,Standar,30,2 Tahun,2,328,686.0,Transfer Bank,Ya,Tidak,2.9,2,5.0,2026-04-24,Indonesia
+PLG-10186,22.0,Laki-laki,Jakarta,Premium,100,Bulanan,8,550,4379.0,Kartu Kredit,Tidak,Tidak,0.2,0,7.0,2025-10-22,Indonesia
+PLG-10188,51.0,Perempuan,Surabaya,Standar,30,Tahunan,25,417,9970.0,Transfer Bank,Tidak,Ya,0.1,0,8.0,2024-05-07,Indonesia
+PLG-10193,45.0,Laki-laki,Semarang,Premium,100,2 Tahun,46,647,,Kartu Kredit,Tidak,Ya,0.8,1,7.0,2022-08-04,Indonesia
+PLG-10198,21.0,Perempuan,Jakarta,Basic,10,2 Tahun,27,196,5419.0,E-Wallet,Ya,Tidak,0.7,1,7.0,2024-03-19,Indonesia
+PLG-10207,62.0,Laki-laki,Semarang,Standar,30,Bulanan,9,341,3035.0,E-Wallet,Ya,Tidak,2.5,1,,2025-09-21,Indonesia
+PLG-10210,49.0,Laki-laki,Jakarta,Basic,10,Bulanan,5,303,1570.0,Transfer Bank,Tidak,Ya,1.8,3,5.0,2026-01-03,Indonesia
+PLG-10215,36.0,Laki-laki,Semarang,Standar,30,Bulanan,45,418,18905.0,Transfer Bank,Tidak,Ya,1.1,1,8.0,2022-09-08,Indonesia
+PLG-10216,42.0,Laki-laki,Surabaya,Standar,30,Bulanan,11,415,4702.0,E-Wallet,Tidak,Ya,1.9,1,,2025-07-09,Indonesia
+PLG-10219,25.0,Laki-laki,Yogyakarta,Standar,30,Tahunan,31,301,8958.0,Transfer Bank,Tidak,Tidak,0.4,1,10.0,2023-11-26,Indonesia
+PLG-10221,40.0,Laki-laki,Bandung,Standar,30,Tahunan,26,318,7873.0,Transfer Bank,Ya,Tidak,1.9,0,5.0,2024-04-20,Indonesia
+PLG-10223,54.0,Perempuan,Jakarta,Premium,100,Tahunan,14,640,9344.0,Transfer Bank,Tidak,Ya,0.2,0,10.0,2025-04-05,Indonesia
+PLG-10224,29.0,Laki-laki,Yogyakarta,Standar,30,Tahunan,27,342,8925.0,E-Wallet,Ya,Tidak,1.4,2,5.0,2024-03-04,Indonesia
+PLG-10225,27.0,Laki-laki,Bandung,Basic,10,Tahunan,14,264,3548.0,E-Wallet,Tidak,Ya,2.8,2,6.0,2025-04-09,Indonesia
+PLG-10227,38.0,Laki-laki,jakarta,Standar,30,Bulanan,2,327,681.0,Kartu Kredit,Ya,Tidak,3.5,3,,2026-04-09,Indonesia
+PLG-10229,50.0,Laki-laki,Yogyakarta,Basic,10,2 Tahun,36,228,7822.0,Transfer Bank,Ya,Tidak,1.2,1,6.0,2023-06-14,Indonesia
+PLG-10230,43.0,Laki-laki,Medan,Basic,10,Bulanan,13,207,2732.0,Minimarket,Tidak,Tidak,3.1,1,6.0,2025-05-20,Indonesia
+PLG-10232,42.0,Perempuan,Yogyakarta,Basic,10,Bulanan,4,187,778.0,E-Wallet,Tidak,Tidak,3.0,2,4.0,2026-02-17,Indonesia
+PLG-10236,48.0,Laki-laki,Semarang,Standar,30,2 Tahun,33,331,11128.0,,Ya,Tidak,1.1,0,7.0,2023-09-08,Indonesia
+PLG-10239,22.0,Laki-laki,Surabaya,Premium,100,Tahunan,40,540,21498.0,Transfer Bank,Tidak,Tidak,0.7,0,6.0,2023-02-28,Indonesia
+PLG-10240,35.0,Laki-laki,Surabaya,Standar,30,Tahunan,17,324,5477.0,Minimarket,Tidak,Tidak,0.1,1,8.0,2025-01-20,Indonesia
+PLG-10241,50.0,Perempuan,Surabaya,Basic,10,Tahunan,60,189,10829.0,E-Wallet,Tidak,Tidak,0.3,2,6.0,2021-06-09,Indonesia
+PLG-10243,44.0,Perempuan,Bandung,Premium,100,Tahunan,31,542,16402.0,,Tidak,Tidak,1.2,2,6.0,2023-11-22,Indonesia
+PLG-10245,38.0,Laki-laki,Bandung,Basic,10,Bulanan,4,202,804.0,E-Wallet,Tidak,Tidak,0.9,0,10.0,2026-02-12,Indonesia
+PLG-10251,24.0,Laki-laki,Jakarta,Standar,30,Bulanan,2,334,655.0,Transfer Bank,Ya,Tidak,0.2,1,,2026-04-07,Indonesia
+PLG-10254,35.0,Perempuan,Bandung,Premium,100,Bulanan,17,550,8934.0,Kartu Kredit,Ya,Tidak,2.5,3,5.0,2025-01-04,Indonesia
+PLG-10259,22.0,Laki-laki,Surabaya,Basic,10,Bulanan,6,193,1157.0,Kartu Kredit,Ya,Tidak,2.1,1,8.0,2025-12-11,Indonesia
+PLG-10261,35.0,Laki-laki,Medan,Standar,30,2 Tahun,16,418,6754.0,Transfer Bank,Tidak,Ya,2.7,2,8.0,2025-02-22,Indonesia
+PLG-10263,22.0,Perempuan,Denpasar,Basic,10,Bulanan,2,262,525.0,E-Wallet,Tidak,Ya,3.3,1,5.0,2026-04-03,Indonesia
+PLG-10265,42.0,Laki-laki,Surabaya,Standar,30,Bulanan,5,421,2094.0,Transfer Bank,Tidak,Ya,1.7,2,7.0,2026-01-28,Indonesia
+PLG-10266,38.0,Laki-laki,denpasar,Premium,100,Bulanan,1,564,575.0,E-Wallet,Tidak,Tidak,0.6,1,,2026-05-29,Indonesia
+PLG-10270,33.0,Laki-laki,Surabaya ,Standar,30,Bulanan,8,341,2721.0,Kartu Kredit,Ya,Tidak,1.1,1,8.0,2025-10-07,Indonesia
+PLG-10271,49.0,Perempuan,Makassar,Standar,30,Bulanan,11,324,3678.0,E-Wallet,Tidak,Tidak,2.8,0,,2025-07-10,Indonesia
+PLG-10279,18.0,Laki-laki,Jakarta,Premium,100,Bulanan,19,546,10794.0,Minimarket,Tidak,Tidak,0.3,0,8.0,2024-11-09,Indonesia
+PLG-10283,46.0,Laki-laki,Jakarta,Standar,30,2 Tahun,21,328,6726.0,Transfer Bank,Tidak,Tidak,0.2,0,9.0,2024-09-09,Indonesia
+PLG-10288,38.0,Perempuan,Jakarta,Basic,10,Tahunan,9,207,1877.0,E-Wallet,Ya,Tidak,1.4,0,7.0,2025-09-20,Indonesia
+PLG-10289,37.0,Perempuan,Jakarta,Basic,10,Tahunan,36,207,7319.0,Transfer Bank,Tidak,Tidak,0.0,0,8.0,2023-06-23,Indonesia
+PLG-10295,29.0,Laki-laki,Jakarta,Standar,30,Bulanan,8,333,2576.0,Minimarket,Tidak,Tidak,3.1,1,8.0,2025-10-14,Indonesia
+PLG-10303,50.0,Perempuan,Makassar,Standar,30,Bulanan,9,327,,Minimarket,Tidak,Tidak,0.4,0,7.0,2025-09-15,Indonesia
+PLG-10309,21.0,Perempuan,Makassar,Standar,30,2 Tahun,45,333,15493.0,Transfer Bank,Tidak,Tidak,2.6,4,5.0,2022-09-28,Indonesia
+PLG-10312,40.0,Laki-laki,Jakarta,Basic,10,Tahunan,17,184,3026.0,Minimarket,Tidak,Tidak,4.2,2,4.0,2025-01-29,Indonesia
+PLG-10313,47.0,Perempuan,Semarang,Basic,10,Bulanan,12,205,2542.0,Transfer Bank,Tidak,Tidak,1.5,0,7.0,2025-06-23,Indonesia
+PLG-10320,33.0,Laki-laki,Bandung,Basic,10,Bulanan,36,271,9321.0,Transfer Bank,Ya,Ya,0.3,0,8.0,2023-06-20,Indonesia
+PLG-10326,,Perempuan,Yogyakarta,Premium,100,Bulanan,7,633,4286.0,Transfer Bank,Tidak,Ya,0.3,1,8.0,2025-11-25,Indonesia
+PLG-10334,25.0,Laki-laki,Makassar,Standar,30,Bulanan,10,326,3260.0,Minimarket,Tidak,Tidak,0.9,0,7.0,2025-08-18,Indonesia
+PLG-10337,29.0,Laki-laki,Makassar,Standar,30,Tahunan,42,402,16040.0,Minimarket,Tidak,Ya,6.1,0,6.0,2022-12-16,Indonesia
+PLG-10341,50.0,Perempuan,Yogyakarta,Basic,10,Bulanan,7,189,1382.0,Transfer Bank,Ya,Tidak,0.3,0,6.0,2025-11-22,Indonesia
+PLG-10345,38.0,Laki-laki,Surabaya,Basic,10,Tahunan,21,207,4554.0,Kartu Kredit,Ya,Tidak,3.8,5,4.0,2024-09-11,Indonesia
+PLG-10346,29.0,Laki-laki,Makassar,Standar,30,Bulanan,14,420,6094.0,Transfer Bank,Tidak,Ya,5.8,3,3.0,2025-04-22,Indonesia
+PLG-10351,59.0,Laki-laki,Bandung,Basic,10,Bulanan,36,191,6669.0,Transfer Bank,Tidak,Tidak,0.3,0,9.0,2023-06-20,Indonesia
+PLG-10357,39.0,Laki-laki,Surabaya,Basic,10,Tahunan,18,284,5307.0,Transfer Bank,Ya,Ya,1.5,0,9.0,2024-12-10,Indonesia
+PLG-10359,45.0,Perempuan,Denpasar,Standar,30,Tahunan,41,338,14140.0,Kartu Kredit,Tidak,Tidak,0.4,0,6.0,2023-01-20,Indonesia
+PLG-10360,38.0,Laki-laki,Bandung,Basic,10,Tahunan,9,219,2027.0,Transfer Bank,Ya,Tidak,2.4,1,8.0,2025-09-18,Indonesia
+PLG-10364,36.0,Perempuan,Jakarta ,Basic,10,2 Tahun,38,182,6834.0,Minimarket,Tidak,Tidak,0.7,0,8.0,2023-04-28,Indonesia
+PLG-10369,48.0,Perempuan,Jakarta,Standar,30,2 Tahun,62,337,19974.0,Transfer Bank,Ya,Tidak,0.2,0,9.0,2021-04-03,Indonesia
+PLG-10373,41.0,Perempuan,Yogyakarta,Basic,10,Bulanan,7,284,1898.0,E-Wallet,Tidak,Ya,0.5,0,9.0,2025-11-14,Indonesia
+PLG-10375,42.0,Perempuan,Jakarta,Premium,100,2 Tahun,72,628,45783.0,E-Wallet,Ya,Ya,3.8,6,,2020-06-06,Indonesia
+PLG-10387,31.0,Laki-laki,Surabaya,Standar,30,Tahunan,57,341,19742.0,E-Wallet,Ya,Tidak,2.0,2,5.0,2021-09-24,Indonesia
+PLG-10389,42.0,Laki-laki,Jakarta,Basic,10,Bulanan,5,298,1466.0,Minimarket,Tidak,Ya,2.1,1,8.0,2026-01-24,Indonesia
+PLG-10390,59.0,Laki-laki,Jakarta,Standar,30,Tahunan,20,338,7048.0,Minimarket,Tidak,Tidak,1.7,0,7.0,2024-10-25,Indonesia
+PLG-10394,24.0,Laki-laki,Bandung,Basic,10,Bulanan,3,186,550.0,Minimarket,Tidak,Tidak,0.8,0,,2026-03-18,Indonesia
+PLG-10395,32.0,Perempuan,Medan,Standar,30,2 Tahun,19,325,6383.0,Minimarket,Tidak,Tidak,0.6,0,6.0,2024-11-02,Indonesia
+PLG-10396,42.0,Laki-laki,Jakarta,Standar,30,2 Tahun,46,402,,Transfer Bank,Tidak,Ya,0.6,0,7.0,2022-08-13,Indonesia
+PLG-10397,38.0,Perempuan,Medan,Standar,30,Bulanan,6,426,2622.0,E-Wallet,Tidak,Ya,0.3,0,6.0,2025-12-17,Indonesia
+PLG-10399,28.0,Perempuan,Jakarta,Standar,30,Bulanan,9,419,3669.0,E-Wallet,Tidak,Ya,2.8,1,8.0,2025-09-26,Indonesia
+PLG-10402,23.0,Laki-laki,Surabaya,Basic,10,Bulanan,4,206,800.0,Minimarket,Tidak,Tidak,1.6,1,7.0,2026-02-06,Indonesia
+PLG-10407,29.0,Laki-laki,Semarang,Standar,30,Tahunan,25,328,8352.0,Transfer Bank,Tidak,Tidak,2.3,2,4.0,2024-05-04,Indonesia
+PLG-10412,,Laki-laki,Jakarta,Basic,10,Bulanan,7,182,1226.0,Kartu Kredit,Ya,Tidak,1.8,3,5.0,2025-11-09,Indonesia
+PLG-10413,45.0,Perempuan,Bandung,Standar,30,Tahunan,34,416,14040.0,E-Wallet,Tidak,Ya,0.7,1,8.0,2023-08-28,Indonesia
+PLG-10416,29.0,Perempuan,Jakarta,Basic,10,2 Tahun,8,200,1671.0,E-Wallet,Tidak,Tidak,0.5,1,8.0,2025-10-15,Indonesia
+PLG-10419,31.0,Perempuan,Jakarta,Standar,30,Bulanan,11,416,4629.0,Kartu Kredit,Ya,Ya,1.4,0,7.0,2025-07-19,Indonesia
+PLG-10420,43.0,Perempuan,Jakarta,Premium,100,Bulanan,27,640,17980.0,Minimarket,Tidak,Ya,1.3,3,,2024-03-30,Indonesia
+PLG-10424,37.0,Laki-laki,Semarang,Basic,10,Bulanan,6,184,1111.0,Kartu Kredit,Tidak,Tidak,0.2,0,9.0,2025-12-05,Indonesia
+PLG-10425,30.0,Perempuan,Denpasar,Basic,10,Bulanan,2,294,589.0,Transfer Bank,Tidak,Ya,0.7,0,8.0,2026-04-08,Indonesia
+PLG-10429,52.0,Perempuan,Bandung,Basic,10,Bulanan,4,202,781.0,Kartu Kredit,Ya,Tidak,3.3,3,5.0,2026-02-05,Indonesia
+PLG-10430,47.0,Perempuan,Semarang,Premium,100,Bulanan,41,552,21771.0,Transfer Bank,Tidak,Tidak,3.5,4,4.0,2023-01-23,Indonesia
+PLG-10431,24.0,Laki-laki,Surabaya,Standar,30,Bulanan,15,423,6625.0,Transfer Bank,Tidak,Ya,1.6,1,7.0,2025-03-15,Indonesia
+PLG-10433,35.0,Laki-laki,Semarang,Standar,30,Bulanan,10,352,3389.0,Transfer Bank,Tidak,Tidak,0.9,0,10.0,2025-08-05,Indonesia
+PLG-10434,49.0,Laki-laki,Jakarta,Standar,30,Bulanan,20,432,,E-Wallet,Tidak,Ya,2.5,0,9.0,2024-10-29,Indonesia
+PLG-10435,37.0,Laki-laki,Jakarta,Premium,100,Tahunan,38,544,21121.0,Kartu Kredit,Ya,Tidak,1.4,2,8.0,2023-04-25,Indonesia
+PLG-10438,36.0,Perempuan,Bandung,Premium,100,Bulanan,10,562,5507.0,Minimarket,Tidak,Tidak,1.7,0,,2025-08-07,Indonesia
+PLG-10446,38.0,Perempuan,Medan,Basic,10,Bulanan,23,200,4713.0,Transfer Bank,Tidak,Tidak,1.1,3,8.0,2024-07-20,Indonesia
+PLG-10447,33.0,Laki-laki,Bandung,Basic,10,2 Tahun,42,193,7868.0,Transfer Bank,Ya,Tidak,3.0,1,,2022-12-29,Indonesia
+PLG-10450,45.0,Laki-laki,Surabaya,Basic,10,Tahunan,34,198,6753.0,Minimarket,Tidak,Tidak,0.3,0,5.0,2023-08-13,Indonesia
+PLG-10456,,Perempuan,Bandung,Standar,30,Bulanan,7,318,2242.0,Transfer Bank,Ya,Tidak,2.6,2,3.0,2025-11-23,Indonesia
+PLG-10459,68.0,Laki-laki,Medan,Standar,30,Bulanan,6,406,2408.0,Kartu Kredit,Tidak,Ya,3.3,0,7.0,2025-12-02,Indonesia
+PLG-10461,32.0,Perempuan,Makassar,Basic,10,2 Tahun,40,195,7595.0,Transfer Bank,Tidak,Tidak,1.8,0,5.0,2023-02-15,Indonesia
+PLG-10464,34.0,Laki-laki,Surabaya,Standar,30,Bulanan,8,405,3297.0,Transfer Bank,Tidak,Ya,1.1,4,5.0,2025-10-09,Indonesia
+PLG-10472,38.0,Laki-laki,Bandung,Standar,30,Bulanan,12,423,5318.0,E-Wallet,Ya,Ya,1.5,0,5.0,2025-06-24,Indonesia
+PLG-10474,52.0,Perempuan,Jakarta,Basic,10,Bulanan,24,187,4442.0,Transfer Bank,Tidak,Tidak,0.3,0,7.0,2024-06-06,Indonesia
+PLG-10477,43.0,Perempuan,Jakarta,Basic,10,2 Tahun,72,221,15505.0,Kartu Kredit,Ya,Tidak,0.6,1,,2020-06-05,Indonesia
+PLG-10478,38.0,Perempuan,Bandung,Basic,10,Bulanan,15,197,3032.0,E-Wallet,Ya,Tidak,0.5,1,,2025-03-22,Indonesia
+PLG-10479,59.0,Laki-laki,Semarang,Standar,30,2 Tahun,8,320,2683.0,E-Wallet,Tidak,Tidak,0.7,0,5.0,2025-10-13,Indonesia
+PLG-10481,32.0,Perempuan,MEDAN,Basic,10,2 Tahun,72,288,19947.0,E-Wallet,Ya,Ya,1.0,2,,2020-06-27,Indonesia
+PLG-10482,37.0,Perempuan,Medan,Basic,10,Bulanan,3,294,841.0,Transfer Bank,Tidak,Ya,1.4,2,8.0,2026-03-29,Indonesia
+PLG-10484,29.0,Laki-laki,Surabaya,Premium,100,Bulanan,35,631,23057.0,Kartu Kredit,Ya,Ya,0.5,0,8.0,2023-07-13,Indonesia
+PLG-10487,52.0,Perempuan,Semarang,Basic,10,Tahunan,25,187,4680.0,E-Wallet,Tidak,Tidak,2.3,0,7.0,2024-05-27,Indonesia
+PLG-10490,,Perempuan,Medan,Basic,10,Bulanan,26,197,5028.0,Transfer Bank,Ya,Tidak,1.5,0,,2024-04-28,Indonesia
+PLG-10491,24.0,Laki-laki,Jakarta,Basic,10,Bulanan,10,294,2978.0,Minimarket,Tidak,Ya,0.5,1,9.0,2025-08-27,Indonesia
+PLG-10492,43.0,Laki-laki,Surabaya,Basic,10,Tahunan,42,279,11659.0,E-Wallet,Tidak,Ya,3.1,3,5.0,2022-12-27,Indonesia
+PLG-10496,23.0,Perempuan,Bandung,Premium,100,Tahunan,34,534,19021.0,E-Wallet,Ya,Tidak,0.6,1,6.0,2023-08-03,Indonesia
+PLG-10499,33.0,Laki-laki,Makassar,Basic,10,Bulanan,16,207,3404.0,Transfer Bank,Tidak,Tidak,0.2,1,10.0,2025-02-19,Indonesia
+PLG-10500,39.0,Laki-laki,Bandung,Basic,10,Bulanan,7,177,1271.0,Transfer Bank,Ya,Tidak,1.5,1,4.0,2025-11-17,Indonesia
+PLG-10504,21.0,Laki-laki,Medan,Basic,10,Bulanan,5,188,987.0,E-Wallet,Tidak,Tidak,2.4,1,8.0,2026-01-13,Indonesia
+PLG-10509,36.0,Perempuan,Semarang,Standar,30,Bulanan,21,331,6794.0,Kartu Kredit,Ya,Tidak,0.7,0,9.0,2024-09-09,Indonesia
+PLG-10511,40.0,Laki-laki,Medan,Basic,10,Bulanan,6,277,1693.0,Transfer Bank,Tidak,Ya,2.7,3,3.0,2025-12-25,Indonesia
+PLG-10513,38.0,Laki-laki,Bandung,Basic,10,Tahunan,72,191,14067.0,E-Wallet,Ya,Tidak,1.8,2,6.0,2020-06-23,Indonesia
+PLG-10515,,Laki-laki,Surabaya,Basic,10,Tahunan,37,190,7243.0,Kartu Kredit,Ya,Tidak,0.7,0,7.0,2023-05-12,Indonesia
+PLG-10519,45.0,Perempuan,Semarang,Standar,30,Tahunan,31,311,9753.0,Minimarket,Tidak,Tidak,1.3,2,,2023-11-12,Indonesia
+PLG-10521,18.0,Perempuan,Semarang,Standar,30,Bulanan,16,329,5248.0,E-Wallet,Ya,Tidak,2.4,1,7.0,2025-02-25,Indonesia
+PLG-10522,,Perempuan,Jakarta,Basic,10,Tahunan,55,192,10760.0,Minimarket,Tidak,Tidak,2.7,2,6.0,2021-11-29,Indonesia
+PLG-10528,51.0,Perempuan,Surabaya,Standar,30,2 Tahun,4,304,1230.0,Minimarket,Tidak,Tidak,1.2,3,7.0,2026-02-27,Indonesia
+PLG-10529,40.0,Laki-laki,Surabaya,Basic,10,Bulanan,7,196,1399.0,Minimarket,Tidak,Tidak,0.7,0,8.0,2025-11-24,Indonesia
+PLG-10531,26.0,Perempuan,Bandung,Premium,100,Bulanan,21,556,11443.0,Kartu Kredit,Ya,Tidak,0.6,1,6.0,2024-09-24,Indonesia
+PLG-10532,25.0,Laki-laki,Jakarta,Premium,100,Bulanan,7,614,4113.0,Minimarket,Tidak,Ya,2.0,0,,2025-11-06,Indonesia
+PLG-10534,66.0,Perempuan,Jakarta ,Basic,10,Bulanan,5,188,911.0,Transfer Bank,Tidak,Tidak,0.9,1,7.0,2026-01-12,Indonesia
+PLG-10538,58.0,Laki-laki,Bandung,Basic,10,2 Tahun,14,209,2824.0,E-Wallet,Tidak,Tidak,1.2,3,5.0,2025-04-28,Indonesia
+PLG-10540,40.0,Perempuan,Surabaya,Standar,30,Bulanan,10,332,3330.0,Minimarket,Tidak,Tidak,0.3,1,6.0,2025-08-29,Indonesia
+PLG-10544,35.0,Laki-laki,Jakarta,Standar,30,Tahunan,16,341,5716.0,Minimarket,Tidak,Tidak,0.3,0,,2025-02-16,Indonesia
+PLG-10550,65.0,Laki-laki,Bandung,Basic,10,2 Tahun,72,197,14864.0,E-Wallet,Ya,Tidak,6.3,2,5.0,2020-06-09,Indonesia
+PLG-10551,42.0,Laki-laki,Makassar,Basic,10,2 Tahun,72,288,19787.0,Kartu Kredit,Ya,Ya,5.8,3,,2020-06-26,Indonesia
+PLG-10554,,Perempuan,Jakarta,Standar,30,Bulanan,22,312,,Minimarket,Tidak,Tidak,1.1,0,6.0,2024-08-18,Indonesia
+PLG-10555,34.0,Laki-laki,Bandung,Standar,30,Tahunan,45,350,15407.0,,Tidak,Tidak,4.4,1,5.0,2022-09-26,Indonesia
+PLG-10558,,Laki-laki,Medan,Basic,10,Tahunan,5,204,980.0,Transfer Bank,Ya,Tidak,3.7,3,6.0,2026-01-07,Indonesia
+PLG-10561,53.0,Perempuan,Surabaya,Premium,100,Bulanan,9,655,5912.0,Transfer Bank,Ya,Ya,1.0,0,4.0,2025-09-18,Indonesia
+PLG-10562,30.0,Laki-laki,Jakarta,Standar,30,Bulanan,8,330,2747.0,E-Wallet,Tidak,Tidak,0.4,0,8.0,2025-10-29,Indonesia
+PLG-10564,51.0,Perempuan,Makassar,Standar,30,2 Tahun,16,346,5624.0,Transfer Bank,Tidak,Tidak,0.7,0,5.0,2025-02-02,Indonesia
+PLG-10565,23.0,Laki-laki,Medan,Basic,10,Bulanan,3,267,829.0,E-Wallet,Ya,Ya,0.9,0,9.0,2026-03-09,Indonesia
+PLG-10569,51.0,Laki-laki,Denpasar,Basic,10,Bulanan,4,181,747.0,Kartu Kredit,Tidak,Tidak,2.1,1,6.0,2026-02-26,Indonesia
+PLG-10571,38.0,Laki-laki,Jakarta,Premium,100,Bulanan,22,618,14045.0,E-Wallet,Ya,Ya,0.7,0,9.0,2024-08-26,Indonesia
+PLG-10574,39.0,Laki-laki,Bandung,Basic,10,Tahunan,72,190,13506.0,E-Wallet,Ya,Tidak,0.9,1,8.0,2020-06-18,Indonesia
+PLG-10576,41.0,Laki-laki,Bandung,Premium,100,Tahunan,68,577,40223.0,Kartu Kredit,Ya,Tidak,1.0,1,7.0,2020-10-07,Indonesia
+PLG-10580,56.0,Perempuan,Semarang,Basic,10,2 Tahun,46,207,9103.0,E-Wallet,Tidak,Tidak,1.7,1,6.0,2022-08-14,Indonesia
+PLG-10581,24.0,Perempuan,Jakarta,Standar,30,Tahunan,26,356,9522.0,Kartu Kredit,Ya,Tidak,0.9,0,10.0,2024-04-12,Indonesia
+PLG-10582,22.0,Laki-laki,Makassar,Basic,10,Tahunan,21,281,5984.0,Transfer Bank,Tidak,Ya,2.1,4,7.0,2024-09-09,Indonesia
+PLG-10586,43.0,Perempuan,Bandung,Standar,30,Tahunan,42,417,16776.0,Minimarket,Tidak,Ya,3.5,1,6.0,2022-12-20,Indonesia
+PLG-10587,26.0,Perempuan,Denpasar,Standar,30,Bulanan,6,304,1902.0,Transfer Bank,Tidak,Tidak,1.4,1,7.0,2025-12-03,Indonesia
+PLG-10589,37.0,Perempuan,Bandung,Standar,30,Bulanan,13,445,5527.0,Transfer Bank,Ya,Ya,2.0,0,8.0,2025-05-28,Indonesia
+PLG-10590,47.0,Perempuan,Surabaya,Standar,30,Tahunan,45,414,18679.0,E-Wallet,Tidak,Ya,1.6,2,5.0,2022-09-16,Indonesia
+PLG-10594,50.0,Laki-laki,Jakarta,Standar,30,2 Tahun,19,394,7749.0,Minimarket,Tidak,Ya,2.0,1,6.0,2024-11-28,Indonesia
+PLG-10595,41.0,Laki-laki,Jakarta,Standar,30,2 Tahun,72,329,24234.0,E-Wallet,Tidak,Tidak,1.2,0,8.0,2020-06-13,Indonesia
+PLG-10596,28.0,Perempuan,Denpasar,Basic,10,Bulanan,4,266,1012.0,E-Wallet,Tidak,Ya,3.5,2,5.0,2026-02-17,Indonesia
+PLG-10598,38.0,Perempuan,Surabaya,Basic,10,2 Tahun,8,210,1675.0,E-Wallet,Ya,Tidak,2.3,1,6.0,2025-10-23,Indonesia
+PLG-10600,40.0,Perempuan,Denpasar,Premium,100,Bulanan,4,558,2142.0,E-Wallet,Tidak,Tidak,3.2,3,,2026-02-03,Indonesia
+PLG-10602,30.0,Laki-laki,Bandung,Standar,30,Bulanan,28,325,8660.0,E-Wallet,Tidak,Tidak,3.4,0,,2024-02-14,Indonesia
+PLG-10603,32.0,Perempuan,Surabaya,Basic,10,Tahunan,22,211,4557.0,Minimarket,Tidak,Tidak,0.9,1,6.0,2024-08-20,Indonesia
+PLG-10605,21.0,Perempuan,Jakarta,Standar,30,2 Tahun,53,405,22027.0,E-Wallet,Tidak,Ya,6.9,2,,2022-01-25,Indonesia
+PLG-10606,34.0,Laki-laki,Denpasar,Premium,100,Tahunan,45,555,23980.0,E-Wallet,Tidak,Tidak,1.0,0,,2022-09-26,Indonesia
+PLG-10615,46.0,Laki-laki,Jakarta,Premium,100,Bulanan,17,534,9085.0,E-Wallet,Tidak,Tidak,0.7,0,,2025-01-11,Indonesia
+PLG-10616,32.0,Perempuan,Semarang,Basic,10,Tahunan,17,206,3328.0,Kartu Kredit,Ya,Tidak,0.2,0,9.0,2025-01-05,Indonesia
+PLG-10619,50.0,Laki-laki,Makassar,Standar,30,Tahunan,25,322,7721.0,E-Wallet,Tidak,Tidak,0.6,2,8.0,2024-05-22,Indonesia
+PLG-10622,21.0,Perempuan,Bandung,Standar,30,Tahunan,34,334,11739.0,Transfer Bank,Tidak,Tidak,1.0,0,8.0,2023-08-13,Indonesia
+PLG-10630,24.0,Perempuan,Jakarta,Standar,30,Bulanan,14,434,5937.0,E-Wallet,Tidak,Ya,2.5,6,3.0,2025-04-27,Indonesia
+PLG-10631,34.0,Perempuan,Bandung,Basic,10,Bulanan,8,285,2245.0,Minimarket,Tidak,Ya,2.7,4,5.0,2025-10-16,Indonesia
+PLG-10647,47.0,Laki-laki,Yogyakarta,Premium,100,Tahunan,17,645,10940.0,Transfer Bank,Ya,Ya,0.7,1,8.0,2025-01-16,Indonesia
+PLG-10652,18.0,Perempuan,Denpasar,Standar,30,Bulanan,10,417,4294.0,Transfer Bank,Ya,Ya,1.7,4,7.0,2025-08-24,Indonesia
+PLG-10654,49.0,Perempuan,Bandung,Standar,30,Bulanan,18,417,7143.0,Transfer Bank,Tidak,Ya,1.4,0,4.0,2024-12-06,Indonesia
+PLG-10660,32.0,Perempuan,Jakarta,Premium,100,Tahunan,22,533,11580.0,,Tidak,Tidak,0.2,0,6.0,2024-08-08,Indonesia
+PLG-10662,63.0,Perempuan,Jakarta,Standar,30,Tahunan,36,311,11070.0,Kartu Kredit,Ya,Tidak,2.7,1,9.0,2023-06-25,Indonesia
+PLG-10663,39.0,Perempuan,Bandung,Basic,10,2 Tahun,35,203,6992.0,Minimarket,Tidak,Tidak,1.2,3,7.0,2023-07-07,Indonesia
+PLG-10667,47.0,Perempuan,Bandung,Basic,10,Tahunan,23,199,4442.0,E-Wallet,Ya,Tidak,0.9,1,7.0,2024-07-19,Indonesia
+PLG-10668,47.0,Laki-laki,Denpasar,Standar,30,Tahunan,65,336,22839.0,Transfer Bank,Ya,Tidak,3.0,4,5.0,2021-01-27,Indonesia
+PLG-10670,36.0,Laki-laki,Yogyakarta,Premium,100,Bulanan,20,556,11376.0,QRIS,Tidak,Tidak,2.2,2,8.0,2024-10-29,Indonesia
+PLG-10672,43.0,Laki-laki,Makassar,Premium,100,2 Tahun,35,636,22866.0,Transfer Bank,Tidak,Ya,0.6,0,7.0,2023-07-05,Indonesia
+PLG-10677,35.0,Laki-laki,Denpasar,Standar,30,Bulanan,2,327,659.0,Minimarket,Tidak,Tidak,1.4,2,6.0,2026-04-29,Indonesia
+PLG-10679,45.0,Laki-laki,Surabaya,Standar,30,Tahunan,6,430,2683.0,Minimarket,Tidak,Ya,1.0,0,8.0,2025-12-24,Indonesia
+PLG-10681,21.0,Laki-laki,Makassar,Standar,30,Bulanan,5,336,1754.0,E-Wallet,Tidak,Tidak,2.9,3,,2026-01-19,Indonesia
+PLG-10684,37.0,Perempuan,Surabaya,Premium,100,Tahunan,72,628,44887.0,E-Wallet,Ya,Ya,3.1,0,6.0,2020-06-18,Indonesia
+PLG-10688,43.0,Perempuan,Makassar,Basic,10,Bulanan,41,257,10986.0,Transfer Bank,Ya,Ya,2.9,0,9.0,2023-01-04,Indonesia
+PLG-10693,31.0,Laki-laki,Jakarta,Premium,100,Tahunan,32,578,18373.0,E-Wallet,Tidak,Tidak,1.0,1,6.0,2023-10-13,Indonesia
+PLG-10697,46.0,Perempuan,Surabaya,Premium,100,Bulanan,7,547,3707.0,Minimarket,Tidak,Tidak,1.6,0,,2025-11-25,Indonesia
+PLG-10701,22.0,Laki-laki,Surabaya,Basic,10,Bulanan,17,198,3352.0,Kartu Kredit,Ya,Tidak,3.9,5,4.0,2025-01-04,Indonesia
+PLG-10704,18.0,Laki-laki,Surabaya,Standar,30,Bulanan,14,335,4764.0,Transfer Bank,Tidak,Tidak,0.5,1,7.0,2025-04-22,Indonesia
+PLG-10705,18.0,Laki-laki,Medan,Standar,30,Bulanan,7,401,2927.0,Kartu Kredit,Tidak,Ya,1.9,1,4.0,2025-11-13,Indonesia
+PLG-10706,42.0,Perempuan,Medan,Standar,30,Bulanan,6,324,1998.0,Transfer Bank,Tidak,Tidak,6.3,1,7.0,2025-12-07,Indonesia
+PLG-10708,30.0,Perempuan,Jakarta,Basic,10,Tahunan,45,209,9359.0,Minimarket,Tidak,Tidak,1.8,1,6.0,2022-09-25,Indonesia
+PLG-10709,41.0,Perempuan,Jakarta,Standar,30,Bulanan,16,357,5647.0,Transfer Bank,Ya,Tidak,0.6,1,9.0,2025-02-07,Indonesia
+PLG-10711,44.0,Laki-laki,Jakarta,Standar,30,Bulanan,10,411,,Transfer Bank,Ya,Ya,1.1,2,,2025-08-14,Indonesia
+PLG-10715,39.0,Laki-laki,Medan,Standar,30,2 Tahun,11,315,3361.0,E-Wallet,Tidak,Tidak,0.8,2,7.0,2025-07-23,Indonesia
+PLG-10720,33.0,Perempuan,Bandung,Basic,10,2 Tahun,43,203,8804.0,,Tidak,Tidak,1.0,0,5.0,2022-11-29,Indonesia
+PLG-10721,35.0,Laki-laki,Medan,Basic,10,2 Tahun,29,276,8378.0,E-Wallet,Tidak,Ya,1.9,0,,2024-01-04,Indonesia
+PLG-10727,20.0,Laki-laki,Bandung,Basic,10,Bulanan,7,193,1321.0,QRIS,Tidak,Tidak,1.0,0,8.0,2025-11-18,Indonesia
+PLG-10728,40.0,Laki-laki,Surabaya,Premium,100,2 Tahun,15,536,8322.0,E-Wallet,Ya,Tidak,2.0,3,6.0,2025-03-04,Indonesia
+PLG-10729,33.0,Perempuan,Bandung,Standar,30,Tahunan,29,319,9706.0,QRIS,Tidak,Tidak,1.2,0,,2024-01-08,Indonesia
+PLG-10731,44.0,Perempuan,Medan,Premium,100,2 Tahun,58,614,37236.0,Transfer Bank,Ya,Ya,3.3,1,,2021-08-14,Indonesia
+PLG-10740,34.0,Laki-laki,Makassar,Standar,30,Bulanan,21,324,7049.0,Transfer Bank,Ya,Tidak,1.6,1,6.0,2024-09-02,Indonesia
+PLG-10742,46.0,Laki-laki,Yogyakarta,Basic,10,Bulanan,16,192,2995.0,E-Wallet,Tidak,Tidak,1.4,0,7.0,2025-02-03,Indonesia
+PLG-10752,47.0,Perempuan,Semarang,Standar,30,Bulanan,4,316,1211.0,Transfer Bank,Tidak,Tidak,1.9,1,8.0,2026-02-18,Indonesia
+PLG-10753,26.0,Perempuan,Bandung,Basic,10,2 Tahun,19,188,3678.0,Kartu Kredit,Ya,Tidak,1.0,1,7.0,2024-11-04,Indonesia
+PLG-10756,41.0,Perempuan,Bandung,Standar,30,Tahunan,34,337,11476.0,E-Wallet,Ya,Tidak,0.1,1,8.0,2023-08-07,Indonesia
+PLG-10763,18.0,Perempuan,Jakarta,Premium,100,Bulanan,2,569,1135.0,Kartu Kredit,Tidak,Tidak,2.3,2,6.0,2026-04-06,Indonesia
+PLG-10764,64.0,Laki-laki,Jakarta,Basic,10,Bulanan,3,195,600.0,Transfer Bank,Tidak,Tidak,0.6,0,8.0,2026-03-20,Indonesia
+PLG-10769,48.0,Laki-laki,Bandung,Basic,10,2 Tahun,14,274,3951.0,Minimarket,Tidak,Ya,0.5,1,7.0,2025-04-13,Indonesia
+PLG-10772,35.0,Laki-laki,Yogyakarta,Standar,30,Tahunan,52,426,21188.0,E-Wallet,Ya,Ya,0.7,0,9.0,2022-02-14,Indonesia
+PLG-10779,22.0,Perempuan,Bandung,Standar,30,Bulanan,31,321,9834.0,Transfer Bank,Tidak,Tidak,1.2,1,10.0,2023-11-03,Indonesia
+PLG-10788,32.0,Perempuan,Jakarta,Premium,100,Bulanan,12,644,7424.0,Minimarket,Tidak,Ya,1.3,3,6.0,2025-06-24,Indonesia
+PLG-10793,23.0,Perempuan,Semarang,Premium,100,Tahunan,14,540,7220.0,E-Wallet,Tidak,Tidak,2.0,4,5.0,2025-04-20,Indonesia
+PLG-10799,22.0,Laki-laki,Yogyakarta,Premium,100,Bulanan,4,550,2273.0,Minimarket,Tidak,Tidak,0.1,1,6.0,2026-02-20,Indonesia
+PLG-10803,48.0,Perempuan,Denpasar,Premium,100,2 Tahun,72,570,41953.0,E-Wallet,Tidak,Tidak,1.8,0,6.0,2020-06-07,Indonesia
+PLG-10805,21.0,Laki-laki,Semarang,Standar,30,Bulanan,3,317,917.0,E-Wallet,Ya,Tidak,0.7,1,8.0,2026-03-09,Indonesia
+PLG-10811,41.0,Perempuan,Surabaya,Basic,10,2 Tahun,24,195,4895.0,E-Wallet,Tidak,Tidak,0.1,0,9.0,2024-06-26,Indonesia
+PLG-10832,44.0,Perempuan,Jakarta,Standar,30,2 Tahun,54,321,16842.0,E-Wallet,Tidak,Tidak,0.9,1,8.0,2021-12-18,Indonesia
+PLG-10835,38.0,Laki-laki,Yogyakarta,Basic,10,Tahunan,20,187,3810.0,Minimarket,Tidak,Tidak,1.3,1,7.0,2024-10-23,Indonesia
+PLG-10838,52.0,Laki-laki,Jakarta,Basic,10,Bulanan,19,291,5342.0,Transfer Bank,Tidak,Ya,0.5,1,6.0,2024-11-07,Indonesia
+PLG-10842,30.0,Perempuan,Yogyakarta,Standar,30,Bulanan,5,322,1584.0,,Ya,Tidak,1.7,0,,2026-01-27,Indonesia
+PLG-10843,34.0,Laki-laki,Jakarta,Premium,100,Bulanan,7,567,3803.0,Transfer Bank,Tidak,Tidak,1.5,0,7.0,2025-11-04,Indonesia
+PLG-10847,28.0,Perempuan,Jakarta,Premium,100,2 Tahun,72,653,46894.0,E-Wallet,Tidak,Ya,0.8,0,7.0,2020-06-05,Indonesia
+PLG-10859,25.0,Perempuan,Yogyakarta,Basic,10,Bulanan,9,191,1757.0,E-Wallet,Tidak,Tidak,2.3,3,6.0,2025-09-04,Indonesia
+PLG-10860,40.0,Perempuan,Jakarta ,Basic,10,Tahunan,43,209,8579.0,Transfer Bank,Tidak,Tidak,2.5,1,6.0,2022-11-21,Indonesia
+PLG-10863,45.0,Laki-laki,Medan,Premium,100,Tahunan,24,542,13264.0,Kartu Kredit,Ya,Tidak,2.4,1,7.0,2024-06-09,Indonesia
+PLG-10864,47.0,Perempuan,Jakarta,Basic,10,Tahunan,32,208,6434.0,E-Wallet,Tidak,Tidak,1.4,0,8.0,2023-10-15,Indonesia
+PLG-10867,38.0,Laki-laki,Yogyakarta,Standar,30,2 Tahun,55,323,18465.0,Minimarket,Tidak,Tidak,0.7,1,7.0,2021-11-26,Indonesia
+PLG-10874,37.0,Laki-laki,Jakarta,Premium,100,Tahunan,12,545,6366.0,,Ya,Tidak,1.9,2,5.0,2025-06-19,Indonesia
+PLG-10878,31.0,Perempuan,Jakarta ,Basic,10,Tahunan,7,301,2003.0,Minimarket,Tidak,Ya,1.2,3,,2025-11-08,Indonesia
+PLG-10886,39.0,Perempuan,Yogyakarta,Basic,10,Bulanan,15,202,2903.0,Minimarket,Tidak,Tidak,1.7,3,,2025-03-26,Indonesia
+PLG-10891,34.0,Perempuan,Semarang,Premium,100,Bulanan,5,549,2726.0,Kartu Kredit,Ya,Tidak,3.7,2,5.0,2026-01-27,Indonesia
+PLG-10893,35.0,Perempuan,Denpasar,Basic,10,Tahunan,26,198,5299.0,E-Wallet,Ya,Tidak,2.7,2,5.0,2024-04-24,Indonesia
+PLG-10897,22.0,Laki-laki,Denpasar,Basic,10,Bulanan,12,194,2299.0,Kartu Kredit,Ya,Tidak,0.8,1,9.0,2025-06-16,Indonesia
+PLG-10899,38.0,Laki-laki,Surabaya,Standar,30,Tahunan,39,337,13195.0,Minimarket,Tidak,Tidak,2.3,0,7.0,2023-03-30,Indonesia
+PLG-10900,28.0,Laki-laki,Jakarta,Premium,100,Tahunan,42,630,26417.0,Transfer Bank,Tidak,Ya,1.5,2,7.0,2022-12-14,Indonesia
+PLG-10901,35.0,Perempuan,Jakarta,Basic,10,Bulanan,5,180,862.0,Transfer Bank,Tidak,Tidak,3.2,2,5.0,2026-01-29,Indonesia
+PLG-10902,35.0,Perempuan,Jakarta,Basic,10,Tahunan,27,291,8170.0,E-Wallet,Tidak,Ya,0.7,0,9.0,2024-03-19,Indonesia
+PLG-10907,60.0,Perempuan,Medan,Standar,30,Bulanan,4,333,1300.0,Transfer Bank,Ya,Tidak,3.4,3,7.0,2026-02-05,Indonesia
+PLG-10910,50.0,Laki-laki,Yogyakarta,Basic,10,Bulanan,3,224,671.0,Minimarket,Tidak,Tidak,0.6,2,8.0,2026-03-23,Indonesia
+PLG-10911,28.0,Perempuan,Semarang,Standar,30,Bulanan,7,339,2428.0,Minimarket,Tidak,Tidak,2.0,0,7.0,2025-11-04,Indonesia
+PLG-10913,,Laki-laki,Yogyakarta,Basic,10,Tahunan,40,291,11626.0,Transfer Bank,Ya,Ya,0.3,0,9.0,2023-02-12,Indonesia
+PLG-10914,27.0,Perempuan,Medan,Premium,100,Bulanan,10,539,5493.0,Minimarket,Tidak,Tidak,1.3,1,8.0,2025-08-25,Indonesia
+PLG-10917,30.0,Laki-laki,Denpasar,Standar,30,Bulanan,3,338,983.0,Transfer Bank,Ya,Tidak,3.5,2,6.0,2026-03-05,Indonesia
+PLG-10919,42.0,Laki-laki,Semarang,Standar,30,2 Tahun,64,325,21736.0,E-Wallet,Tidak,Tidak,0.8,0,7.0,2021-02-11,Indonesia
+PLG-10934,31.0,Perempuan,Jakarta,Standar,30,Bulanan,7,313,2104.0,Transfer Bank,Tidak,Tidak,0.6,2,8.0,2025-11-17,Indonesia
+PLG-10935,48.0,Laki-laki,Jakarta,Basic,10,2 Tahun,72,188,13313.0,Minimarket,Tidak,Tidak,0.9,0,7.0,2020-06-23,Indonesia
+PLG-10937,40.0,Laki-laki,Bandung,Standar,30,Bulanan,7,337,2259.0,Transfer Bank,Ya,Tidak,0.8,0,,2025-11-07,Indonesia
+PLG-10938,30.0,Laki-laki,Jakarta,Basic,10,2 Tahun,65,206,13995.0,Transfer Bank,Tidak,Tidak,3.5,2,5.0,2021-01-16,Indonesia
+PLG-10940,23.0,Laki-laki,Medan,Premium,100,Bulanan,39,559,22600.0,E-Wallet,Tidak,Tidak,2.6,1,6.0,2023-03-07,Indonesia
+PLG-10946,18.0,Perempuan,Jakarta,Basic,10,Bulanan,10,208,2021.0,Transfer Bank,Tidak,Tidak,2.6,2,5.0,2025-08-28,Indonesia
+PLG-10947,18.0,Laki-laki,Jakarta,Standar,30,Tahunan,4,320,1220.0,E-Wallet,Tidak,Tidak,0.1,1,10.0,2026-02-23,Indonesia
+PLG-10951,30.0,Laki-laki,Semarang,Basic,10,Bulanan,32,207,6295.0,Transfer Bank,Ya,Tidak,0.6,2,7.0,2023-10-17,Indonesia
+PLG-10953,42.0,Laki-laki,Bandung,Standar,30,Bulanan,23,323,7184.0,Kartu Kredit,Ya,Tidak,0.5,1,,2024-07-30,Indonesia
+PLG-10959,31.0,Laki-laki,Surabaya,Premium,100,Tahunan,72,553,38197.0,Transfer Bank,Tidak,Tidak,0.6,1,9.0,2020-06-02,Indonesia
+PLG-10961,30.0,Perempuan,Surabaya,Standar,30,2 Tahun,31,428,13839.0,Transfer Bank,Ya,Ya,0.4,0,9.0,2023-11-23,Indonesia
+PLG-10968,58.0,Laki-laki,Jakarta,Basic,10,2 Tahun,37,276,10378.0,E-Wallet,Tidak,Ya,0.7,1,6.0,2023-05-24,Indonesia
+PLG-10969,22.0,Laki-laki,Jakarta,Standar,30,Bulanan,23,399,9467.0,Minimarket,Tidak,Ya,1.1,0,8.0,2024-07-15,Indonesia
+PLG-10973,34.0,Laki-laki,Jakarta,Basic,10,Bulanan,22,301,6401.0,Transfer Bank,Tidak,Ya,2.6,1,3.0,2024-08-20,Indonesia
+PLG-10974,41.0,Perempuan,Jakarta,Standar,30,2 Tahun,17,324,5334.0,Transfer Bank,Ya,Tidak,2.6,2,8.0,2025-01-17,Indonesia
+PLG-10976,32.0,Perempuan,Surabaya,Premium,100,Bulanan,24,571,13508.0,Kartu Kredit,Ya,Tidak,0.5,1,5.0,2024-06-21,Indonesia
+PLG-10977,37.0,Laki-laki,Semarang,Basic,10,Tahunan,12,265,3281.0,E-Wallet,Ya,Ya,0.3,2,8.0,2025-06-22,Indonesia
+PLG-10982,,Perempuan,Jakarta,Premium,100,Bulanan,12,624,7141.0,Kartu Kredit,Ya,Ya,0.9,0,9.0,2025-06-06,Indonesia
+PLG-10986,18.0,Perempuan,Surabaya,Standar,30,Tahunan,19,306,5622.0,E-Wallet,Ya,Tidak,0.5,2,5.0,2024-11-28,Indonesia
+PLG-10988,21.0,Laki-laki,Surabaya,Premium,100,Tahunan,11,541,5752.0,Transfer Bank,Tidak,Tidak,2.1,1,5.0,2025-07-27,Indonesia
+PLG-10998,40.0,Laki-laki,Makassar,Basic,10,2 Tahun,72,173,12695.0,Minimarket,Tidak,Tidak,0.5,0,,2020-06-14,Indonesia
+PLG-11003,36.0,Laki-laki,Denpasar,Standar,30,Bulanan,22,332,7076.0,Transfer Bank,Tidak,Tidak,1.4,0,7.0,2024-08-29,Indonesia
+PLG-11004,43.0,Perempuan,Surabaya,Standar,30,Bulanan,11,334,3838.0,,Tidak,Tidak,0.2,1,,2025-07-27,Indonesia
+PLG-11005,48.0,Laki-laki,Jakarta,Standar,30,Bulanan,2,312,631.0,Transfer Bank,Tidak,Tidak,0.3,0,9.0,2026-04-07,Indonesia
+PLG-11006,28.0,Perempuan,Jakarta,Standar,30,Tahunan,30,335,10095.0,Kartu Kredit,Ya,Tidak,0.6,0,8.0,2023-12-05,Indonesia
+PLG-11024,27.0,Laki-laki,Jakarta,Standar,30,Bulanan,7,422,2853.0,Minimarket,Tidak,Ya,1.0,2,7.0,2025-11-28,Indonesia
+PLG-11025,41.0,Perempuan,Surabaya,Basic,10,Tahunan,43,315,13151.0,E-Wallet,Ya,Ya,1.8,2,6.0,2022-11-16,Indonesia
+PLG-11029,40.0,Laki-laki,Semarang,Premium,100,Bulanan,6,545,3201.0,Minimarket,Tidak,Tidak,1.0,0,9.0,2025-12-18,Indonesia
+PLG-11032,21.0,Laki-laki,Denpasar,Premium,100,Bulanan,25,555,13407.0,Minimarket,Tidak,Tidak,2.7,1,6.0,2024-05-28,Indonesia
+PLG-11035,41.0,Laki-laki,Jakarta,Standar,30,Bulanan,4,304,1243.0,Transfer Bank,Tidak,Tidak,3.5,1,6.0,2026-02-18,Indonesia
+PLG-11042,43.0,Laki-laki,Denpasar,Standar,30,Bulanan,23,340,7986.0,Minimarket,Tidak,Tidak,2.1,1,7.0,2024-07-12,Indonesia
+PLG-11045,39.0,Perempuan,Semarang,Basic,10,Bulanan,1,203,201.0,Minimarket,Tidak,Tidak,0.9,1,10.0,2026-05-07,Indonesia
+PLG-11052,40.0,Laki-laki,Jakarta,Standar,30,Bulanan,12,317,3768.0,E-Wallet,Ya,Tidak,0.8,2,8.0,2025-06-15,Indonesia
+PLG-11055,60.0,Perempuan,Jakarta,Premium,100,2 Tahun,10,537,5494.0,Kartu Kredit,Ya,Tidak,1.1,0,8.0,2025-08-06,Indonesia
+PLG-11058,18.0,Laki-laki,Makassar,Premium,100,Bulanan,15,559,,Transfer Bank,Ya,Tidak,0.5,1,6.0,2025-03-17,Indonesia
+PLG-11061,28.0,Perempuan,Jakarta,Premium,100,Bulanan,14,553,8119.0,Transfer Bank,Tidak,Tidak,0.2,0,9.0,2025-04-04,Indonesia
+PLG-11064,42.0,Laki-laki,Surabaya,Basic,10,Bulanan,10,214,2246.0,Transfer Bank,Tidak,Tidak,1.3,0,7.0,2025-08-19,Indonesia
+PLG-11070,42.0,Perempuan,SEMARANG,Premium,100,Bulanan,30,541,16392.0,Transfer Bank,Ya,Tidak,2.0,1,8.0,2023-12-19,Indonesia
+PLG-11073,34.0,Perempuan,Jakarta,Basic,10,Tahunan,65,287,18048.0,E-Wallet,Tidak,Ya,1.7,0,7.0,2021-01-03,Indonesia
+PLG-11074,28.0,Perempuan,Bandung,Basic,10,Bulanan,26,281,7499.0,Minimarket,Tidak,Ya,0.9,0,7.0,2024-04-18,Indonesia
+PLG-11075,43.0,Laki-laki,Bandung,Standar,30,Bulanan,8,316,2535.0,E-Wallet,Tidak,Tidak,2.5,1,6.0,2025-10-21,Indonesia
+PLG-11080,56.0,Laki-laki,Yogyakarta,Standar,30,Bulanan,10,311,2964.0,E-Wallet,Ya,Tidak,4.1,1,5.0,2025-08-26,Indonesia
+PLG-11081,23.0,Perempuan,Semarang ,Premium,100,2 Tahun,16,558,9081.0,Transfer Bank,Ya,Tidak,2.7,1,6.0,2025-02-10,Indonesia
+PLG-11083,59.0,Perempuan,Surabaya,Standar,30,Bulanan,7,326,2292.0,Minimarket,Tidak,Tidak,4.2,2,,2025-11-23,Indonesia
+PLG-11089,54.0,Perempuan,Jakarta,Standar,30,2 Tahun,16,328,5047.0,Transfer Bank,Tidak,Tidak,1.3,0,6.0,2025-02-22,Indonesia
+PLG-11094,39.0,Laki-laki,Semarang,Standar,30,Tahunan,21,341,7077.0,Transfer Bank,Tidak,Tidak,1.8,2,7.0,2024-09-14,Indonesia
+PLG-11100,26.0,Laki-laki,Jakarta,Standar,30,Bulanan,10,336,3365.0,E-Wallet,Tidak,Tidak,1.8,1,6.0,2025-08-13,Indonesia
+PLG-11102,39.0,Laki-laki,Makassar,Basic,10,Bulanan,2,210,431.0,Transfer Bank,Tidak,Tidak,3.3,3,7.0,2026-04-27,Indonesia
+PLG-11104,25.0,Perempuan,Bandung,Standar,30,Bulanan,20,415,8254.0,Transfer Bank,Tidak,Ya,0.3,0,9.0,2024-10-08,Indonesia
+PLG-11110,33.0,Perempuan,Surabaya,Standar,30,2 Tahun,32,328,,Minimarket,Tidak,Tidak,0.1,0,10.0,2023-10-10,Indonesia
+PLG-11113,34.0,Perempuan,Bandung,Standar,30,Bulanan,9,315,2963.0,E-Wallet,Ya,Tidak,0.9,1,7.0,2025-09-22,Indonesia
+PLG-11114,27.0,Laki-laki,Semarang,Basic,10,Bulanan,5,210,1054.0,Transfer Bank,Tidak,Tidak,5.3,4,4.0,2026-01-29,Indonesia
+PLG-11116,34.0,Laki-laki,Bandung,Standar,30,Bulanan,7,347,2463.0,Minimarket,Tidak,Tidak,2.8,0,,2025-11-07,Indonesia
+PLG-11118,65.0,Perempuan,Medan,Premium,100,Tahunan,31,544,17245.0,E-Wallet,Ya,Tidak,7.1,4,4.0,2023-11-12,Indonesia
+PLG-11122,41.0,Laki-laki,Jakarta,Standar,30,Tahunan,54,410,21198.0,E-Wallet,Tidak,Ya,0.5,0,8.0,2021-12-02,Indonesia
+PLG-11123,19.0,Laki-laki,Jakarta,Standar,30,Tahunan,28,335,9300.0,Transfer Bank,Ya,Tidak,0.9,1,7.0,2024-02-27,Indonesia
+PLG-11126,55.0,Perempuan,Surabaya,Basic,10,Bulanan,11,288,3250.0,Transfer Bank,Ya,Ya,0.9,1,8.0,2025-07-21,Indonesia
+PLG-11127,24.0,Perempuan,Semarang,Basic,10,Tahunan,10,203,2085.0,Kartu Kredit,Tidak,Tidak,2.8,3,8.0,2025-08-30,Indonesia
+PLG-11129,43.0,Laki-laki,Denpasar,Premium,100,Bulanan,6,645,4028.0,E-Wallet,Tidak,Ya,1.5,2,6.0,2025-12-09,Indonesia
+PLG-11130,23.0,Laki-laki,Jakarta,Standar,30,Tahunan,13,315,4221.0,Transfer Bank,Ya,Tidak,1.2,1,7.0,2025-05-19,Indonesia
+PLG-11135,48.0,Perempuan,Denpasar,Basic,10,2 Tahun,66,285,19339.0,E-Wallet,Ya,Ya,1.5,1,7.0,2020-12-23,Indonesia
+PLG-11139,48.0,Perempuan,Medan,Standar,30,2 Tahun,2,332,655.0,Minimarket,Tidak,Tidak,1.5,2,8.0,2026-04-20,Indonesia
+PLG-11141,20.0,Laki-laki,Jakarta,Premium,100,Bulanan,20,655,12721.0,Minimarket,Tidak,Ya,0.9,3,,2024-10-23,Indonesia
+PLG-11146,42.0,Laki-laki,Semarang,Premium,100,Bulanan,2,535,1026.0,Transfer Bank,Tidak,Tidak,1.5,0,7.0,2026-04-26,Indonesia
+PLG-11147,52.0,Perempuan,Jakarta,Standar,30,2 Tahun,27,328,8633.0,Transfer Bank,Tidak,Tidak,1.4,0,,2024-03-25,Indonesia
+PLG-11149,38.0,Laki-laki,Bandung,Standar,30,Bulanan,1,316,301.0,E-Wallet,Tidak,Tidak,0.9,1,8.0,2026-05-04,Indonesia
+PLG-11152,30.0,Perempuan,Medan,Premium,100,Bulanan,13,639,8301.0,E-Wallet,Tidak,Ya,4.1,2,4.0,2025-05-20,Indonesia
+PLG-11153,26.0,Laki-laki,Bandung,Basic,10,Tahunan,7,262,1765.0,,Ya,Ya,1.2,1,7.0,2025-11-03,Indonesia
+PLG-11154,28.0,Laki-laki,Bandung,Basic,10,Bulanan,3,308,954.0,Minimarket,Tidak,Ya,0.7,0,,2026-03-10,Indonesia
+PLG-11160,42.0,Laki-laki,Jakarta,Basic,10,Tahunan,26,278,7157.0,E-Wallet,Tidak,Ya,2.2,2,3.0,2024-04-30,Indonesia
+PLG-11163,39.0,Perempuan,Bandung,Premium,100,Bulanan,9,557,5214.0,Minimarket,Tidak,Tidak,0.6,1,,2025-09-29,Indonesia
+PLG-11164,30.0,Laki-laki,Jakarta,Standar,30,2 Tahun,72,310,22209.0,Transfer Bank,Ya,Tidak,0.3,1,9.0,2020-06-11,Indonesia
+PLG-11169,33.0,Perempuan,Surabaya,Basic,10,Bulanan,21,193,4143.0,Kartu Kredit,Tidak,Tidak,0.5,2,,2024-09-05,Indonesia
+PLG-11171,38.0,Perempuan,Jakarta,Basic,10,Bulanan,15,264,3817.0,E-Wallet,Tidak,Ya,0.3,0,8.0,2025-03-18,Indonesia
+PLG-11172,37.0,Laki-laki,Bandung,Standar,30,Tahunan,7,414,2996.0,E-Wallet,Tidak,Ya,1.1,2,7.0,2025-11-17,Indonesia
+PLG-11174,24.0,Perempuan,Yogyakarta,Basic,10,Tahunan,60,205,12579.0,Kartu Kredit,Ya,Tidak,2.3,0,9.0,2021-06-08,Indonesia
+PLG-11175,34.0,Laki-laki,Jakarta,Premium,100,Tahunan,44,537,22760.0,Transfer Bank,Tidak,Tidak,0.9,2,,2022-10-27,Indonesia
+PLG-11179,24.0,Perempuan,Jakarta,Standar,30,Bulanan,19,322,5884.0,Transfer Bank,Ya,Tidak,0.4,0,8.0,2024-11-04,Indonesia
+PLG-11182,33.0,Laki-laki,Bandung,Premium,100,Bulanan,25,560,14693.0,Transfer Bank,Tidak,Tidak,0.4,0,7.0,2024-05-25,Indonesia
+PLG-11183,37.0,Laki-laki,Bandung,Basic,10,Tahunan,37,190,7121.0,Minimarket,Tidak,Tidak,2.8,1,5.0,2023-05-12,Indonesia
+PLG-11188,25.0,Laki-laki,Semarang,Basic,10,Bulanan,4,182,725.0,E-Wallet,Tidak,Tidak,0.7,3,6.0,2026-02-07,Indonesia
+PLG-11189,33.0,Laki-laki,Bandung,Basic,10,Bulanan,23,193,4324.0,E-Wallet,Tidak,Tidak,0.3,0,8.0,2024-07-25,Indonesia
+PLG-11191,35.0,Laki-laki,Bandung,Basic,10,Bulanan,21,226,4773.0,Minimarket,Tidak,Tidak,0.4,1,9.0,2024-09-18,Indonesia
+PLG-11192,38.0,Perempuan,Surabaya,Premium,100,Tahunan,15,562,,Transfer Bank,Ya,Tidak,1.1,0,9.0,2025-03-09,Indonesia
+PLG-11197,39.0,Laki-laki,Denpasar,Basic,10,Tahunan,9,279,2615.0,Minimarket,Tidak,Ya,1.0,0,7.0,2025-09-08,Indonesia
+PLG-11198,56.0,Laki-laki,Jakarta,Standar,30,Tahunan,20,317,6195.0,Minimarket,Tidak,Tidak,1.0,0,7.0,2024-10-25,Indonesia
+PLG-11199,56.0,Perempuan,Surabaya ,Standar,30,2 Tahun,24,419,9675.0,Transfer Bank,Tidak,Ya,2.1,0,7.0,2024-06-27,Indonesia
+PLG-11200,37.0,Perempuan,Jakarta,Premium,100,Bulanan,9,561,4954.0,E-Wallet,Tidak,Tidak,0.9,0,6.0,2025-09-12,Indonesia
+PLG-11204,46.0,Laki-laki,Jakarta,Standar,30,2 Tahun,23,413,,QRIS,Tidak,Ya,0.5,2,6.0,2024-07-17,Indonesia
+PLG-11205,55.0,Perempuan,Surabaya,Basic,10,Tahunan,6,205,1249.0,E-Wallet,Tidak,Tidak,2.7,4,5.0,2025-12-04,Indonesia
+PLG-11206,,Laki-laki,Yogyakarta,Basic,10,Bulanan,12,195,2422.0,E-Wallet,Tidak,Tidak,2.3,1,5.0,2025-06-22,Indonesia
+PLG-11211,24.0,Laki-laki,Denpasar,Basic,10,Tahunan,59,294,17248.0,Minimarket,Tidak,Ya,1.2,2,7.0,2021-07-20,Indonesia
+PLG-11215,23.0,Laki-laki,Bandung,Basic,10,Tahunan,11,225,2577.0,E-Wallet,Ya,Tidak,1.6,2,8.0,2025-07-09,Indonesia
+PLG-11217,24.0,Laki-laki,Denpasar,Basic,10,Bulanan,10,187,1949.0,E-Wallet,Ya,Tidak,0.1,0,,2025-08-16,Indonesia
+PLG-11220,39.0,Perempuan,Semarang,Premium,100,Bulanan,10,645,6756.0,Kartu Kredit,Ya,Ya,1.6,1,8.0,2025-08-30,Indonesia
+PLG-11221,43.0,Perempuan,Medan,Standar,30,Bulanan,21,325,6936.0,Transfer Bank,Tidak,Tidak,1.6,1,7.0,2024-09-04,Indonesia
+PLG-11223,45.0,Perempuan,Surabaya,Standar,30,Bulanan,11,325,3408.0,Kartu Kredit,Ya,Tidak,0.9,0,10.0,2025-07-11,Indonesia
+PLG-11224,18.0,Perempuan,Medan,Premium,100,Tahunan,34,531,18093.0,Minimarket,Tidak,Tidak,4.8,0,4.0,2023-08-03,Indonesia
+PLG-11225,34.0,Laki-laki,Jakarta,Basic,10,Bulanan,3,210,635.0,E-Wallet,Tidak,Tidak,0.5,1,5.0,2026-03-24,Indonesia
+PLG-11228,,Laki-laki,Jakarta,Standar,30,Bulanan,4,309,1193.0,E-Wallet,Tidak,Tidak,0.7,2,7.0,2026-02-03,Indonesia
+PLG-11230,,Laki-laki,Jakarta,Standar,30,2 Tahun,72,342,25176.0,E-Wallet,Tidak,Tidak,0.6,1,7.0,2020-06-16,Indonesia
+PLG-11232,33.0,Laki-laki,Jakarta,Standar,30,Bulanan,8,316,2644.0,Transfer Bank,Ya,Tidak,1.0,1,8.0,2025-10-23,Indonesia
+PLG-11237,40.0,Perempuan,Bandung,Premium,100,Tahunan,20,568,11709.0,Kartu Kredit,Ya,Tidak,0.4,1,9.0,2024-10-12,Indonesia
+PLG-11238,33.0,Perempuan,Surabaya,Premium,100,Bulanan,6,565,3383.0,Transfer Bank,Tidak,Tidak,1.8,1,7.0,2025-12-25,Indonesia
+PLG-11240,36.0,Perempuan,Yogyakarta,Standar,30,Tahunan,15,330,5061.0,Kartu Kredit,Ya,Tidak,0.1,1,6.0,2025-03-20,Indonesia
+PLG-11246,30.0,Perempuan,Denpasar,Standar,30,Bulanan,9,410,3520.0,Transfer Bank,Ya,Ya,0.8,0,8.0,2025-09-09,Indonesia
+PLG-11247,24.0,Laki-laki,Bandung,Basic,10,2 Tahun,38,203,7705.0,Transfer Bank,Ya,Tidak,2.0,0,6.0,2023-04-25,Indonesia
+PLG-11248,43.0,Perempuan,Jakarta,Basic,10,Bulanan,12,291,3460.0,Transfer Bank,Tidak,Ya,2.4,4,4.0,2025-06-10,Indonesia
+PLG-11251,44.0,Perempuan,Makassar,Premium,100,Bulanan,14,536,7714.0,Transfer Bank,Ya,Tidak,3.5,0,6.0,2025-04-08,Indonesia
+PLG-11257,40.0,Laki-laki,Jakarta,Standar,30,2 Tahun,37,339,12076.0,Transfer Bank,Tidak,Tidak,5.0,4,4.0,2023-05-28,Indonesia
+PLG-11268,45.0,Laki-laki,Jakarta,Basic,10,Tahunan,30,208,5938.0,E-Wallet,Ya,Tidak,2.7,0,7.0,2023-12-06,Indonesia
+PLG-11269,37.0,Perempuan,Jakarta,Basic,10,Bulanan,3,211,651.0,Transfer Bank,Tidak,Tidak,3.3,1,6.0,2026-03-28,Indonesia
+PLG-11277,23.0,Laki-laki,Surabaya,Basic,10,2 Tahun,72,201,14769.0,Transfer Bank,Ya,Tidak,0.4,0,8.0,2020-06-22,Indonesia
+PLG-11278,50.0,Perempuan,Semarang,Basic,10,Tahunan,24,285,6844.0,Minimarket,Tidak,Ya,0.8,0,6.0,2024-06-26,Indonesia
+PLG-11279,50.0,Perempuan,bandung,Standar,30,Tahunan,21,332,7128.0,Transfer Bank,Ya,Tidak,4.1,1,6.0,2024-09-14,Indonesia
+PLG-11283,46.0,Perempuan,Bandung,Standar,30,Tahunan,10,329,3169.0,Minimarket,Tidak,Tidak,2.4,1,6.0,2025-08-05,Indonesia
+PLG-11286,45.0,Laki-laki,Yogyakarta,Basic,10,Bulanan,20,188,3891.0,E-Wallet,Tidak,Tidak,0.6,0,9.0,2024-10-07,Indonesia
+PLG-11288,,Perempuan,Surabaya,Basic,10,Bulanan,12,203,2352.0,Minimarket,Tidak,Tidak,0.4,0,9.0,2025-06-07,Indonesia
+PLG-11292,18.0,Perempuan,Jakarta,Standar,30,Bulanan,5,407,2132.0,Transfer Bank,Ya,Ya,2.4,3,6.0,2026-01-11,Indonesia
+PLG-11295,46.0,Laki-laki,Jakarta,Premium,100,Tahunan,7,552,3733.0,Minimarket,Tidak,Tidak,1.1,0,,2025-11-15,Indonesia
+PLG-11297,62.0,Laki-laki,Jakarta,Basic,10,Bulanan,4,202,817.0,Transfer Bank,Tidak,Tidak,1.0,2,4.0,2026-02-19,Indonesia
+PLG-11305,52.0,Laki-laki,Bandung,Standar,30,Bulanan,20,342,6761.0,E-Wallet,Tidak,Tidak,1.4,0,7.0,2024-10-27,Indonesia
+PLG-11312,50.0,Laki-laki,Jakarta,Standar,30,Tahunan,14,310,4428.0,Kartu Kredit,Tidak,Tidak,3.3,2,6.0,2025-04-30,Indonesia
+PLG-11315,53.0,Perempuan,Surabaya,Standar,30,Bulanan,22,318,6967.0,Kartu Kredit,Ya,Tidak,1.1,3,,2024-08-20,Indonesia
+PLG-11326,35.0,Laki-laki,Jakarta,Basic,10,Tahunan,68,301,19849.0,Minimarket,Tidak,Ya,0.9,0,9.0,2020-10-09,Indonesia
+PLG-11331,58.0,Perempuan,Bandung,Basic,10,2 Tahun,65,179,11291.0,Transfer Bank,Tidak,Tidak,1.0,0,10.0,2021-01-24,Indonesia
+PLG-11338,30.0,Laki-laki,Yogyakarta,Standar,30,Bulanan,10,420,4379.0,,Tidak,Ya,1.5,0,10.0,2025-08-16,Indonesia
+PLG-11339,61.0,Laki-laki,Semarang,Standar,30,Tahunan,21,429,8900.0,E-Wallet,Tidak,Ya,1.4,0,9.0,2024-09-23,Indonesia
+PLG-11341,36.0,Perempuan,Bandung,Standar,30,Bulanan,25,418,10059.0,Transfer Bank,Tidak,Ya,0.3,0,6.0,2024-05-24,Indonesia
+PLG-11343,53.0,Laki-laki,Surabaya,Standar,30,Tahunan,28,420,11554.0,Transfer Bank,Tidak,Ya,1.0,1,6.0,2024-02-21,Indonesia
+PLG-11345,,Laki-laki,Jakarta,Basic,10,Bulanan,4,196,761.0,E-Wallet,Tidak,Tidak,1.9,1,8.0,2026-02-02,Indonesia
+PLG-11346,31.0,Perempuan,Medan,Standar,30,Bulanan,3,335,1048.0,E-Wallet,Tidak,Tidak,1.1,0,10.0,2026-03-13,Indonesia
+PLG-11348,26.0,Perempuan,Yogyakarta,Standar,30,Bulanan,19,325,6265.0,Minimarket,Tidak,Tidak,0.6,0,7.0,2024-11-29,Indonesia
+PLG-11350,38.0,Laki-laki,Surabaya,Basic,10,Tahunan,13,186,2320.0,Minimarket,Tidak,Tidak,1.6,1,9.0,2025-05-13,Indonesia
+PLG-11353,37.0,Perempuan,Denpasar,Standar,30,Bulanan,2,338,695.0,Transfer Bank,Tidak,Tidak,1.3,1,7.0,2026-04-03,Indonesia
+PLG-11354,28.0,Perempuan,Makassar,Premium,100,Tahunan,30,651,19004.0,Transfer Bank,Tidak,Ya,2.9,4,1.0,2023-12-14,Indonesia
+PLG-11356,44.0,Laki-laki,Surabaya,Standar,30,2 Tahun,17,415,6830.0,E-Wallet,Tidak,Ya,2.1,1,5.0,2025-01-11,Indonesia
+PLG-11358,18.0,Perempuan,Makassar,Standar,30,Bulanan,7,310,2225.0,Kartu Kredit,Ya,Tidak,3.1,1,,2025-11-29,Indonesia
+PLG-11362,31.0,Perempuan,Jakarta,Basic,10,Bulanan,13,286,3643.0,Transfer Bank,Tidak,Ya,1.8,1,,2025-05-20,Indonesia
+PLG-11367,53.0,Perempuan,Medan,Standar,30,Tahunan,15,411,6144.0,Transfer Bank,Ya,Ya,0.9,1,,2025-03-04,Indonesia
+PLG-11374,32.0,Laki-laki,Yogyakarta,Standar,30,Tahunan,1,329,318.0,Transfer Bank,Tidak,Tidak,0.4,0,,2026-05-12,Indonesia
+PLG-11381,31.0,Laki-laki,Bandung,Standar,30,Tahunan,7,386,2767.0,Minimarket,Tidak,Ya,1.4,1,6.0,2025-11-17,Indonesia
+PLG-11387,18.0,Perempuan,Jakarta,Basic,10,Bulanan,7,194,1328.0,Kartu Kredit,Ya,Tidak,0.8,0,9.0,2025-11-04,Indonesia
+PLG-11391,150.0,Laki-laki,Bandung,Premium,100,2 Tahun,72,633,44775.0,Minimarket,Tidak,Ya,1.7,2,6.0,2020-06-09,Indonesia
+PLG-11394,32.0,Perempuan,Medan,Premium,100,Bulanan,10,545,5579.0,Minimarket,Tidak,Tidak,4.8,3,4.0,2025-08-17,Indonesia
+PLG-11395,19.0,Laki-laki,Medan,Basic,10,2 Tahun,40,199,7850.0,Transfer Bank,Tidak,Tidak,5.6,0,8.0,2023-02-25,Indonesia
+PLG-11396,65.0,Perempuan,Yogyakarta,Premium,100,Bulanan,37,652,24631.0,Transfer Bank,Tidak,Ya,0.6,0,7.0,2023-05-08,Indonesia
+PLG-11407,,Laki-laki,Jakarta,Premium,100,Bulanan,3,558,1642.0,Minimarket,Tidak,Tidak,0.6,0,8.0,2026-03-07,Indonesia
+PLG-11408,34.0,Laki-laki,Bandung,Premium,100,Bulanan,13,612,7832.0,Minimarket,Tidak,Ya,2.6,3,4.0,2025-05-18,Indonesia
+PLG-11415,45.0,Laki-laki,Denpasar,Basic,10,Bulanan,6,188,1128.0,,Ya,Tidak,3.9,1,6.0,2025-12-04,Indonesia
+PLG-11418,41.0,Perempuan,Yogyakarta,Basic,10,Bulanan,10,283,2838.0,Minimarket,Tidak,Ya,0.6,1,9.0,2025-08-11,Indonesia
+PLG-11420,30.0,Laki-laki,Bandung,Basic,10,Bulanan,6,208,1239.0,Minimarket,Tidak,Tidak,0.5,1,9.0,2025-12-27,Indonesia
+PLG-11423,28.0,Laki-laki,Jakarta,Basic,10,2 Tahun,72,311,23139.0,E-Wallet,Tidak,Ya,0.4,0,7.0,2020-06-25,Indonesia
+PLG-11429,35.0,Laki-laki,Denpasar,Standar,30,Bulanan,8,334,2688.0,Minimarket,Tidak,Tidak,0.8,0,8.0,2025-10-29,Indonesia
+PLG-11431,52.0,Perempuan,Denpasar,Standar,30,Bulanan,26,346,8782.0,Minimarket,Tidak,Tidak,2.1,1,7.0,2024-04-28,Indonesia
+PLG-11432,21.0,Perempuan,Bandung,Basic,10,Tahunan,27,190,4911.0,Kartu Kredit,Ya,Tidak,2.6,0,8.0,2024-03-25,Indonesia
+PLG-11435,35.0,Perempuan,Surabaya,Standar,30,Tahunan,25,350,9029.0,Transfer Bank,Ya,Tidak,1.6,2,6.0,2024-05-09,Indonesia
+PLG-11436,47.0,Laki-laki,Medan,Premium,100,Bulanan,8,543,4448.0,Transfer Bank,Tidak,Tidak,4.3,3,4.0,2025-10-27,Indonesia
+PLG-11439,49.0,Laki-laki,Jakarta,Premium,100,2 Tahun,17,558,9347.0,Transfer Bank,Tidak,Tidak,0.9,2,,2025-01-23,Indonesia
+PLG-11440,42.0,Perempuan,Denpasar,Premium,100,2 Tahun,44,531,22605.0,E-Wallet,Tidak,Tidak,0.6,1,6.0,2022-10-30,Indonesia
+PLG-11450,37.0,Laki-laki,Denpasar,Premium,100,Tahunan,7,635,4391.0,Transfer Bank,Tidak,Ya,0.2,0,8.0,2025-11-26,Indonesia
+PLG-11451,27.0,Perempuan,Jakarta,Standar,30,Bulanan,1,421,413.0,Transfer Bank,Tidak,Ya,2.1,2,,2026-05-22,Indonesia
+PLG-11452,21.0,Laki-laki,Jakarta,Standar,30,Bulanan,9,416,3904.0,Transfer Bank,Ya,Ya,1.5,1,9.0,2025-09-08,Indonesia
+PLG-11455,,Laki-laki,Denpasar,Basic,10,Bulanan,9,191,1786.0,Minimarket,Tidak,Tidak,0.9,0,7.0,2025-09-17,Indonesia
+PLG-11457,29.0,Laki-laki,Surabaya,Standar,30,Bulanan,15,336,4856.0,E-Wallet,Tidak,Tidak,1.2,1,5.0,2025-03-24,Indonesia
+PLG-11458,36.0,Perempuan,Medan,Basic,10,Bulanan,16,189,3171.0,Transfer Bank,Tidak,Tidak,1.2,1,7.0,2025-02-19,Indonesia
+PLG-11460,37.0,Laki-laki,Jakarta,Basic,10,Bulanan,4,155,628.0,,Ya,Tidak,1.3,0,7.0,2026-02-10,Indonesia
+PLG-11462,35.0,Laki-laki,Bandung,Basic,10,Bulanan,4,277,1059.0,Transfer Bank,Ya,Ya,1.0,0,8.0,2026-02-27,Indonesia
+PLG-11464,43.0,Laki-laki,Medan,Basic,10,Bulanan,20,207,4303.0,Minimarket,Tidak,Tidak,7.9,2,,2024-10-19,Indonesia
+PLG-11470,49.0,Perempuan,Denpasar,Basic,10,Bulanan,1,198,195.0,E-Wallet,Tidak,Tidak,0.1,0,8.0,2026-05-26,Indonesia
+PLG-11473,38.0,Perempuan,Bandung,Basic,10,Bulanan,22,172,3595.0,Transfer Bank,Ya,Tidak,1.1,0,10.0,2024-08-24,Indonesia
+PLG-11484,33.0,Perempuan,Surabaya,Premium,100,Bulanan,5,557,2877.0,Minimarket,Tidak,Tidak,2.9,2,6.0,2026-01-11,Indonesia
+PLG-11486,23.0,Laki-laki,Bandung,Basic,10,Tahunan,72,186,13081.0,Transfer Bank,Ya,Tidak,0.4,0,7.0,2020-06-05,Indonesia
+PLG-11496,18.0,Laki-laki,Makassar,Standar,30,Tahunan,36,353,13236.0,Kartu Kredit,Ya,Tidak,2.5,0,8.0,2023-06-22,Indonesia
+PLG-11499,40.0,Laki-laki,Jakarta,Standar,30,Bulanan,5,325,1556.0,E-Wallet,Ya,Tidak,1.1,0,10.0,2026-01-27,Indonesia
+PLG-11501,33.0,Perempuan,Jakarta,Basic,10,Bulanan,9,205,1789.0,Transfer Bank,Ya,Tidak,0.9,1,7.0,2025-09-02,Indonesia
+PLG-11502,31.0,Perempuan,Bandung,Basic,10,Bulanan,3,210,632.0,Minimarket,Tidak,Tidak,2.1,0,6.0,2026-03-09,Indonesia
+PLG-11505,47.0,Laki-laki,Bandung,Basic,10,Tahunan,5,195,1014.0,Transfer Bank,Ya,Tidak,0.2,0,8.0,2026-01-10,Indonesia
+PLG-11506,32.0,Perempuan,Medan,Basic,10,2 Tahun,34,282,10026.0,Minimarket,Tidak,Ya,1.4,0,7.0,2023-08-26,Indonesia
+PLG-11509,34.0,Laki-laki,Denpasar,Standar,30,2 Tahun,18,419,7824.0,Transfer Bank,Tidak,Ya,4.8,1,,2024-12-10,Indonesia
+PLG-11514,48.0,Laki-laki,Jakarta,Standar,30,Tahunan,16,419,6370.0,Minimarket,Tidak,Ya,0.6,0,9.0,2025-02-25,Indonesia
+PLG-11515,43.0,Laki-laki,Bandung,Premium,100,Tahunan,35,532,17787.0,Kartu Kredit,Ya,Tidak,0.6,0,10.0,2023-07-31,Indonesia
+PLG-11517,40.0,Laki-laki,Semarang,Standar,30,2 Tahun,34,331,11596.0,E-Wallet,Tidak,Tidak,1.2,1,6.0,2023-08-11,Indonesia
+PLG-11524,28.0,Perempuan,Surabaya,Basic,10,2 Tahun,72,265,18490.0,Minimarket,Tidak,Ya,3.0,3,4.0,2020-06-21,Indonesia
+PLG-11527,26.0,Perempuan,Jakarta,Premium,100,Bulanan,14,541,7433.0,Transfer Bank,Tidak,Tidak,3.3,2,,2025-04-24,Indonesia
+PLG-11535,30.0,Perempuan,Yogyakarta,Basic,10,2 Tahun,25,205,,Kartu Kredit,Ya,Tidak,1.5,0,10.0,2024-05-05,Indonesia
+PLG-11541,35.0,Perempuan,Surabaya,Basic,10,Bulanan,11,297,3196.0,E-Wallet,Tidak,Ya,0.5,1,5.0,2025-07-20,Indonesia
+PLG-11549,18.0,Perempuan,Bandung,Basic,10,Tahunan,17,192,3283.0,Kartu Kredit,Ya,Tidak,4.1,3,5.0,2025-01-03,Indonesia
+PLG-11555,75.0,Laki-laki,Jakarta,Basic,10,Bulanan,9,279,2431.0,Kartu Kredit,Tidak,Ya,3.8,2,7.0,2025-09-27,Indonesia
+PLG-11557,48.0,Perempuan,Bandung,Basic,10,Bulanan,7,188,1331.0,Transfer Bank,Ya,Tidak,0.1,0,10.0,2025-11-26,Indonesia
+PLG-11564,27.0,Laki-laki,Yogyakarta,Standar,30,2 Tahun,72,326,22624.0,Transfer Bank,Ya,Tidak,2.3,2,4.0,2020-06-26,Indonesia
+PLG-11579,54.0,Perempuan,Surabaya,Standar,30,Bulanan,10,325,3278.0,Minimarket,Tidak,Tidak,0.7,1,6.0,2025-08-15,Indonesia
+PLG-11581,,Perempuan,SURABAYA,Basic,10,Bulanan,3,289,845.0,Kartu Kredit,Ya,Ya,0.3,2,6.0,2026-03-19,Indonesia
+PLG-11587,56.0,Laki-laki,Jakarta,Basic,10,Tahunan,40,192,7815.0,Transfer Bank,Ya,Tidak,0.7,1,,2023-02-18,Indonesia
+PLG-11588,40.0,Perempuan,Jakarta,Standar,30,2 Tahun,18,312,5551.0,Transfer Bank,Tidak,Tidak,1.2,0,8.0,2024-12-22,Indonesia
+PLG-11592,21.0,Laki-laki,Medan,Standar,30,Bulanan,10,328,3384.0,Kartu Kredit,Ya,Tidak,0.9,2,8.0,2025-08-19,Indonesia
+PLG-11595,49.0,Perempuan,Yogyakarta,Premium,100,Bulanan,6,627,3913.0,Minimarket,Tidak,Ya,0.9,0,9.0,2025-12-06,Indonesia
+PLG-11596,39.0,Laki-laki,Denpasar,Basic,10,Tahunan,60,202,12249.0,Kartu Kredit,Ya,Tidak,1.8,1,8.0,2021-06-21,Indonesia
+PLG-11600,33.0,Perempuan,Jakarta,Basic,10,Bulanan,4,219,917.0,E-Wallet,Ya,Tidak,3.0,1,6.0,2026-02-17,Indonesia
+PLG-11606,57.0,Laki-laki,Jakarta,Basic,10,Bulanan,11,209,2330.0,Kartu Kredit,Tidak,Tidak,2.4,1,9.0,2025-07-23,Indonesia
+PLG-11610,36.0,Perempuan,Jakarta,Standar,30,Tahunan,9,319,2913.0,E-Wallet,Ya,Tidak,0.6,0,7.0,2025-09-25,Indonesia
+PLG-11618,31.0,Laki-laki,Surabaya,Basic,10,2 Tahun,72,272,19430.0,E-Wallet,Tidak,Ya,0.8,0,,2020-06-19,Indonesia
+PLG-11619,47.0,Perempuan,makassar,Basic,10,Tahunan,20,298,6181.0,Transfer Bank,Tidak,Ya,1.5,4,5.0,2024-10-23,Indonesia
+PLG-11622,37.0,Perempuan,Jakarta,Basic,10,Tahunan,9,193,1812.0,Minimarket,Tidak,Tidak,2.3,0,6.0,2025-09-25,Indonesia
+PLG-11623,31.0,Laki-laki,Yogyakarta,Standar,30,Tahunan,15,334,5135.0,E-Wallet,Tidak,Tidak,0.4,1,8.0,2025-03-07,Indonesia
+PLG-11624,39.0,Laki-laki,Jakarta,Premium,100,2 Tahun,66,533,35405.0,Transfer Bank,Tidak,Tidak,1.7,2,9.0,2020-12-20,Indonesia
+PLG-11625,43.0,Laki-laki,Jakarta,Basic,10,Bulanan,9,196,1699.0,E-Wallet,Tidak,Tidak,0.1,0,,2025-09-27,Indonesia
+PLG-11627,31.0,Laki-laki,Medan,Basic,10,Tahunan,62,182,11277.0,Minimarket,Tidak,Tidak,2.3,2,4.0,2021-04-11,Indonesia
+PLG-11634,40.0,Perempuan,Surabaya,Premium,100,Bulanan,23,550,12578.0,Minimarket,Tidak,Tidak,1.1,0,8.0,2024-07-20,Indonesia
+PLG-11638,51.0,Laki-laki,bandung,Basic,10,Bulanan,3,175,512.0,Kartu Kredit,Ya,Tidak,0.8,0,6.0,2026-03-19,Indonesia
+PLG-11641,18.0,Perempuan,Denpasar,Standar,30,Bulanan,4,333,1370.0,Transfer Bank,Tidak,Tidak,3.7,1,7.0,2026-02-12,Indonesia
+PLG-11648,23.0,Perempuan,Bandung,Premium,100,Bulanan,17,626,10918.0,Transfer Bank,Tidak,Ya,1.1,1,6.0,2025-01-03,Indonesia
+PLG-11650,0.0,Laki-laki,Jakarta,Standar,30,Bulanan,5,412,1966.0,E-Wallet,Tidak,Ya,1.3,1,4.0,2026-01-03,Indonesia
+PLG-11651,35.0,Perempuan,Bandung,Premium,100,Tahunan,8,644,5153.0,Transfer Bank,Tidak,Ya,0.9,1,6.0,2025-10-08,Indonesia
+PLG-11652,,Laki-laki,Semarang,Premium,100,Tahunan,6,546,3223.0,Minimarket,Tidak,Tidak,0.5,0,7.0,2025-12-15,Indonesia
+PLG-11653,18.0,Perempuan,Jakarta,Basic,10,Tahunan,4,198,791.0,Transfer Bank,Ya,Tidak,1.7,0,9.0,2026-02-01,Indonesia
+PLG-11656,33.0,Perempuan,Jakarta,Standar,30,Bulanan,3,369,1076.0,Minimarket,Tidak,Tidak,0.5,0,8.0,2026-03-05,Indonesia
+PLG-11658,51.0,Laki-laki,Jakarta,Standar,30,2 Tahun,37,334,12955.0,Transfer Bank,Tidak,Tidak,2.9,3,6.0,2023-05-27,Indonesia
+PLG-11661,31.0,Perempuan,Medan,Premium,100,Tahunan,19,644,12123.0,Transfer Bank,Tidak,Ya,1.7,1,5.0,2024-11-13,Indonesia
+PLG-11662,22.0,Laki-laki,Medan,Standar,30,Tahunan,15,330,4729.0,,Tidak,Tidak,0.1,2,7.0,2025-03-12,Indonesia
+PLG-11663,43.0,Laki-laki,Surabaya,Standar,30,Bulanan,31,310,9529.0,Minimarket,Tidak,Tidak,2.4,0,7.0,2023-11-29,Indonesia
+PLG-11667,54.0,Perempuan,Surabaya,Basic,10,Tahunan,4,270,1070.0,Transfer Bank,Tidak,Ya,0.9,1,7.0,2026-02-28,Indonesia
+PLG-11668,54.0,Laki-laki,Medan,Standar,30,Bulanan,5,421,2052.0,Transfer Bank,Ya,Ya,5.2,1,,2026-01-24,Indonesia
+PLG-11671,43.0,Perempuan,Yogyakarta,Premium,100,Bulanan,14,547,7680.0,E-Wallet,Tidak,Tidak,0.3,0,7.0,2025-04-03,Indonesia
+PLG-11677,,Laki-laki,Bandung,Standar,30,2 Tahun,48,332,16230.0,E-Wallet,Ya,Tidak,2.6,0,6.0,2022-06-14,Indonesia
+PLG-11686,41.0,Laki-laki,Medan,Standar,30,Tahunan,18,345,6392.0,E-Wallet,Ya,Tidak,0.4,0,9.0,2024-12-05,Indonesia
+PLG-11694,33.0,Perempuan,Surabaya,Standar,30,Bulanan,12,328,3794.0,Transfer Bank,Ya,Tidak,0.6,0,6.0,2025-06-14,Indonesia
+PLG-11700,42.0,Laki-laki,Surabaya,Standar,30,Tahunan,72,429,30866.0,Transfer Bank,Ya,Ya,0.1,0,8.0,2020-06-18,Indonesia
+PLG-11702,23.0,Laki-laki,Semarang,Standar,30,Tahunan,35,393,13831.0,E-Wallet,Ya,Ya,1.8,2,8.0,2023-07-16,Indonesia
+PLG-11710,43.0,Laki-laki,Bandung,Premium,100,Bulanan,25,612,15881.0,Transfer Bank,Tidak,Ya,1.4,0,,2024-05-04,Indonesia
+PLG-11719,24.0,Laki-laki,Surabaya,Basic,10,Bulanan,16,182,,,Tidak,Tidak,1.4,0,7.0,2025-02-20,Indonesia
+PLG-11720,29.0,Laki-laki,Jakarta,Premium,100,Bulanan,34,546,19257.0,Minimarket,Tidak,Tidak,2.9,3,,2023-08-03,Indonesia
+PLG-11736,25.0,Laki-laki,Makassar,Basic,10,Tahunan,17,265,4728.0,Transfer Bank,Ya,Ya,2.1,0,10.0,2025-01-27,Indonesia
+PLG-11737,33.0,Perempuan,Surabaya,Basic,10,Bulanan,22,301,6939.0,Kartu Kredit,Tidak,Ya,0.8,0,7.0,2024-08-04,Indonesia
+PLG-11753,,Perempuan,Jakarta,Premium,100,Bulanan,25,643,16752.0,Transfer Bank,Tidak,Ya,0.1,1,8.0,2024-05-03,Indonesia
+PLG-11758,37.0,Laki-laki,Jakarta,Standar,30,Bulanan,20,409,8361.0,Transfer Bank,Tidak,Ya,1.0,1,7.0,2024-10-24,Indonesia
+PLG-11760,20.0,Perempuan,Bandung,Standar,30,Bulanan,14,399,5728.0,Kartu Kredit,Tidak,Ya,1.1,2,,2025-04-23,Indonesia
+PLG-11767,40.0,Laki-laki,Jakarta,Standar,30,2 Tahun,72,408,29163.0,Transfer Bank,Tidak,Ya,2.2,3,6.0,2020-06-02,Indonesia
+PLG-11773,40.0,Laki-laki,Surabaya,Standar,30,Bulanan,10,329,,Minimarket,Tidak,Tidak,1.4,0,8.0,2025-08-04,Indonesia
+PLG-11774,30.0,Laki-laki,Yogyakarta,Standar,30,Bulanan,6,394,2428.0,Transfer Bank,Tidak,Ya,1.4,0,9.0,2025-12-27,Indonesia
+PLG-11779,37.0,Perempuan,Jakarta,Standar,30,Bulanan,10,413,4069.0,E-Wallet,Ya,Ya,2.4,2,5.0,2025-08-03,Indonesia
+PLG-11785,51.0,Laki-laki,Jakarta,Basic,10,Bulanan,16,300,4699.0,Transfer Bank,Ya,Ya,0.3,1,6.0,2025-02-04,Indonesia
+PLG-11787,29.0,Laki-laki,Yogyakarta,Basic,10,Bulanan,18,206,3643.0,Transfer Bank,Tidak,Tidak,0.2,0,9.0,2024-12-05,Indonesia
+PLG-11790,37.0,Laki-laki,jakarta,Standar,30,Tahunan,6,306,1812.0,E-Wallet,Tidak,Tidak,0.5,0,10.0,2025-12-20,Indonesia
+PLG-11796,29.0,Perempuan,Jakarta,Basic,10,Tahunan,54,189,10395.0,E-Wallet,Tidak,Tidak,0.6,0,9.0,2021-12-06,Indonesia
+PLG-11799,40.0,Laki-laki,Surabaya,Standar,30,2 Tahun,72,344,25566.0,E-Wallet,Tidak,Tidak,4.9,3,5.0,2020-06-11,Indonesia
+PLG-11802,34.0,Laki-laki,Surabaya,Standar,30,Bulanan,2,334,694.0,Kartu Kredit,Tidak,Tidak,0.2,1,7.0,2026-04-03,Indonesia
+PLG-11805,33.0,Perempuan,Surabaya,Premium,100,Bulanan,20,527,10729.0,Minimarket,Tidak,Tidak,2.4,4,8.0,2024-10-18,Indonesia
+PLG-11807,30.0,Perempuan,Jakarta,Standar,30,Bulanan,11,400,4248.0,Transfer Bank,Tidak,Ya,1.6,2,7.0,2025-07-20,Indonesia
+PLG-11811,35.0,Perempuan,Medan,Basic,10,2 Tahun,27,275,7720.0,Transfer Bank,Tidak,Ya,1.6,0,7.0,2024-03-29,Indonesia
+PLG-11813,30.0,Laki-laki,Medan,Premium,100,Bulanan,8,558,4374.0,E-Wallet,Tidak,Tidak,2.5,0,,2025-10-17,Indonesia
+PLG-11816,42.0,Perempuan,Jakarta,Standar,30,Bulanan,8,341,2823.0,Kartu Kredit,Ya,Tidak,0.3,0,6.0,2025-10-03,Indonesia
+PLG-11818,48.0,Perempuan,Makassar,Basic,10,Tahunan,27,283,7897.0,Minimarket,Tidak,Ya,5.6,1,,2024-03-24,Indonesia
+PLG-11820,31.0,Perempuan,Yogyakarta,Standar,30,2 Tahun,17,313,5137.0,Transfer Bank,Ya,Tidak,2.1,2,3.0,2025-01-02,Indonesia
+PLG-11826,,Laki-laki,Makassar,Standar,30,2 Tahun,9,407,3633.0,E-Wallet,Tidak,Ya,0.7,0,9.0,2025-09-09,Indonesia
+PLG-11831,48.0,Laki-laki,Surabaya,Standar,30,2 Tahun,15,409,6439.0,E-Wallet,Tidak,Ya,0.1,0,8.0,2025-03-28,Indonesia
+PLG-11833,52.0,Laki-laki,Jakarta,Standar,30,2 Tahun,12,350,3998.0,Transfer Bank,Ya,Tidak,2.4,0,8.0,2025-06-11,Indonesia
+PLG-11834,,Perempuan,Bandung,Basic,10,Bulanan,20,285,5488.0,E-Wallet,Tidak,Ya,0.7,1,7.0,2024-10-27,Indonesia
+PLG-11837,18.0,Laki-laki,JAKARTA,Standar,30,Tahunan,16,334,5134.0,Transfer Bank,Ya,Tidak,0.6,1,8.0,2025-02-10,Indonesia
+PLG-11838,35.0,Perempuan,Medan,Basic,10,Tahunan,37,281,9960.0,Transfer Bank,Ya,Ya,0.8,0,9.0,2023-05-21,Indonesia
+PLG-11840,32.0,Laki-laki,Bandung,Basic,10,Bulanan,5,198,993.0,Transfer Bank,Ya,Tidak,0.9,2,8.0,2026-01-05,Indonesia
+PLG-11841,,Perempuan,Makassar,Basic,10,Tahunan,16,191,3056.0,Kartu Kredit,Tidak,Tidak,0.7,0,6.0,2025-02-18,Indonesia
+PLG-11842,45.0,Perempuan,Makassar,Standar,30,Bulanan,6,335,1913.0,Transfer Bank,Tidak,Tidak,1.1,0,8.0,2025-12-27,Indonesia
+PLG-11844,43.0,Laki-laki,Bandung,Basic,10,2 Tahun,59,184,10828.0,E-Wallet,Ya,Tidak,3.0,1,4.0,2021-07-25,Indonesia
+PLG-11845,38.0,Laki-laki,Semarang,Standar,30,Bulanan,15,340,5194.0,Minimarket,Tidak,Tidak,1.5,0,,2025-03-04,Indonesia
+PLG-11853,38.0,Perempuan,Medan,Standar,30,Tahunan,23,417,9749.0,Transfer Bank,Tidak,Ya,0.4,0,9.0,2024-07-17,Indonesia
+PLG-11854,44.0,Laki-laki,Jakarta,Standar,30,Tahunan,13,336,4222.0,E-Wallet,Ya,Tidak,1.7,1,6.0,2025-05-20,Indonesia
+PLG-11855,33.0,Perempuan,Makassar,Basic,10,2 Tahun,35,201,7323.0,Minimarket,Tidak,Tidak,1.2,0,9.0,2023-07-05,Indonesia
+PLG-11859,34.0,Perempuan,Denpasar,Basic,10,Bulanan,9,215,2028.0,Transfer Bank,Tidak,Tidak,1.6,2,8.0,2025-09-04,Indonesia
+PLG-11861,,Laki-laki,Denpasar,Standar,30,Bulanan,8,324,2695.0,Transfer Bank,Ya,Tidak,1.5,1,7.0,2025-10-23,Indonesia
+PLG-11863,49.0,Perempuan,Jakarta,Basic,10,2 Tahun,72,282,20486.0,Transfer Bank,Ya,Ya,3.0,0,7.0,2020-06-10,Indonesia
+PLG-11869,22.0,Perempuan,Semarang,Standar,30,Bulanan,15,325,5100.0,E-Wallet,Tidak,Tidak,3.3,2,5.0,2025-03-04,Indonesia
+PLG-11870,37.0,Laki-laki,Surabaya,Basic,10,Tahunan,58,195,11224.0,Minimarket,Tidak,Tidak,1.8,1,7.0,2021-08-08,Indonesia
+PLG-11875,41.0,Laki-laki,Jakarta,Standar,30,Bulanan,9,312,2680.0,E-Wallet,Ya,Tidak,0.5,0,10.0,2025-09-17,Indonesia
+PLG-11878,40.0,Perempuan,Bandung,Premium,100,Bulanan,6,561,3490.0,E-Wallet,Tidak,Tidak,2.0,3,6.0,2025-12-24,Indonesia
+PLG-11882,36.0,Laki-laki,Bandung,Basic,10,Tahunan,71,279,20110.0,Minimarket,Tidak,Ya,1.1,1,7.0,2020-07-20,Indonesia
+PLG-11884,42.0,Perempuan,Denpasar,Standar,30,Bulanan,6,416,2460.0,E-Wallet,Tidak,Ya,1.4,2,5.0,2025-12-17,Indonesia
+PLG-11888,27.0,Laki-laki,Bandung,Premium,100,Bulanan,14,630,9094.0,Kartu Kredit,Ya,Ya,2.1,1,7.0,2025-04-05,Indonesia
+PLG-11889,50.0,Perempuan,Jakarta,Standar,30,Bulanan,6,336,2096.0,E-Wallet,Tidak,Tidak,1.3,1,8.0,2025-12-09,Indonesia
+PLG-11892,34.0,Perempuan,Makassar,Standar,30,Bulanan,16,326,5185.0,Transfer Bank,Tidak,Tidak,0.5,0,7.0,2025-02-03,Indonesia
+PLG-11895,,Laki-laki,Medan,Premium,100,Bulanan,13,643,,E-Wallet,Tidak,Ya,0.6,1,10.0,2025-05-03,Indonesia
+PLG-11896,57.0,Perempuan,Medan,Standar,30,2 Tahun,44,403,18006.0,E-Wallet,Ya,Ya,0.9,0,8.0,2022-10-23,Indonesia
+PLG-11897,34.0,Perempuan,Medan,Standar,30,Tahunan,39,333,13184.0,E-Wallet,Tidak,Tidak,4.4,1,6.0,2023-03-07,Indonesia
+PLG-11898,18.0,Perempuan,Surabaya,Standar,30,2 Tahun,48,410,20545.0,Kartu Kredit,Ya,Ya,1.4,2,6.0,2022-06-15,Indonesia
+PLG-11900,46.0,Perempuan,Makassar,Basic,10,2 Tahun,21,194,4072.0,Transfer Bank,Ya,Tidak,0.2,0,8.0,2024-09-19,Indonesia
+PLG-11901,58.0,Laki-laki,Makassar,Basic,10,Tahunan,24,188,4360.0,Transfer Bank,Ya,Tidak,1.3,3,7.0,2024-06-25,Indonesia
+PLG-11909,34.0,Laki-laki,Yogyakarta,Basic,10,Bulanan,17,195,3389.0,E-Wallet,Tidak,Tidak,0.6,0,9.0,2025-01-22,Indonesia
+PLG-11910,48.0,Laki-laki,Yogyakarta,Basic,10,Bulanan,2,209,403.0,Transfer Bank,Tidak,Tidak,0.2,0,8.0,2026-04-18,Indonesia
+PLG-11911,41.0,Perempuan,Surabaya,Basic,10,Tahunan,34,186,6202.0,E-Wallet,Ya,Tidak,2.3,1,,2023-08-12,Indonesia
+PLG-11914,55.0,Perempuan,Medan,Premium,100,Tahunan,16,655,10107.0,Minimarket,Tidak,Ya,0.7,1,8.0,2025-02-18,Indonesia
+PLG-11915,29.0,Perempuan,Medan,Standar,30,Tahunan,41,311,12440.0,E-Wallet,Tidak,Tidak,1.1,0,7.0,2023-01-21,Indonesia
+PLG-11922,46.0,Perempuan,Bandung,Basic,10,Bulanan,8,183,1449.0,E-Wallet,Ya,Tidak,0.7,0,,2025-10-03,Indonesia
+PLG-11923,41.0,Laki-laki,Surabaya,Basic,10,Bulanan,12,288,3314.0,Transfer Bank,Tidak,Ya,1.2,2,8.0,2025-06-21,Indonesia
+PLG-11931,52.0,Laki-laki,Medan,Basic,10,Tahunan,43,277,11476.0,E-Wallet,Tidak,Ya,2.8,3,3.0,2022-11-28,Indonesia
+PLG-11937,50.0,Perempuan,Jakarta,Premium,100,Tahunan,5,558,2804.0,Transfer Bank,Ya,Tidak,0.5,1,7.0,2026-01-25,Indonesia
+PLG-11939,,Laki-laki,Bandung,Standar,30,2 Tahun,40,316,12828.0,Transfer Bank,Ya,Tidak,4.0,0,4.0,2023-02-22,Indonesia
+PLG-11945,48.0,Perempuan,Yogyakarta,Premium,100,Bulanan,13,554,7176.0,E-Wallet,Ya,Tidak,0.5,1,8.0,2025-05-13,Indonesia
+PLG-11948,28.0,Perempuan,Surabaya,Basic,10,2 Tahun,35,197,7109.0,Transfer Bank,Tidak,Tidak,4.1,1,7.0,2023-07-11,Indonesia
+PLG-11950,48.0,Perempuan,Medan,Premium,100,Bulanan,24,543,13229.0,Transfer Bank,Tidak,Tidak,2.3,0,,2024-06-10,Indonesia
+PLG-11954,31.0,Laki-laki,Makassar,Standar,30,2 Tahun,46,335,14962.0,Kartu Kredit,Tidak,Tidak,0.4,0,7.0,2022-08-23,Indonesia
+PLG-11966,37.0,Perempuan,Jakarta,Basic,10,2 Tahun,14,276,,Transfer Bank,Tidak,Ya,0.9,0,5.0,2025-04-20,Indonesia
+PLG-11967,46.0,Laki-laki,Makassar,Standar,30,2 Tahun,53,337,17835.0,Transfer Bank,Ya,Tidak,5.1,5,3.0,2022-01-06,Indonesia
+PLG-11973,39.0,Perempuan,Medan,Premium,100,Tahunan,38,628,23712.0,Transfer Bank,Tidak,Ya,3.9,1,6.0,2023-04-09,Indonesia
+PLG-11978,25.0,Laki-laki,Jakarta,Basic,10,Bulanan,21,198,3997.0,E-Wallet,Tidak,Tidak,2.7,0,6.0,2024-09-24,Indonesia
+PLG-11979,54.0,Laki-laki,Medan,Basic,10,2 Tahun,18,272,4833.0,Transfer Bank,Tidak,Ya,0.4,2,7.0,2024-12-22,Indonesia
+PLG-11987,26.0,Laki-laki,Yogyakarta,Standar,30,Tahunan,17,405,6790.0,Transfer Bank,Tidak,Ya,1.3,0,5.0,2025-01-06,Indonesia
+PLG-11989,36.0,Laki-laki,Bandung,Standar,30,Bulanan,5,315,,Kartu Kredit,Tidak,Tidak,2.2,1,7.0,2026-01-16,Indonesia
+PLG-11992,45.0,Laki-laki,Bandung,Basic,10,Bulanan,15,297,4295.0,Kartu Kredit,Ya,Ya,7.3,4,4.0,2025-03-27,Indonesia
+PLG-12006,33.0,Perempuan,Makassar,Basic,10,Tahunan,30,229,6886.0,,Tidak,Tidak,1.9,3,6.0,2023-12-29,Indonesia
+PLG-12007,31.0,Laki-laki,Yogyakarta,Standar,30,Bulanan,19,338,6534.0,Minimarket,Tidak,Tidak,0.9,4,,2024-11-12,Indonesia
+PLG-12012,31.0,Perempuan,Bandung,Standar,30,Bulanan,3,397,1136.0,Kartu Kredit,Tidak,Ya,1.2,0,4.0,2026-03-13,Indonesia
+PLG-12014,36.0,Laki-laki,Jakarta,Basic,10,Bulanan,38,302,10970.0,Transfer Bank,Tidak,Ya,0.0,0,10.0,2023-04-30,Indonesia
+PLG-12018,48.0,Perempuan,Surabaya,Standar,30,Bulanan,6,408,2514.0,E-Wallet,Tidak,Ya,0.1,1,8.0,2025-12-09,Indonesia
+PLG-12020,38.0,Perempuan,Medan,Premium,100,Tahunan,24,521,12704.0,Transfer Bank,Tidak,Tidak,2.2,0,7.0,2024-06-17,Indonesia
+PLG-12025,27.0,Perempuan,Medan,Basic,10,2 Tahun,42,196,8547.0,Kartu Kredit,Ya,Tidak,2.4,4,6.0,2022-12-07,Indonesia
+PLG-12026,,Laki-laki,Medan,Standar,30,2 Tahun,40,392,15825.0,Transfer Bank,Ya,Ya,4.0,4,7.0,2023-02-04,Indonesia
+PLG-12027,31.0,Perempuan,Medan,Standar,30,Tahunan,22,323,7039.0,Transfer Bank,Tidak,Tidak,0.8,0,7.0,2024-08-26,Indonesia
+PLG-12029,24.0,Perempuan,Jakarta,Standar,30,Bulanan,3,327,962.0,Transfer Bank,Ya,Tidak,2.7,2,,2026-03-14,Indonesia
+PLG-12035,43.0,Perempuan,Bandung,Basic,10,Bulanan,5,186,926.0,E-Wallet,Tidak,Tidak,0.9,1,6.0,2026-01-15,Indonesia
+PLG-12038,44.0,Laki-laki,Makassar,Basic,10,2 Tahun,30,209,6003.0,Minimarket,Tidak,Tidak,4.9,2,4.0,2023-12-25,Indonesia
+PLG-12039,26.0,Perempuan,Jakarta,Basic,10,Tahunan,72,192,13138.0,Minimarket,Tidak,Tidak,1.1,0,7.0,2020-06-26,Indonesia
+PLG-12041,54.0,Perempuan,makassar,Premium,100,Tahunan,41,553,21577.0,E-Wallet,Ya,Tidak,2.6,0,7.0,2023-01-05,Indonesia
+PLG-12043,53.0,Laki-laki,Yogyakarta,Basic,10,Bulanan,11,188,,,Tidak,Tidak,1.6,2,5.0,2025-07-19,Indonesia
+PLG-12045,36.0,Laki-laki,Bandung,Standar,30,Bulanan,1,402,387.0,Minimarket,Tidak,Ya,1.5,3,,2026-05-09,Indonesia
+PLG-12046,51.0,Laki-laki,Jakarta,Standar,30,2 Tahun,15,330,5128.0,E-Wallet,Tidak,Tidak,0.8,0,9.0,2025-03-26,Indonesia
+PLG-12049,46.0,Perempuan,Bandung,Standar,30,2 Tahun,33,323,11010.0,Minimarket,Tidak,Tidak,0.8,0,6.0,2023-09-09,Indonesia
+PLG-12054,46.0,Laki-laki,Surabaya,Basic,10,Bulanan,16,206,3395.0,Kartu Kredit,Ya,Tidak,2.1,0,8.0,2025-02-11,Indonesia
+PLG-12056,26.0,Perempuan,Jakarta,Premium,100,2 Tahun,22,627,13235.0,Transfer Bank,Tidak,Ya,2.9,3,3.0,2024-08-27,Indonesia
+PLG-12058,51.0,Laki-laki,Jakarta,Standar,30,2 Tahun,19,326,6166.0,Transfer Bank,Ya,Tidak,0.0,0,8.0,2024-11-21,Indonesia
+PLG-12063,41.0,Perempuan,Surabaya,Basic,10,Bulanan,16,271,4225.0,Kartu Kredit,Tidak,Ya,2.1,2,7.0,2025-02-24,Indonesia
+PLG-12064,48.0,Perempuan,Semarang,Standar,30,Tahunan,29,420,11686.0,E-Wallet,Tidak,Ya,0.9,0,6.0,2024-01-18,Indonesia
+PLG-12067,28.0,Perempuan,Jakarta,Standar,30,Bulanan,9,348,3102.0,Transfer Bank,Ya,Tidak,1.1,3,7.0,2025-09-04,Indonesia
+PLG-12069,18.0,Perempuan,Bandung,Standar,30,Bulanan,5,341,1668.0,E-Wallet,Tidak,Tidak,1.6,0,8.0,2026-01-05,Indonesia
+PLG-12075,20.0,Laki-laki,Yogyakarta,Premium,100,Tahunan,20,566,11763.0,Minimarket,Tidak,Tidak,1.3,0,6.0,2024-10-25,Indonesia
+PLG-12081,53.0,Perempuan,Semarang,Standar,30,Bulanan,5,411,1953.0,Kartu Kredit,Tidak,Ya,1.0,2,4.0,2026-01-15,Indonesia
+PLG-12083,18.0,Laki-laki,Surabaya,Premium,100,Bulanan,5,635,3200.0,Minimarket,Tidak,Ya,0.9,1,6.0,2026-01-29,Indonesia
+PLG-12086,47.0,Perempuan,Makassar,Basic,10,Bulanan,8,210,1596.0,Transfer Bank,Tidak,Tidak,0.9,0,10.0,2025-10-25,Indonesia
+PLG-12087,47.0,Laki-laki,Bandung,Basic,10,Bulanan,12,281,3446.0,E-Wallet,Tidak,Ya,5.2,2,4.0,2025-06-13,Indonesia
+PLG-12089,26.0,Laki-laki,Surabaya,Basic,10,Bulanan,1,291,299.0,Minimarket,Tidak,Ya,0.1,0,8.0,2026-05-26,Indonesia
+PLG-12094,57.0,Perempuan,Jakarta,Basic,10,2 Tahun,55,193,10294.0,E-Wallet,Tidak,Tidak,1.4,4,8.0,2021-11-06,Indonesia
+PLG-12102,21.0,Perempuan,Denpasar,Premium,100,Bulanan,20,548,10863.0,Transfer Bank,Tidak,Tidak,0.6,0,8.0,2024-10-02,Indonesia
+PLG-12103,51.0,Perempuan,Surabaya,Standar,30,Bulanan,3,331,983.0,Minimarket,Tidak,Tidak,3.6,2,6.0,2026-03-09,Indonesia
+PLG-12108,28.0,Perempuan,Semarang,Standar,30,Tahunan,25,327,8217.0,E-Wallet,Ya,Tidak,3.0,2,6.0,2024-05-26,Indonesia
+PLG-12113,51.0,Laki-laki,Surabaya,Standar,30,2 Tahun,59,326,19600.0,Transfer Bank,Tidak,Tidak,0.4,0,9.0,2021-07-21,Indonesia
+PLG-12117,49.0,Laki-laki,Bandung,Standar,30,Bulanan,7,339,2344.0,Kartu Kredit,Ya,Tidak,0.6,0,8.0,2025-11-14,Indonesia
+PLG-12121,41.0,Laki-laki,Bandung,Standar,30,Bulanan,11,336,3706.0,Transfer Bank,Ya,Tidak,2.2,1,8.0,2025-07-08,Indonesia
+PLG-12122,47.0,Laki-laki,Jakarta,Premium,100,Tahunan,19,563,10604.0,Minimarket,Tidak,Tidak,0.1,0,8.0,2024-11-26,Indonesia
+PLG-12132,31.0,Perempuan,Surabaya,Standar,30,Tahunan,25,347,8613.0,Minimarket,Tidak,Tidak,0.2,0,10.0,2024-05-28,Indonesia
+PLG-12134,27.0,Laki-laki,Makassar,Basic,10,Bulanan,7,201,1380.0,Transfer Bank,Tidak,Tidak,0.9,2,7.0,2025-11-13,Indonesia
+PLG-12135,25.0,Perempuan,Surabaya,Basic,10,2 Tahun,43,195,8175.0,E-Wallet,Ya,Tidak,1.1,1,8.0,2022-11-20,Indonesia
+PLG-12138,47.0,Laki-laki,Bandung,Premium,100,Bulanan,19,556,10200.0,E-Wallet,Ya,Tidak,3.6,2,7.0,2024-11-02,Indonesia
+PLG-12140,54.0,Perempuan,Jakarta,Basic,10,Tahunan,25,191,4571.0,Transfer Bank,Tidak,Tidak,0.7,0,7.0,2024-05-17,Indonesia
+PLG-12145,32.0,Perempuan,Surabaya,Premium,100,Tahunan,9,553,5104.0,Transfer Bank,Tidak,Tidak,2.0,1,7.0,2025-09-04,Indonesia
+PLG-12147,37.0,Perempuan,Jakarta,Standar,30,Tahunan,72,334,23000.0,Minimarket,Tidak,Tidak,1.2,1,,2020-06-21,Indonesia
+PLG-12156,31.0,Perempuan,Denpasar,Standar,30,Bulanan,8,342,2790.0,Minimarket,Tidak,Tidak,2.5,1,6.0,2025-10-12,Indonesia
+PLG-12158,34.0,Perempuan,Makassar,Basic,10,Bulanan,8,176,1357.0,E-Wallet,Tidak,Tidak,0.6,0,7.0,2025-10-19,Indonesia
+PLG-12162,37.0,Perempuan,Yogyakarta,Basic,10,Bulanan,2,284,562.0,E-Wallet,Tidak,Ya,3.5,1,5.0,2026-04-13,Indonesia
+PLG-12163,38.0,Laki-laki,Surabaya,Basic,10,2 Tahun,40,270,11160.0,Transfer Bank,Tidak,Ya,1.0,1,8.0,2023-02-24,Indonesia
+PLG-12171,40.0,Perempuan,Semarang,Basic,10,Tahunan,24,275,6395.0,E-Wallet,Ya,Ya,3.6,2,5.0,2024-06-12,Indonesia
+PLG-12172,41.0,Perempuan,Denpasar,Basic,10,Bulanan,8,294,2307.0,Kartu Kredit,Ya,Ya,0.5,1,10.0,2025-10-08,Indonesia
+PLG-12173,55.0,Perempuan,Semarang,Premium,100,2 Tahun,39,581,21947.0,E-Wallet,Tidak,Tidak,0.5,0,8.0,2023-03-21,Indonesia
+PLG-12176,33.0,Laki-laki,Bandung,Basic,10,Tahunan,5,181,893.0,Transfer Bank,Tidak,Tidak,1.7,3,7.0,2026-01-07,Indonesia
+PLG-12177,28.0,Laki-laki,Surabaya,Standar,30,Bulanan,9,346,3200.0,E-Wallet,Tidak,Tidak,6.3,6,2.0,2025-09-28,Indonesia
+PLG-12181,30.0,Laki-laki,Jakarta,Basic,10,Bulanan,7,196,1363.0,Transfer Bank,Tidak,Tidak,0.2,1,7.0,2025-11-19,Indonesia
+PLG-12184,44.0,Laki-laki,Yogyakarta,Basic,10,Tahunan,43,194,8233.0,,Ya,Tidak,0.7,0,9.0,2022-11-25,Indonesia
+PLG-12187,39.0,Laki-laki,Makassar,Standar,30,Bulanan,10,325,3108.0,Kartu Kredit,Ya,Tidak,1.5,0,6.0,2025-08-25,Indonesia
+PLG-12188,52.0,Perempuan,Jakarta,Basic,10,2 Tahun,72,197,13539.0,Kartu Kredit,Ya,Tidak,0.7,1,7.0,2020-06-04,Indonesia
+PLG-12190,53.0,Perempuan,Medan,Standar,30,Bulanan,15,313,4893.0,E-Wallet,Tidak,Tidak,1.1,2,7.0,2025-03-06,Indonesia
+PLG-12193,42.0,Perempuan,Jakarta,Premium,100,2 Tahun,38,614,23237.0,E-Wallet,Tidak,Ya,0.3,1,10.0,2023-04-15,Indonesia
+PLG-12195,34.0,Perempuan,Bandung,Basic,10,2 Tahun,72,285,21065.0,Transfer Bank,Ya,Ya,1.6,3,,2020-06-20,Indonesia
+PLG-12204,35.0,Laki-laki,Surabaya,Premium,100,Bulanan,18,552,9899.0,QRIS,Tidak,Tidak,1.9,1,6.0,2024-12-03,Indonesia
+PLG-12206,39.0,Perempuan,Semarang,Standar,30,Bulanan,6,332,1992.0,Transfer Bank,Ya,Tidak,0.4,1,8.0,2025-12-12,Indonesia
+PLG-12212,52.0,Laki-laki,Denpasar,Premium,100,Bulanan,3,632,1895.0,Transfer Bank,Ya,Ya,1.0,0,7.0,2026-03-26,Indonesia
+PLG-12214,35.0,Perempuan,Surabaya,Standar,30,Bulanan,11,323,3701.0,Minimarket,Tidak,Tidak,2.8,2,,2025-07-30,Indonesia
+PLG-12217,31.0,Laki-laki,Jakarta,Premium,100,Bulanan,39,559,21514.0,Minimarket,Tidak,Tidak,0.7,1,8.0,2023-03-21,Indonesia
+PLG-12219,43.0,Laki-laki,Jakarta,Standar,30,2 Tahun,49,421,19653.0,Kartu Kredit,Ya,Ya,0.3,0,9.0,2022-05-13,Indonesia
+PLG-12221,22.0,Perempuan,Bandung,Basic,10,Tahunan,2,190,393.0,Kartu Kredit,Ya,Tidak,0.4,1,6.0,2026-04-05,Indonesia
+PLG-12226,43.0,Perempuan,Bandung,Standar,30,Bulanan,7,412,2800.0,Minimarket,Tidak,Ya,2.4,1,5.0,2025-11-26,Indonesia
+PLG-12227,18.0,Laki-laki,Bandung,Basic,10,2 Tahun,61,212,12621.0,Transfer Bank,Tidak,Tidak,0.4,0,8.0,2021-05-24,Indonesia
+PLG-12228,47.0,Perempuan,Medan,Premium,100,Tahunan,24,635,15662.0,Kartu Kredit,Ya,Ya,0.9,0,8.0,2024-06-08,Indonesia
+PLG-12229,33.0,Laki-laki,Bandung,Premium,100,Tahunan,21,539,,Kartu Kredit,Tidak,Tidak,1.3,3,6.0,2024-09-07,Indonesia
+PLG-12232,25.0,Perempuan,Makassar,Standar,30,Bulanan,20,320,6199.0,Transfer Bank,Tidak,Tidak,4.2,1,7.0,2024-10-09,Indonesia
+PLG-12233,30.0,Laki-laki,Medan,Basic,10,Bulanan,7,258,1809.0,E-Wallet,Tidak,Ya,0.6,0,6.0,2025-11-07,Indonesia
+PLG-12234,45.0,Laki-laki,Jakarta,Basic,10,Tahunan,68,200,14142.0,Transfer Bank,Ya,Tidak,2.8,3,7.0,2020-10-10,Indonesia
+PLG-12236,47.0,Laki-laki,Surabaya,Basic,10,Bulanan,23,206,4784.0,Minimarket,Tidak,Tidak,0.3,0,7.0,2024-07-05,Indonesia
+PLG-12240,30.0,Laki-laki,Bandung,Premium,100,Bulanan,16,559,9014.0,Minimarket,Tidak,Tidak,0.2,0,8.0,2025-02-17,Indonesia
+PLG-12241,46.0,Perempuan,Jakarta,Premium,100,Bulanan,17,545,9715.0,E-Wallet,Tidak,Tidak,3.8,2,7.0,2025-01-24,Indonesia
+PLG-12242,30.0,Perempuan,Bandung,Standar,30,2 Tahun,34,353,11945.0,E-Wallet,Ya,Tidak,0.6,1,7.0,2023-08-30,Indonesia
+PLG-12250,42.0,Perempuan,Makassar,Basic,10,2 Tahun,28,185,5025.0,Kartu Kredit,Ya,Tidak,0.4,0,,2024-02-20,Indonesia
+PLG-12253,48.0,Laki-laki,Jakarta,Basic,10,Tahunan,23,195,4333.0,Transfer Bank,Tidak,Tidak,0.2,0,10.0,2024-07-11,Indonesia
+PLG-12254,45.0,Perempuan,Makassar,Premium,100,2 Tahun,15,557,8458.0,Minimarket,Tidak,Tidak,1.6,0,8.0,2025-03-25,Indonesia
+PLG-12257,,Laki-laki,Surabaya,Basic,10,2 Tahun,27,200,5284.0,E-Wallet,Tidak,Tidak,3.9,1,7.0,2024-03-09,Indonesia
+PLG-12259,29.0,Laki-laki,Semarang,Premium,100,Tahunan,3,525,1563.0,Transfer Bank,Tidak,Tidak,3.4,1,8.0,2026-03-17,Indonesia
+PLG-12260,31.0,Laki-laki,Semarang,Basic,10,2 Tahun,12,274,3451.0,E-Wallet,Ya,Ya,0.3,0,10.0,2025-06-11,Indonesia
+PLG-12263,,Laki-laki,Denpasar,Basic,10,Bulanan,5,228,1097.0,Transfer Bank,Tidak,Tidak,2.8,0,7.0,2026-01-05,Indonesia
+PLG-12266,37.0,Laki-laki,Jakarta,Basic,10,Tahunan,15,194,2811.0,Transfer Bank,Ya,Tidak,0.8,0,7.0,2025-03-04,Indonesia
+PLG-12274,20.0,Laki-laki,Bandung,Premium,100,Bulanan,3,552,1637.0,E-Wallet,Tidak,Tidak,2.1,2,,2026-03-11,Indonesia
+PLG-12283,27.0,Perempuan,Medan,Standar,30,Tahunan,2,416,835.0,Minimarket,Tidak,Ya,1.7,0,,2026-04-21,Indonesia
+PLG-12290,45.0,Perempuan,Bandung,Basic,10,Bulanan,17,184,3211.0,Transfer Bank,Tidak,Tidak,3.0,0,5.0,2025-01-12,Indonesia
+PLG-12293,,Perempuan,Semarang,Basic,10,Bulanan,19,199,3619.0,E-Wallet,Tidak,Tidak,0.7,0,7.0,2024-11-09,Indonesia
+PLG-12296,39.0,Laki-laki,Denpasar,Basic,10,Tahunan,7,188,1365.0,E-Wallet,Ya,Tidak,0.6,1,8.0,2025-11-18,Indonesia
+PLG-12298,46.0,Perempuan,Jakarta,Standar,30,2 Tahun,14,331,4597.0,Transfer Bank,Tidak,Tidak,1.9,2,6.0,2025-04-30,Indonesia
+PLG-12301,,Perempuan,Jakarta,Basic,10,Bulanan,26,198,5313.0,E-Wallet,Tidak,Tidak,1.1,0,8.0,2024-04-17,Indonesia
+PLG-12302,29.0,Laki-laki,Semarang,Standar,30,Tahunan,72,323,22948.0,E-Wallet,Tidak,Tidak,1.3,0,6.0,2020-06-15,Indonesia
+PLG-12306,27.0,Perempuan,Makassar,Premium,100,Tahunan,11,530,5794.0,Transfer Bank,Tidak,Tidak,5.1,2,6.0,2025-07-12,Indonesia
+PLG-12309,36.0,Laki-laki,Jakarta,Standar,30,Tahunan,56,405,21724.0,E-Wallet,Tidak,Ya,0.5,0,,2021-10-25,Indonesia
+PLG-12315,51.0,Perempuan,Jakarta,Standar,30,Tahunan,41,426,17302.0,Kartu Kredit,Ya,Ya,0.9,2,8.0,2023-01-22,Indonesia
+PLG-12320,38.0,Perempuan,Jakarta,Standar,30,Bulanan,9,316,2844.0,Transfer Bank,Ya,Tidak,0.7,1,8.0,2025-09-21,Indonesia
+PLG-12326,23.0,Perempuan,Jakarta,Standar,30,Bulanan,6,323,1901.0,Minimarket,Tidak,Tidak,0.6,1,7.0,2025-12-22,Indonesia
+PLG-12327,35.0,Laki-laki,Semarang,Standar,30,2 Tahun,42,405,16576.0,Kartu Kredit,Ya,Ya,3.4,0,7.0,2022-12-25,Indonesia
+PLG-12334,35.0,Perempuan,Bandung,Basic,10,Tahunan,18,201,3548.0,E-Wallet,Tidak,Tidak,0.2,0,8.0,2024-12-10,Indonesia
+PLG-12344,41.0,Perempuan,Bandung,Premium,100,Bulanan,12,640,8002.0,E-Wallet,Tidak,Ya,0.3,2,6.0,2025-06-08,Indonesia
+PLG-12346,27.0,Laki-laki,Bandung,Standar,30,Tahunan,17,331,5475.0,Transfer Bank,Ya,Tidak,3.0,1,8.0,2025-01-12,Indonesia
+PLG-12348,22.0,Perempuan,Yogyakarta,Basic,10,2 Tahun,57,217,12615.0,E-Wallet,Tidak,Tidak,1.1,0,10.0,2021-09-19,Indonesia
+PLG-12351,38.0,Laki-laki,Jakarta,Standar,30,Tahunan,31,407,12866.0,Kartu Kredit,Ya,Ya,2.8,2,6.0,2023-11-11,Indonesia
+PLG-12354,25.0,Perempuan,Medan,Basic,10,Bulanan,24,221,5559.0,E-Wallet,Ya,Tidak,2.6,2,6.0,2024-06-18,Indonesia
+PLG-12355,31.0,Laki-laki,Denpasar,Premium,100,Bulanan,20,618,12078.0,E-Wallet,Tidak,Ya,2.0,0,,2024-10-13,Indonesia
+PLG-12365,19.0,Perempuan,Bandung,Premium,100,2 Tahun,26,572,14828.0,Minimarket,Tidak,Tidak,0.1,2,9.0,2024-04-03,Indonesia
+PLG-12367,29.0,Laki-laki,Bandung,Basic,10,Bulanan,16,284,4578.0,Transfer Bank,Ya,Ya,1.9,0,8.0,2025-02-10,Indonesia
+PLG-12370,43.0,Perempuan,Surabaya,Basic,10,Tahunan,57,261,14293.0,Transfer Bank,Tidak,Ya,1.3,2,,2021-09-20,Indonesia
+PLG-12379,45.0,Laki-laki,Jakarta,Basic,10,2 Tahun,42,211,9234.0,Transfer Bank,Ya,Tidak,5.1,4,2.0,2022-12-25,Indonesia
+PLG-12382,44.0,Laki-laki,Medan,Basic,10,Tahunan,22,193,4057.0,Transfer Bank,Tidak,Tidak,0.6,0,8.0,2024-08-12,Indonesia
+PLG-12383,47.0,Laki-laki,Semarang,Premium,100,Bulanan,15,647,10020.0,Transfer Bank,Ya,Ya,0.3,0,7.0,2025-03-17,Indonesia
+PLG-12384,26.0,Perempuan,Jakarta,Basic,10,2 Tahun,8,184,1457.0,E-Wallet,Tidak,Tidak,1.0,1,,2025-10-28,Indonesia
+PLG-12386,,Perempuan,Semarang,Basic,10,2 Tahun,53,273,14633.0,E-Wallet,Tidak,Ya,0.5,1,6.0,2022-01-13,Indonesia
+PLG-12388,34.0,Laki-laki,Semarang,Basic,10,Tahunan,18,292,5203.0,Transfer Bank,Tidak,Ya,2.8,3,6.0,2024-12-16,Indonesia
+PLG-12389,33.0,Perempuan,Surabaya,Premium,100,2 Tahun,20,549,10934.0,Transfer Bank,Tidak,Tidak,2.1,3,7.0,2024-10-25,Indonesia
+PLG-12398,27.0,Perempuan,Surabaya,Premium,100,Tahunan,1,570,564.0,E-Wallet,Tidak,Tidak,0.5,0,6.0,2026-05-26,Indonesia
+PLG-12400,42.0,Perempuan,Yogyakarta,Premium,100,Bulanan,2,549,1129.0,Transfer Bank,Ya,Tidak,1.1,2,7.0,2026-04-23,Indonesia
+PLG-12401,43.0,Laki-laki,jakarta,Standar,30,Bulanan,15,342,5231.0,Transfer Bank,Tidak,Tidak,1.7,2,8.0,2025-03-20,Indonesia
+PLG-12403,41.0,Laki-laki,Bandung,Basic,10,2 Tahun,49,201,9935.0,Minimarket,Tidak,Tidak,0.4,0,,2022-05-29,Indonesia
+PLG-12407,27.0,Perempuan,Denpasar,Basic,10,Tahunan,14,279,3741.0,E-Wallet,Tidak,Ya,2.7,3,5.0,2025-04-25,Indonesia
+PLG-12408,,Perempuan,Jakarta,Premium,100,2 Tahun,22,635,13492.0,Minimarket,Tidak,Ya,1.8,1,5.0,2024-08-10,Indonesia
+PLG-12411,43.0,Perempuan,Denpasar,Premium,100,Bulanan,20,534,10927.0,Minimarket,Tidak,Tidak,1.1,0,8.0,2024-10-06,Indonesia
+PLG-12412,33.0,Laki-laki,Surabaya,Basic,10,Bulanan,9,183,1627.0,Transfer Bank,Tidak,Tidak,0.2,0,8.0,2025-09-08,Indonesia
+PLG-12415,44.0,Perempuan,Bandung,Standar,30,Bulanan,27,323,8321.0,E-Wallet,Ya,Tidak,1.1,1,8.0,2024-03-08,Indonesia
+PLG-12419,39.0,Perempuan,Semarang,Standar,30,Tahunan,13,311,4069.0,E-Wallet,Ya,Tidak,1.6,1,8.0,2025-05-27,Indonesia
+PLG-12423,36.0,Perempuan,Surabaya,Basic,10,Bulanan,9,175,1639.0,E-Wallet,Tidak,Tidak,3.4,1,8.0,2025-09-23,Indonesia
+PLG-12424,24.0,Perempuan,Makassar,Premium,100,Bulanan,10,552,5345.0,E-Wallet,Ya,Tidak,0.3,1,8.0,2025-08-17,Indonesia
+PLG-12429,44.0,Laki-laki,Bandung,Premium,100,Bulanan,25,558,14067.0,Transfer Bank,Ya,Tidak,1.4,0,8.0,2024-05-18,Indonesia
+PLG-12431,37.0,Perempuan,Jakarta,Premium,100,Bulanan,6,542,3229.0,Kartu Kredit,Ya,Tidak,3.6,2,6.0,2025-12-25,Indonesia
+PLG-12434,37.0,Perempuan,Jakarta,Basic,10,Tahunan,72,193,13846.0,Minimarket,Tidak,Tidak,0.2,0,7.0,2020-06-13,Indonesia
+PLG-12436,41.0,Laki-laki,Yogyakarta,Standar,30,Tahunan,9,344,3108.0,Transfer Bank,Tidak,Tidak,1.3,1,9.0,2025-09-11,Indonesia
+PLG-12442,39.0,Perempuan,Surabaya,Standar,30,Bulanan,2,310,600.0,Transfer Bank,Tidak,Tidak,0.6,0,10.0,2026-04-24,Indonesia
+PLG-12444,18.0,Laki-laki,Surabaya,Basic,10,Bulanan,1,206,206.0,,Ya,Tidak,1.2,2,,2026-05-22,Indonesia
+PLG-12458,31.0,Laki-laki,Medan,Standar,30,Bulanan,3,392,1143.0,E-Wallet,Ya,Ya,3.0,0,8.0,2026-03-11,Indonesia
+PLG-12459,36.0,Perempuan,Yogyakarta,Basic,10,Tahunan,34,212,7341.0,Transfer Bank,Ya,Tidak,2.8,2,7.0,2023-08-19,Indonesia
+PLG-12470,49.0,Perempuan,Jakarta,Standar,30,Bulanan,18,328,5657.0,Transfer Bank,Tidak,Tidak,0.6,0,6.0,2024-12-12,Indonesia
+PLG-12471,34.0,Perempuan,Makassar,Basic,10,Tahunan,25,186,4841.0,Transfer Bank,Tidak,Tidak,0.2,0,8.0,2024-05-23,Indonesia
+PLG-12479,33.0,Laki-laki,Surabaya,Basic,10,Bulanan,13,294,3966.0,Kartu Kredit,Ya,Ya,1.5,2,5.0,2025-05-28,Indonesia
+PLG-12481,46.0,Perempuan,Bandung,Premium,100,Bulanan,10,552,5290.0,Transfer Bank,Ya,Tidak,2.9,2,6.0,2025-08-08,Indonesia
+PLG-12485,43.0,Perempuan,Bandung,Basic,10,Tahunan,15,190,2803.0,Minimarket,Tidak,Tidak,2.8,5,4.0,2025-03-28,Indonesia
+PLG-12487,50.0,Perempuan,Jakarta,Premium,100,Bulanan,7,540,3850.0,Transfer Bank,Ya,Tidak,1.8,1,6.0,2025-11-20,Indonesia
+PLG-12490,20.0,Laki-laki,MEDAN,Standar,30,Bulanan,4,319,1262.0,E-Wallet,Tidak,Tidak,0.4,0,,2026-02-04,Indonesia
+PLG-12498,44.0,Perempuan,Bandung,Standar,30,Tahunan,14,335,4640.0,E-Wallet,Ya,Tidak,0.3,0,9.0,2025-04-06,Indonesia
+PLG-12503,33.0,Perempuan,Bandung,Standar,30,Bulanan,6,350,2065.0,E-Wallet,Tidak,Tidak,3.1,0,7.0,2025-12-20,Indonesia
+PLG-12504,36.0,Perempuan,Surabaya,Basic,10,Tahunan,28,211,5683.0,QRIS,Ya,Tidak,1.3,0,9.0,2024-02-09,Indonesia
+PLG-12505,60.0,Perempuan,Yogyakarta,Basic,10,Bulanan,2,178,346.0,Minimarket,Tidak,Tidak,0.8,0,9.0,2026-04-18,Indonesia
+PLG-12507,44.0,Laki-laki,Medan,Premium,100,Bulanan,13,531,6878.0,E-Wallet,Tidak,Tidak,3.0,1,,2025-05-10,Indonesia
+PLG-12511,48.0,Perempuan,Bandung,Basic,10,Tahunan,15,314,4822.0,Minimarket,Tidak,Ya,1.0,1,6.0,2025-03-27,Indonesia
+PLG-12514,35.0,Laki-laki,Jakarta,Standar,30,Bulanan,11,338,,Minimarket,Tidak,Tidak,0.8,1,7.0,2025-07-28,Indonesia
+PLG-12517,40.0,Laki-laki,Semarang,Standar,30,Bulanan,12,435,5153.0,E-Wallet,Tidak,Ya,0.6,2,8.0,2025-06-14,Indonesia
+PLG-12519,31.0,Laki-laki,Bandung,Standar,30,Bulanan,4,332,1293.0,,Tidak,Tidak,2.4,0,8.0,2026-02-27,Indonesia
+PLG-12523,49.0,Laki-laki,Makassar,Standar,30,Bulanan,20,346,6679.0,Kartu Kredit,Ya,Tidak,3.9,1,6.0,2024-10-21,Indonesia
+PLG-12525,24.0,Perempuan,Medan,Basic,10,Bulanan,36,202,7491.0,QRIS,Ya,Tidak,0.6,0,8.0,2023-06-20,Indonesia
+PLG-12532,26.0,Laki-laki,Denpasar,Basic,10,Tahunan,19,273,4993.0,Transfer Bank,Tidak,Ya,0.9,1,7.0,2024-11-22,Indonesia
+PLG-12539,31.0,Laki-laki,Jakarta,Basic,10,Bulanan,3,195,558.0,E-Wallet,Tidak,Tidak,1.6,0,7.0,2026-03-04,Indonesia
+PLG-12542,18.0,Laki-laki,Yogyakarta,Standar,30,Bulanan,36,345,12106.0,Kartu Kredit,Ya,Tidak,2.0,0,7.0,2023-06-18,Indonesia
+PLG-12543,48.0,Perempuan,Surabaya,Basic,10,Tahunan,36,196,6718.0,Transfer Bank,Tidak,Tidak,0.0,0,6.0,2023-06-28,Indonesia
+PLG-12547,39.0,Perempuan,Surabaya,Basic,10,Bulanan,22,197,4489.0,Transfer Bank,Tidak,Tidak,0.7,1,,2024-08-12,Indonesia
+PLG-12548,38.0,Laki-laki,Surabaya,Standar,30,Bulanan,5,300,1541.0,Kartu Kredit,Ya,Tidak,0.7,1,6.0,2026-01-08,Indonesia
+PLG-12550,42.0,Perempuan,Jakarta,Standar,30,Bulanan,12,413,4950.0,Kartu Kredit,Ya,Ya,1.5,1,7.0,2025-06-16,Indonesia
+PLG-12554,35.0,Laki-laki,Medan,Premium,100,2 Tahun,27,552,14895.0,Minimarket,Tidak,Tidak,4.3,1,5.0,2024-03-30,Indonesia
+PLG-12557,36.0,Perempuan,Jakarta,Basic,10,2 Tahun,20,200,3870.0,Kartu Kredit,Ya,Tidak,1.9,2,6.0,2024-10-14,Indonesia
+PLG-12565,27.0,Laki-laki,makassar,Basic,10,2 Tahun,25,291,7358.0,E-Wallet,Tidak,Ya,2.0,2,6.0,2024-05-15,Indonesia
+PLG-12566,18.0,Perempuan,Jakarta,Premium,100,Bulanan,13,536,6943.0,E-Wallet,Tidak,Tidak,0.3,0,10.0,2025-05-06,Indonesia
+PLG-12568,36.0,Laki-laki,Bandung,Standar,30,Tahunan,60,330,19090.0,Transfer Bank,Ya,Tidak,1.7,0,7.0,2021-06-29,Indonesia
+PLG-12572,53.0,Laki-laki,Jakarta,Standar,30,2 Tahun,12,318,3736.0,Transfer Bank,Ya,Tidak,1.0,0,8.0,2025-06-21,Indonesia
+PLG-12574,35.0,Laki-laki,Yogyakarta,Basic,10,Tahunan,17,201,3410.0,Kartu Kredit,Tidak,Tidak,0.6,0,6.0,2025-01-14,Indonesia
+PLG-12578,33.0,Perempuan,Yogyakarta,Basic,10,Tahunan,8,275,2112.0,Minimarket,Tidak,Ya,0.3,0,8.0,2025-10-27,Indonesia
+PLG-12586,42.0,Perempuan,Medan,Basic,10,Bulanan,9,294,2649.0,E-Wallet,Ya,Ya,0.9,1,7.0,2025-09-18,Indonesia
+PLG-12587,23.0,Laki-laki,Jakarta,Premium,100,Tahunan,9,545,4900.0,Transfer Bank,Tidak,Tidak,0.4,0,8.0,2025-09-20,Indonesia
+PLG-12589,35.0,Laki-laki,Yogyakarta,Standar,30,Tahunan,21,395,8372.0,Minimarket,Tidak,Ya,1.3,2,5.0,2024-09-25,Indonesia
+PLG-12594,53.0,Laki-laki,Surabaya,Basic,10,Bulanan,17,263,4461.0,Minimarket,Tidak,Ya,1.8,1,,2025-01-17,Indonesia
+PLG-12595,25.0,Laki-laki,Jakarta,Premium,100,Bulanan,4,626,2384.0,Transfer Bank,Ya,Ya,2.6,0,9.0,2026-02-11,Indonesia
+PLG-12603,45.0,Laki-laki,Bandung,Standar,30,Tahunan,64,412,27650.0,E-Wallet,Ya,Ya,1.2,0,,2021-02-17,Indonesia
+PLG-12606,41.0,Laki-laki,Yogyakarta,Standar,30,2 Tahun,52,332,16904.0,Transfer Bank,Ya,Tidak,1.7,1,7.0,2022-02-19,Indonesia
+PLG-12610,18.0,Perempuan,Medan,Standar,30,Bulanan,13,308,3868.0,Transfer Bank,Tidak,Tidak,4.0,2,,2025-05-09,Indonesia
+PLG-12612,18.0,Perempuan,Medan,Basic,10,Tahunan,38,178,6564.0,E-Wallet,Tidak,Tidak,0.8,0,,2023-04-17,Indonesia
+PLG-12614,33.0,Perempuan,Surabaya,Basic,10,Bulanan,6,201,,Transfer Bank,Tidak,Tidak,3.2,3,,2025-12-11,Indonesia
+PLG-12615,47.0,Perempuan,Jakarta,Premium,100,2 Tahun,20,564,11499.0,Kartu Kredit,Ya,Tidak,0.7,0,6.0,2024-10-09,Indonesia
+PLG-12616,25.0,Laki-laki,Bandung,Basic,10,Tahunan,18,271,4730.0,E-Wallet,Tidak,Ya,0.7,4,5.0,2024-12-06,Indonesia
+PLG-12618,46.0,Laki-laki,Makassar,Standar,30,2 Tahun,72,340,24504.0,E-Wallet,Tidak,Tidak,1.6,1,5.0,2020-06-28,Indonesia
+PLG-12621,19.0,Perempuan,Medan,Standar,30,Bulanan,5,339,1722.0,E-Wallet,Tidak,Tidak,0.7,1,6.0,2026-01-26,Indonesia
+PLG-12622,42.0,Laki-laki,Jakarta,Standar,30,Bulanan,20,329,6535.0,E-Wallet,Ya,Tidak,1.6,1,8.0,2024-10-29,Indonesia
+PLG-12623,18.0,Laki-laki,Denpasar,Premium,100,Tahunan,18,614,11338.0,E-Wallet,Tidak,Ya,1.0,1,10.0,2024-12-05,Indonesia
+PLG-12627,24.0,Laki-laki,Medan,Premium,100,Bulanan,11,550,6022.0,Minimarket,Tidak,Tidak,2.7,2,6.0,2025-07-20,Indonesia
+PLG-12630,,Laki-laki,Bandung,Basic,10,Tahunan,50,222,,E-Wallet,Tidak,Tidak,4.2,2,5.0,2022-04-16,Indonesia
+PLG-12633,18.0,Perempuan,semarang,Standar,30,Bulanan,4,404,1536.0,E-Wallet,Tidak,Ya,0.8,0,8.0,2026-02-14,Indonesia
+PLG-12635,44.0,Perempuan,Yogyakarta,Standar,30,2 Tahun,21,337,6983.0,E-Wallet,Tidak,Tidak,4.0,1,7.0,2024-09-05,Indonesia
+PLG-12641,36.0,Laki-laki,Jakarta,Basic,10,Bulanan,6,290,1738.0,E-Wallet,Tidak,Ya,1.8,1,5.0,2025-12-06,Indonesia
+PLG-12643,37.0,Perempuan,Jakarta,Basic,10,2 Tahun,37,300,10742.0,,Ya,Ya,2.8,0,6.0,2023-05-14,Indonesia
+PLG-12645,37.0,Laki-laki,Jakarta,Basic,10,Tahunan,12,223,2664.0,Transfer Bank,Tidak,Tidak,0.4,0,8.0,2025-06-25,Indonesia
+PLG-12647,,Laki-laki,Semarang,Basic,10,Bulanan,15,208,3072.0,Minimarket,Tidak,Tidak,2.9,0,7.0,2025-03-19,Indonesia
+PLG-12648,,Perempuan,Surabaya,Premium,100,2 Tahun,47,554,25132.0,Kartu Kredit,Ya,Tidak,0.8,0,8.0,2022-07-21,Indonesia
+PLG-12651,31.0,Perempuan,Jakarta,Premium,100,Bulanan,9,624,5665.0,E-Wallet,Ya,Ya,0.3,0,,2025-09-14,Indonesia
+PLG-12653,21.0,Perempuan,Jakarta,Basic,10,2 Tahun,21,299,6054.0,E-Wallet,Ya,Ya,4.0,2,3.0,2024-09-10,Indonesia
+PLG-12654,45.0,Laki-laki,Denpasar,Premium,100,2 Tahun,56,645,36185.0,Minimarket,Tidak,Ya,1.0,2,8.0,2021-10-26,Indonesia
+PLG-12655,26.0,Perempuan,Yogyakarta,Standar,30,Bulanan,8,328,2729.0,Kartu Kredit,Tidak,Tidak,1.8,1,7.0,2025-10-24,Indonesia
+PLG-12657,34.0,Perempuan,Jakarta,Standar,30,Bulanan,4,321,1246.0,Transfer Bank,Tidak,Tidak,0.9,1,6.0,2026-02-16,Indonesia
+PLG-12659,48.0,Laki-laki,Surabaya,Basic,10,Bulanan,6,204,1195.0,Minimarket,Tidak,Tidak,0.1,1,,2025-12-10,Indonesia
+PLG-12662,49.0,Laki-laki,Jakarta,Standar,30,Tahunan,9,402,3711.0,Transfer Bank,Tidak,Ya,1.5,0,7.0,2025-09-03,Indonesia
+PLG-12664,21.0,Laki-laki,Medan,Standar,30,Tahunan,38,417,,Transfer Bank,Ya,Ya,0.3,1,8.0,2023-04-28,Indonesia
+PLG-12666,23.0,Laki-laki,Bandung,Premium,100,Bulanan,22,634,14314.0,E-Wallet,Tidak,Ya,0.3,1,,2024-08-28,Indonesia
+PLG-12670,29.0,Perempuan,Jakarta,Premium,100,Tahunan,14,559,7568.0,E-Wallet,Ya,Tidak,2.4,2,6.0,2025-04-06,Indonesia
+PLG-12671,56.0,Perempuan,Jakarta,Premium,100,Tahunan,23,558,12500.0,Transfer Bank,Ya,Tidak,1.9,3,5.0,2024-07-30,Indonesia
+PLG-12674,40.0,Laki-laki,Jakarta,Standar,30,Bulanan,14,317,4391.0,E-Wallet,Tidak,Tidak,0.1,0,7.0,2025-04-05,Indonesia
+PLG-12681,43.0,Perempuan,Bandung,Standar,30,2 Tahun,7,389,2798.0,E-Wallet,Ya,Ya,1.8,1,8.0,2025-11-22,Indonesia
+PLG-12685,27.0,Perempuan,Bandung,Basic,10,Bulanan,19,197,3909.0,Kartu Kredit,Tidak,Tidak,4.6,5,5.0,2024-11-24,Indonesia
+PLG-12686,18.0,Laki-laki,Surabaya,Standar,30,2 Tahun,43,326,13941.0,E-Wallet,Tidak,Tidak,0.9,0,,2022-11-22,Indonesia
+PLG-12688,53.0,Laki-laki,Jakarta,Basic,10,Bulanan,7,192,1291.0,Kartu Kredit,Ya,Tidak,1.7,0,6.0,2025-11-10,Indonesia
+PLG-12691,18.0,Laki-laki,Surabaya,Standar,30,Tahunan,18,317,5603.0,,Tidak,Tidak,2.4,3,7.0,2024-12-21,Indonesia
+PLG-12695,36.0,Perempuan,Surabaya,Premium,100,Tahunan,40,563,23205.0,Transfer Bank,Tidak,Tidak,2.7,1,6.0,2023-02-28,Indonesia
+PLG-12700,50.0,Laki-laki,Denpasar,Standar,30,2 Tahun,72,414,28628.0,E-Wallet,Tidak,Ya,1.7,1,7.0,2020-06-13,Indonesia
+PLG-12701,49.0,Laki-laki,Bandung,Basic,10,Tahunan,37,196,7061.0,Transfer Bank,Tidak,Tidak,1.5,0,7.0,2023-05-30,Indonesia
+PLG-12705,26.0,Perempuan,Jakarta,Basic,10,2 Tahun,21,216,4740.0,E-Wallet,Tidak,Tidak,1.4,1,7.0,2024-09-10,Indonesia
+PLG-12715,39.0,Laki-laki,Surabaya,Premium,100,Bulanan,12,557,6820.0,,Tidak,Tidak,2.7,2,,2025-06-10,Indonesia
+PLG-12717,45.0,Perempuan,Bandung,Standar,30,Bulanan,52,341,18249.0,Transfer Bank,Tidak,Tidak,0.5,1,7.0,2022-02-25,Indonesia
+PLG-12721,39.0,Laki-laki,Jakarta,Basic,10,2 Tahun,58,299,17293.0,E-Wallet,Ya,Ya,2.5,1,6.0,2021-08-09,Indonesia
+PLG-12723,42.0,Laki-laki,Jakarta,Basic,10,Bulanan,24,281,7017.0,Minimarket,Tidak,Ya,0.8,0,8.0,2024-06-18,Indonesia
+PLG-12730,60.0,Perempuan,Bandung,Basic,10,Bulanan,34,181,5923.0,Kartu Kredit,Ya,Tidak,0.5,0,5.0,2023-08-23,Indonesia
+PLG-12732,38.0,Perempuan,Yogyakarta,Standar,30,Bulanan,30,412,12704.0,Transfer Bank,Ya,Ya,0.5,0,9.0,2023-12-18,Indonesia
+PLG-12738,37.0,Perempuan,Semarang,Premium,100,Tahunan,65,509,33496.0,E-Wallet,Tidak,Tidak,0.3,0,9.0,2021-01-19,Indonesia
+PLG-12744,43.0,Perempuan,Bandung,Basic,10,Bulanan,5,189,936.0,Transfer Bank,Ya,Tidak,2.0,0,,2026-01-06,Indonesia
+PLG-12745,38.0,Perempuan,Denpasar,Basic,10,Bulanan,33,188,6217.0,Transfer Bank,Ya,Tidak,0.4,0,,2023-09-23,Indonesia
+PLG-12747,48.0,Laki-laki,Yogyakarta,Premium,100,Bulanan,13,560,7418.0,Transfer Bank,Ya,Tidak,0.7,0,6.0,2025-05-30,Indonesia
+PLG-12750,52.0,Perempuan,Jakarta,Standar,30,Bulanan,22,333,,Transfer Bank,Tidak,Tidak,0.4,3,6.0,2024-08-24,Indonesia
+PLG-12753,58.0,Laki-laki,Surabaya,Standar,30,Tahunan,24,415,9559.0,Transfer Bank,Tidak,Ya,1.5,2,5.0,2024-06-20,Indonesia
+PLG-12756,36.0,Laki-laki,Surabaya,Basic,10,Bulanan,17,197,3372.0,Transfer Bank,Ya,Tidak,0.5,1,9.0,2025-01-18,Indonesia
+PLG-12758,33.0,Perempuan,Makassar,Basic,10,2 Tahun,19,287,5651.0,Minimarket,Tidak,Ya,1.2,1,7.0,2024-11-24,Indonesia
+PLG-12762,27.0,Laki-laki,Surabaya,Premium,100,2 Tahun,7,556,3795.0,E-Wallet,Tidak,Tidak,0.3,0,9.0,2025-11-29,Indonesia
+PLG-12765,41.0,Laki-laki,Bandung,Basic,10,Bulanan,22,176,4057.0,Transfer Bank,Tidak,Tidak,0.5,0,7.0,2024-08-05,Indonesia
+PLG-12771,42.0,Perempuan,Medan,Premium,100,Bulanan,9,638,5495.0,Kartu Kredit,Tidak,Ya,4.1,2,,2025-09-19,Indonesia
+PLG-12773,28.0,Laki-laki,Surabaya,Basic,10,Bulanan,16,193,3124.0,Transfer Bank,Tidak,Tidak,0.3,0,,2025-02-20,Indonesia
+PLG-12776,47.0,Laki-laki,Semarang,Standar,30,Tahunan,6,328,1973.0,Transfer Bank,Ya,Tidak,0.1,1,6.0,2025-12-19,Indonesia
+PLG-12780,34.0,Laki-laki,Surabaya,Basic,10,Tahunan,6,198,1165.0,Transfer Bank,Tidak,Tidak,2.1,0,8.0,2025-12-21,Indonesia
+PLG-12783,44.0,Laki-laki,Denpasar,Standar,30,Bulanan,7,436,2903.0,Transfer Bank,Tidak,Ya,2.2,1,7.0,2025-11-15,Indonesia
+PLG-12785,42.0,Perempuan,Surabaya,Basic,10,Tahunan,55,200,10585.0,,Tidak,Tidak,1.6,1,9.0,2021-11-03,Indonesia
+PLG-12797,37.0,Perempuan,Jakarta,Basic,10,Bulanan,24,288,6606.0,Minimarket,Tidak,Ya,0.4,1,7.0,2024-06-09,Indonesia
+PLG-12799,47.0,Laki-laki,Jakarta,Standar,30,Bulanan,5,325,1655.0,Minimarket,Tidak,Tidak,0.1,1,7.0,2026-01-15,Indonesia
+PLG-12800,18.0,Perempuan,Semarang,Basic,10,Tahunan,18,203,3708.0,Minimarket,Tidak,Tidak,3.1,1,6.0,2024-12-28,Indonesia
+PLG-12806,39.0,Laki-laki,Jakarta,Standar,30,Bulanan,12,333,3926.0,Transfer Bank,Ya,Tidak,1.0,2,7.0,2025-06-17,Indonesia
+PLG-12808,44.0,Laki-laki,Bandung,Standar,30,2 Tahun,47,418,20591.0,Transfer Bank,Tidak,Ya,1.4,2,8.0,2022-07-26,Indonesia
+PLG-12811,33.0,Laki-laki,Surabaya,Standar,30,Bulanan,15,324,4921.0,Transfer Bank,Tidak,Tidak,0.9,0,,2025-03-11,Indonesia
+PLG-12816,56.0,Perempuan,Medan,Premium,100,Bulanan,5,546,2759.0,E-Wallet,Tidak,Tidak,5.5,6,,2026-01-16,Indonesia
+PLG-12817,37.0,Laki-laki,JAKARTA,Standar,30,Tahunan,15,321,4909.0,Transfer Bank,Tidak,Tidak,3.8,2,5.0,2025-03-03,Indonesia
+PLG-12818,23.0,Perempuan,Bandung,Basic,10,Bulanan,8,185,1494.0,E-Wallet,Ya,Tidak,0.8,2,8.0,2025-10-04,Indonesia
+PLG-12821,34.0,Laki-laki,Semarang,Basic,10,Bulanan,25,204,5090.0,Transfer Bank,Tidak,Tidak,0.8,0,7.0,2024-05-16,Indonesia
+PLG-12822,36.0,Perempuan,Jakarta,Premium,100,Bulanan,1,633,661.0,Minimarket,Tidak,Ya,1.9,2,6.0,2026-05-26,Indonesia
+PLG-12828,24.0,Perempuan,Jakarta,Premium,100,Bulanan,18,558,9683.0,Transfer Bank,Tidak,Tidak,1.4,1,8.0,2024-12-22,Indonesia
+PLG-12837,40.0,Laki-laki,Medan,Basic,10,Bulanan,11,292,3272.0,Minimarket,Tidak,Ya,1.1,0,7.0,2025-07-07,Indonesia
+PLG-12841,24.0,Laki-laki,Jakarta,Standar,30,Tahunan,10,320,3327.0,Transfer Bank,Tidak,Tidak,1.3,0,9.0,2025-08-18,Indonesia
+PLG-12843,30.0,Perempuan,Bandung,Basic,10,2 Tahun,18,205,3788.0,E-Wallet,Tidak,Tidak,2.9,0,7.0,2024-12-20,Indonesia
+PLG-12848,45.0,Perempuan,Bandung,Basic,10,Bulanan,12,295,3553.0,Transfer Bank,Tidak,Ya,4.2,2,6.0,2025-06-06,Indonesia
+PLG-12849,24.0,Perempuan,Semarang,Standar,30,2 Tahun,44,383,16641.0,,Tidak,Ya,1.5,2,9.0,2022-10-17,Indonesia
+PLG-12850,0.0,Perempuan,Semarang,Standar,30,Tahunan,37,332,12017.0,Transfer Bank,Tidak,Tidak,1.2,1,5.0,2023-05-14,Indonesia
+PLG-12855,29.0,Perempuan,Semarang,Basic,10,Tahunan,12,201,2355.0,Kartu Kredit,Tidak,Tidak,1.3,2,8.0,2025-06-13,Indonesia
+PLG-12857,45.0,Perempuan,Denpasar,Standar,30,2 Tahun,48,338,16488.0,Transfer Bank,Tidak,Tidak,1.0,2,8.0,2022-06-09,Indonesia
+PLG-12859,43.0,Laki-laki,Surabaya,Premium,100,Bulanan,34,660,21808.0,Transfer Bank,Tidak,Ya,0.6,1,6.0,2023-08-09,Indonesia
+PLG-12874,34.0,Laki-laki,Bandung,Premium,100,2 Tahun,25,546,13963.0,Kartu Kredit,Ya,Tidak,0.7,1,7.0,2024-05-07,Indonesia
+PLG-12879,37.0,Laki-laki,Makassar,Standar,30,Tahunan,16,413,6812.0,Kartu Kredit,Tidak,Ya,3.7,2,5.0,2025-02-08,Indonesia
+PLG-12881,48.0,Laki-laki,Jakarta,Premium,100,2 Tahun,27,568,15835.0,Kartu Kredit,Ya,Tidak,0.3,1,,2024-03-15,Indonesia
+PLG-12882,33.0,Laki-laki,Surabaya,Standar,30,Bulanan,5,331,1626.0,Transfer Bank,Ya,Tidak,0.6,2,,2026-01-03,Indonesia
+PLG-12883,30.0,Perempuan,Jakarta,Basic,10,Bulanan,21,217,4450.0,E-Wallet,Ya,Tidak,0.2,1,8.0,2024-09-17,Indonesia
+PLG-12884,,Perempuan,Bandung,Basic,10,Bulanan,27,208,5830.0,Minimarket,Tidak,Tidak,2.5,1,7.0,2024-03-19,Indonesia
+PLG-12890,44.0,Laki-laki,Surabaya,Standar,30,Bulanan,4,326,1257.0,Transfer Bank,Tidak,Tidak,0.1,1,8.0,2026-02-11,Indonesia
+PLG-12891,27.0,Laki-laki,Bandung,Basic,10,Tahunan,23,209,4935.0,Minimarket,Tidak,Tidak,0.0,0,9.0,2024-07-25,Indonesia
+PLG-12896,23.0,Laki-laki,Bandung,Basic,10,2 Tahun,48,217,10805.0,Transfer Bank,Ya,Tidak,1.1,0,7.0,2022-06-13,Indonesia
+PLG-12898,33.0,Perempuan,Jakarta,Standar,30,Tahunan,16,339,5479.0,Transfer Bank,Tidak,Tidak,2.1,0,,2025-02-09,Indonesia
+PLG-12906,46.0,Perempuan,Jakarta,Premium,100,Bulanan,27,624,16659.0,Transfer Bank,Ya,Ya,0.4,0,,2024-03-27,Indonesia
+PLG-12909,32.0,Laki-laki,Bandung,Basic,10,Bulanan,3,181,562.0,Kartu Kredit,Tidak,Tidak,1.0,1,9.0,2026-03-24,Indonesia
+PLG-12911,58.0,Laki-laki,Surabaya,Premium,100,Bulanan,6,554,3232.0,E-Wallet,Tidak,Tidak,1.8,0,6.0,2025-12-12,Indonesia
+PLG-12915,42.0,Laki-laki,Surabaya,Premium,100,Bulanan,12,571,6517.0,Transfer Bank,Tidak,Tidak,1.7,0,8.0,2025-06-27,Indonesia
+PLG-12916,21.0,Perempuan,Surabaya,Basic,10,Bulanan,9,276,2523.0,Kartu Kredit,Tidak,Ya,1.6,0,8.0,2025-09-21,Indonesia
+PLG-12917,54.0,Perempuan,Jakarta,Standar,30,Tahunan,72,327,24388.0,E-Wallet,Ya,Tidak,0.6,0,7.0,2020-06-09,Indonesia
+PLG-12919,37.0,Laki-laki,Surabaya,Standar,30,Tahunan,62,310,18891.0,Transfer Bank,Tidak,Tidak,0.6,2,7.0,2021-04-26,Indonesia
+PLG-12923,22.0,Perempuan,Bandung,Basic,10,Tahunan,48,206,9569.0,Transfer Bank,Tidak,Tidak,1.6,1,4.0,2022-06-06,Indonesia
+PLG-12924,30.0,Laki-laki,Bandung,Standar,30,Bulanan,4,411,1603.0,E-Wallet,Tidak,Ya,0.8,0,9.0,2026-02-15,Indonesia
+PLG-12929,41.0,Perempuan,Medan,Basic,10,Bulanan,2,208,431.0,Kartu Kredit,Ya,Tidak,1.1,0,9.0,2026-04-20,Indonesia
+PLG-12936,30.0,Perempuan,Jakarta,Standar,30,2 Tahun,72,342,23399.0,Minimarket,Tidak,Tidak,0.6,0,6.0,2020-06-19,Indonesia
+PLG-12939,39.0,Perempuan,Bandung,Standar,30,Bulanan,13,337,4390.0,Minimarket,Tidak,Tidak,1.2,1,,2025-05-16,Indonesia
+PLG-12943,39.0,Perempuan,Surabaya,Standar,30,Bulanan,9,412,3625.0,Minimarket,Tidak,Ya,0.7,0,,2025-09-28,Indonesia
+PLG-12946,59.0,Perempuan,YOGYAKARTA,Basic,10,Tahunan,20,220,4413.0,Transfer Bank,Ya,Tidak,1.3,0,9.0,2024-10-18,Indonesia
+PLG-12949,36.0,Perempuan,Medan,Basic,10,Tahunan,40,212,8241.0,Minimarket,Tidak,Tidak,1.7,1,8.0,2023-02-26,Indonesia
+PLG-12950,18.0,Perempuan,Surabaya,Premium,100,Bulanan,30,548,16867.0,E-Wallet,Ya,Tidak,1.6,2,7.0,2023-12-03,Indonesia
+PLG-12957,54.0,Perempuan,JAKARTA,Premium,100,Bulanan,13,547,6781.0,Transfer Bank,Tidak,Tidak,1.9,0,7.0,2025-05-26,Indonesia
+PLG-12964,66.0,Perempuan,Surabaya,Basic,10,Tahunan,9,194,1776.0,E-Wallet,Tidak,Tidak,0.3,0,8.0,2025-09-18,Indonesia
+PLG-12970,29.0,Laki-laki,Jakarta,Premium,100,Tahunan,28,626,17860.0,Transfer Bank,Tidak,Ya,0.1,0,6.0,2024-02-02,Indonesia
+PLG-12972,24.0,Laki-laki,Bandung,Basic,10,Tahunan,7,179,1222.0,E-Wallet,Tidak,Tidak,0.8,0,9.0,2025-11-23,Indonesia
+PLG-12975,19.0,Perempuan,Jakarta,Basic,10,Tahunan,44,199,8418.0,Transfer Bank,Ya,Tidak,0.3,0,9.0,2022-10-24,Indonesia
+PLG-12978,23.0,Perempuan,Medan,Standar,30,Bulanan,8,330,2615.0,Minimarket,Tidak,Tidak,0.5,1,5.0,2025-10-10,Indonesia
+PLG-12980,18.0,Perempuan,Surabaya,Basic,10,Tahunan,4,183,696.0,E-Wallet,Tidak,Tidak,1.0,0,8.0,2026-02-02,Indonesia
+PLG-12986,28.0,Laki-laki,Makassar,Standar,30,Tahunan,52,328,16756.0,Kartu Kredit,Ya,Tidak,1.5,1,6.0,2022-02-11,Indonesia
+PLG-12987,34.0,Laki-laki,Semarang,Basic,10,Bulanan,13,298,3767.0,Kartu Kredit,Tidak,Ya,1.4,2,9.0,2025-05-06,Indonesia
+PLG-12990,26.0,Perempuan,Makassar,Standar,30,2 Tahun,27,318,8478.0,Transfer Bank,Ya,Tidak,3.0,0,6.0,2024-03-17,Indonesia
+PLG-12991,37.0,Perempuan,Bandung,Basic,10,2 Tahun,14,184,2617.0,Transfer Bank,Ya,Tidak,1.5,1,8.0,2025-04-09,Indonesia
+PLG-12997,36.0,Perempuan,Yogyakarta,Basic,10,2 Tahun,47,287,13506.0,Transfer Bank,Ya,Ya,2.6,3,5.0,2022-07-29,Indonesia
+PLG-13001,47.0,Laki-laki,Denpasar,Premium,100,Tahunan,18,554,9676.0,E-Wallet,Ya,Tidak,2.2,0,6.0,2024-12-06,Indonesia
+PLG-13006,43.0,Perempuan,Jakarta,Basic,10,Bulanan,4,212,854.0,Minimarket,Tidak,Tidak,0.1,1,6.0,2026-02-06,Indonesia
+PLG-13008,43.0,Perempuan,Surabaya,Standar,30,Bulanan,3,330,989.0,Kartu Kredit,Ya,Tidak,1.6,0,7.0,2026-03-09,Indonesia
+PLG-13009,24.0,Perempuan,Denpasar,Premium,100,Bulanan,14,544,7321.0,Transfer Bank,Tidak,Tidak,2.2,1,,2025-04-16,Indonesia
+PLG-13015,33.0,Laki-laki,Surabaya,Basic,10,Tahunan,23,198,4536.0,E-Wallet,Tidak,Tidak,2.2,1,7.0,2024-07-28,Indonesia
+PLG-13018,44.0,Perempuan,Yogyakarta,Standar,30,Bulanan,16,405,6293.0,E-Wallet,Ya,Ya,1.1,1,8.0,2025-02-17,Indonesia
+PLG-13019,45.0,Laki-laki,Jakarta,Basic,10,Tahunan,6,283,1701.0,Transfer Bank,Ya,Ya,1.0,2,6.0,2025-12-09,Indonesia
+PLG-13020,32.0,Perempuan,Bandung,Standar,30,Bulanan,14,434,6203.0,Kartu Kredit,Ya,Ya,0.9,0,9.0,2025-04-13,Indonesia
+PLG-13026,39.0,Perempuan,Semarang,Premium,100,Tahunan,31,570,17634.0,Minimarket,Tidak,Tidak,3.1,3,5.0,2023-11-28,Indonesia
+PLG-13033,52.0,Perempuan,Surabaya,Premium,100,2 Tahun,5,632,3133.0,Kartu Kredit,Tidak,Ya,1.6,0,6.0,2026-01-06,Indonesia
+PLG-13036,57.0,Laki-laki,Surabaya,Standar,30,Tahunan,24,329,8247.0,Transfer Bank,Tidak,Tidak,1.2,1,8.0,2024-06-21,Indonesia
+PLG-13039,61.0,Laki-laki,Jakarta,Basic,10,Bulanan,6,205,1206.0,Minimarket,Tidak,Tidak,0.4,0,9.0,2025-12-13,Indonesia
+PLG-13047,32.0,Perempuan,Jakarta,Basic,10,Bulanan,6,192,1162.0,Minimarket,Tidak,Tidak,0.1,0,8.0,2025-12-22,Indonesia
+PLG-13051,29.0,Laki-laki,Surabaya ,Standar,30,Bulanan,8,412,3335.0,Minimarket,Tidak,Ya,1.7,0,8.0,2025-10-09,Indonesia
+PLG-13052,27.0,Perempuan,Surabaya,Basic,10,Bulanan,11,192,2215.0,E-Wallet,Tidak,Tidak,2.4,4,7.0,2025-07-06,Indonesia
+PLG-13053,33.0,Perempuan,Makassar,Standar,30,2 Tahun,44,408,18755.0,Transfer Bank,Ya,Ya,2.1,3,6.0,2022-10-29,Indonesia
+PLG-13054,63.0,Laki-laki,Jakarta,Basic,10,2 Tahun,3,195,601.0,Transfer Bank,Tidak,Tidak,1.0,0,8.0,2026-03-21,Indonesia
+PLG-13062,28.0,Laki-laki,Bandung,Standar,30,2 Tahun,72,345,25197.0,Minimarket,Tidak,Tidak,4.1,2,6.0,2020-06-10,Indonesia
+PLG-13064,39.0,Laki-laki,Bandung,Standar,30,2 Tahun,32,398,12592.0,Transfer Bank,Tidak,Ya,2.6,1,7.0,2023-10-29,Indonesia
+PLG-13065,18.0,Laki-laki,Bandung,Basic,10,2 Tahun,28,209,6144.0,Minimarket,Tidak,Tidak,0.3,1,8.0,2024-02-07,Indonesia
+PLG-13066,36.0,Laki-laki,Makassar,Basic,10,2 Tahun,28,196,5639.0,Transfer Bank,Tidak,Tidak,0.8,0,9.0,2024-02-29,Indonesia
+PLG-13077,47.0,Laki-laki,Jakarta,Premium,100,2 Tahun,52,540,29207.0,Transfer Bank,Tidak,Tidak,0.6,1,6.0,2022-02-09,Indonesia
+PLG-13081,39.0,Perempuan,Denpasar,Standar,30,Bulanan,18,343,6250.0,Transfer Bank,Tidak,Tidak,4.2,3,5.0,2024-12-16,Indonesia
+PLG-13090,18.0,Laki-laki,Medan,Basic,10,Tahunan,12,196,2312.0,E-Wallet,Ya,Tidak,4.3,6,3.0,2025-06-13,Indonesia
+PLG-13092,33.0,Perempuan,jakarta,Standar,30,Bulanan,32,337,11237.0,Transfer Bank,Ya,Tidak,0.8,2,,2023-10-18,Indonesia
+PLG-13093,30.0,Laki-laki,Semarang,Standar,30,Tahunan,14,326,4385.0,E-Wallet,Tidak,Tidak,2.3,1,8.0,2025-04-10,Indonesia
+PLG-13098,,Perempuan,Yogyakarta,Standar,30,2 Tahun,36,432,16148.0,Minimarket,Tidak,Ya,2.1,1,7.0,2023-06-05,Indonesia
+PLG-13099,34.0,Perempuan,Medan,Basic,10,2 Tahun,8,215,1792.0,E-Wallet,Ya,Tidak,1.6,1,8.0,2025-10-11,Indonesia
+PLG-13102,33.0,Laki-laki,Medan,Standar,30,Bulanan,3,399,1254.0,,Tidak,Ya,2.4,2,7.0,2026-03-08,Indonesia
+PLG-13108,44.0,Perempuan,Medan,Basic,10,2 Tahun,27,274,7359.0,Transfer Bank,Tidak,Ya,1.9,0,6.0,2024-03-06,Indonesia
+PLG-13113,66.0,Laki-laki,Surabaya,Standar,30,Bulanan,21,387,8113.0,Transfer Bank,Tidak,Ya,0.2,0,9.0,2024-09-19,Indonesia
+PLG-13115,31.0,Perempuan,Surabaya,Basic,10,Bulanan,12,201,2458.0,,Tidak,Tidak,1.6,0,,2025-06-12,Indonesia
+PLG-13116,46.0,Laki-laki,Jakarta,Basic,10,Tahunan,11,186,2059.0,Minimarket,Tidak,Tidak,2.4,0,8.0,2025-07-21,Indonesia
+PLG-13119,43.0,Perempuan,Denpasar,Standar,30,2 Tahun,33,318,11012.0,E-Wallet,Tidak,Tidak,0.7,0,8.0,2023-09-08,Indonesia
+PLG-13123,30.0,Laki-laki,Medan,Basic,10,Tahunan,72,189,13788.0,Kartu Kredit,Tidak,Tidak,2.4,0,6.0,2020-06-02,Indonesia
+PLG-13132,24.0,Perempuan,Jakarta,Standar,30,Tahunan,26,328,8445.0,E-Wallet,Tidak,Tidak,0.6,1,8.0,2024-04-15,Indonesia
+PLG-13135,19.0,Perempuan,Jakarta,Standar,30,2 Tahun,8,334,2636.0,Minimarket,Tidak,Tidak,1.8,0,9.0,2025-10-18,Indonesia
+PLG-13136,30.0,Perempuan,Medan,Standar,30,Tahunan,36,356,12520.0,Transfer Bank,Tidak,Tidak,3.9,4,6.0,2023-06-20,Indonesia
+PLG-13140,46.0,Perempuan,Jakarta,Basic,10,Bulanan,14,219,2970.0,Kartu Kredit,Ya,Tidak,3.1,0,8.0,2025-04-22,Indonesia
+PLG-13142,41.0,Laki-laki,Makassar,Premium,100,Bulanan,6,559,3328.0,Minimarket,Tidak,Tidak,0.6,2,8.0,2025-12-20,Indonesia
+PLG-13144,34.0,Perempuan,Surabaya,Standar,30,Bulanan,1,324,312.0,Minimarket,Tidak,Tidak,0.8,2,5.0,2026-05-26,Indonesia
+PLG-13145,34.0,Perempuan,Semarang,Premium,100,Bulanan,1,547,565.0,Minimarket,Tidak,Tidak,2.1,1,5.0,2026-05-30,Indonesia
+PLG-13151,23.0,Laki-laki,Medan,Basic,10,2 Tahun,52,195,9993.0,Minimarket,Tidak,Tidak,0.9,1,6.0,2022-02-22,Indonesia
+PLG-13154,44.0,Perempuan,Surabaya,Basic,10,Bulanan,1,193,194.0,Minimarket,Tidak,Tidak,1.3,3,5.0,2026-05-08,Indonesia
+PLG-13157,47.0,Perempuan,Jakarta,Basic,10,Tahunan,24,221,5196.0,Transfer Bank,Ya,Tidak,0.1,0,8.0,2024-06-26,Indonesia
+PLG-13165,36.0,Perempuan,Yogyakarta,Basic,10,Tahunan,27,199,5118.0,Kartu Kredit,Ya,Tidak,0.3,1,8.0,2024-03-25,Indonesia
+PLG-13166,41.0,Perempuan,Surabaya,Standar,30,2 Tahun,23,338,7443.0,E-Wallet,Tidak,Tidak,0.5,0,8.0,2024-07-20,Indonesia
+PLG-13178,33.0,Laki-laki,Jakarta,Basic,10,2 Tahun,29,227,6313.0,Transfer Bank,Tidak,Tidak,1.2,3,6.0,2024-01-09,Indonesia
+PLG-13181,52.0,Perempuan,Semarang,Basic,10,2 Tahun,57,199,11490.0,E-Wallet,Tidak,Tidak,0.8,1,8.0,2021-09-14,Indonesia
+PLG-13189,57.0,Perempuan,Jakarta,Standar,30,Tahunan,72,328,22764.0,Transfer Bank,Tidak,Tidak,2.7,2,5.0,2020-06-16,Indonesia
+PLG-13193,55.0,Perempuan,Denpasar,Standar,30,Tahunan,29,314,9037.0,Minimarket,Tidak,Tidak,2.9,1,7.0,2024-01-25,Indonesia
+PLG-13196,35.0,Laki-laki,Makassar,Standar,30,Tahunan,2,415,832.0,Minimarket,Tidak,Ya,0.9,1,5.0,2026-04-03,Indonesia
+PLG-13198,43.0,Perempuan,Medan,Premium,100,Tahunan,35,549,19670.0,Transfer Bank,Ya,Tidak,3.5,0,8.0,2023-07-13,Indonesia
+PLG-13201,48.0,Perempuan,Bandung,Basic,10,Tahunan,31,207,6728.0,Transfer Bank,Ya,Tidak,1.2,0,10.0,2023-11-23,Indonesia
+PLG-13203,18.0,Laki-laki,Denpasar,Basic,10,Tahunan,21,268,5805.0,E-Wallet,Tidak,Ya,1.7,1,5.0,2024-09-26,Indonesia
+PLG-13204,52.0,Perempuan,Jakarta,Standar,30,2 Tahun,30,411,12845.0,Transfer Bank,Ya,Ya,2.4,2,6.0,2023-12-08,Indonesia
+PLG-13214,45.0,Perempuan,Jakarta,Basic,10,2 Tahun,17,192,,Kartu Kredit,Ya,Tidak,1.1,0,7.0,2025-01-18,Indonesia
+PLG-13215,53.0,Perempuan,Bandung,Premium,100,Bulanan,5,552,2693.0,Minimarket,Tidak,Tidak,3.0,2,6.0,2026-01-03,Indonesia
+PLG-13218,51.0,Laki-laki,Medan,Basic,10,2 Tahun,55,261,13653.0,Minimarket,Tidak,Ya,4.3,1,5.0,2021-11-17,Indonesia
+PLG-13219,72.0,Perempuan,Medan,Standar,30,Bulanan,8,383,3063.0,E-Wallet,Tidak,Ya,1.4,2,8.0,2025-10-23,Indonesia
+PLG-13226,24.0,Perempuan,Semarang,Standar,30,Bulanan,10,314,3119.0,Transfer Bank,Ya,Tidak,0.8,1,8.0,2025-08-23,Indonesia
+PLG-13228,46.0,Perempuan,Surabaya,Standar,30,Bulanan,7,429,2854.0,E-Wallet,Tidak,Ya,1.7,4,4.0,2025-11-13,Indonesia
+PLG-13231,61.0,Perempuan,Bandung,Premium,100,Tahunan,11,643,7358.0,E-Wallet,Tidak,Ya,0.4,0,10.0,2025-07-04,Indonesia
+PLG-13239,28.0,Perempuan,Yogyakarta,Standar,30,2 Tahun,52,337,18187.0,Transfer Bank,Ya,Tidak,1.5,1,6.0,2022-02-22,Indonesia
+PLG-13242,48.0,Laki-laki,Medan,Basic,10,2 Tahun,72,198,14155.0,E-Wallet,Ya,Tidak,0.9,0,7.0,2020-06-14,Indonesia
+PLG-13243,28.0,Laki-laki,Medan,Standar,30,2 Tahun,32,402,13168.0,Transfer Bank,Ya,Ya,8.5,2,5.0,2023-10-05,Indonesia
+PLG-13245,35.0,Laki-laki,Bandung,Standar,30,Tahunan,61,338,19926.0,Transfer Bank,Tidak,Tidak,1.0,1,8.0,2021-05-17,Indonesia
+PLG-13246,24.0,Laki-laki,Bandung,Standar,30,Bulanan,9,317,,E-Wallet,Tidak,Tidak,0.3,0,6.0,2025-09-10,Indonesia
+PLG-13249,51.0,Perempuan,Surabaya,Standar,30,Tahunan,45,341,15620.0,Transfer Bank,Tidak,Tidak,2.6,2,,2022-09-28,Indonesia
+PLG-13251,51.0,Perempuan,Bandung,Standar,30,2 Tahun,19,302,5502.0,Transfer Bank,Tidak,Tidak,1.3,1,6.0,2024-11-26,Indonesia
+PLG-13257,45.0,Perempuan,Jakarta,Standar,30,Bulanan,3,306,929.0,E-Wallet,Tidak,Tidak,1.6,1,6.0,2026-03-13,Indonesia
+PLG-13258,26.0,Laki-laki,Bandung,Standar,30,Bulanan,10,401,4058.0,E-Wallet,Tidak,Ya,1.9,0,9.0,2025-08-17,Indonesia
+PLG-13260,29.0,Laki-laki,Medan,Premium,100,Tahunan,35,544,19282.0,E-Wallet,Tidak,Tidak,0.3,0,9.0,2023-07-10,Indonesia
+PLG-13262,33.0,Perempuan,Yogyakarta,Standar,30,Tahunan,32,314,10125.0,Minimarket,Tidak,Tidak,0.4,1,7.0,2023-10-30,Indonesia
+PLG-13266,,Perempuan,Jakarta,Standar,30,Bulanan,6,320,1878.0,Transfer Bank,Ya,Tidak,1.1,0,7.0,2025-12-15,Indonesia
+PLG-13267,52.0,Perempuan,Yogyakarta,Basic,10,Bulanan,52,291,14518.0,Minimarket,Tidak,Ya,1.1,0,7.0,2022-02-08,Indonesia
+PLG-13272,50.0,Perempuan,Bandung,Premium,100,2 Tahun,11,544,5882.0,Transfer Bank,Ya,Tidak,1.2,2,,2025-07-22,Indonesia
+PLG-13273,24.0,Laki-laki,Jakarta,Basic,10,Bulanan,4,215,861.0,Transfer Bank,Ya,Tidak,0.9,0,9.0,2026-02-07,Indonesia
+PLG-13274,28.0,Laki-laki,Jakarta,Standar,30,Bulanan,9,338,3084.0,Kartu Kredit,Ya,Tidak,0.9,0,,2025-09-04,Indonesia
+PLG-13275,38.0,Perempuan,Surabaya,Standar,30,Bulanan,10,317,3019.0,Transfer Bank,Tidak,Tidak,1.7,1,7.0,2025-08-27,Indonesia
+PLG-13281,51.0,Perempuan,Semarang,Basic,10,Tahunan,44,307,14056.0,Transfer Bank,Ya,Ya,0.9,1,,2022-10-18,Indonesia
+PLG-13282,32.0,Perempuan,Jakarta,Basic,10,Tahunan,39,218,8669.0,Kartu Kredit,Tidak,Tidak,0.8,0,6.0,2023-03-22,Indonesia
+PLG-13283,24.0,Perempuan,Surabaya,Premium,100,Bulanan,15,529,7864.0,E-Wallet,Ya,Tidak,3.2,2,6.0,2025-03-07,Indonesia
+PLG-13288,27.0,Perempuan,Bandung,Basic,10,Tahunan,13,185,2299.0,Kartu Kredit,Ya,Tidak,1.6,1,8.0,2025-05-13,Indonesia
+PLG-13289,18.0,Perempuan,Makassar,Standar,30,Tahunan,50,417,20775.0,,Tidak,Ya,0.1,1,8.0,2022-04-28,Indonesia
+PLG-13293,48.0,Laki-laki,Jakarta,Standar,30,Tahunan,17,431,7627.0,E-Wallet,Tidak,Ya,0.5,0,7.0,2025-01-11,Indonesia
+PLG-13295,64.0,Perempuan,Jakarta,Standar,30,Bulanan,6,333,1997.0,Transfer Bank,Ya,Tidak,4.7,2,6.0,2025-12-14,Indonesia
+PLG-13297,31.0,Perempuan,Jakarta,Standar,30,Tahunan,72,340,24112.0,Minimarket,Tidak,Tidak,0.4,1,7.0,2020-06-02,Indonesia
+PLG-13301,42.0,Laki-laki,Medan,Standar,30,Bulanan,21,313,6463.0,Transfer Bank,Ya,Tidak,2.3,2,7.0,2024-09-03,Indonesia
+PLG-13313,20.0,Laki-laki,Jakarta,Basic,10,Bulanan,15,281,4122.0,Transfer Bank,Tidak,Ya,5.1,1,5.0,2025-03-05,Indonesia
+PLG-13316,37.0,Laki-laki,Makassar,Premium,100,Bulanan,9,544,4805.0,QRIS,Ya,Tidak,0.2,0,7.0,2025-09-22,Indonesia
+PLG-13318,45.0,Laki-laki,Surabaya,Premium,100,Bulanan,13,647,8060.0,E-Wallet,Tidak,Ya,0.6,2,8.0,2025-05-28,Indonesia
+PLG-13320,31.0,Perempuan,Bandung,Basic,10,Bulanan,3,179,515.0,E-Wallet,Ya,Tidak,3.6,1,3.0,2026-03-26,Indonesia
+PLG-13326,50.0,Perempuan,Yogyakarta,Basic,10,Bulanan,28,207,5766.0,Transfer Bank,Tidak,Tidak,1.3,2,5.0,2024-02-25,Indonesia
+PLG-13327,37.0,Perempuan,Surabaya,Basic,10,2 Tahun,58,191,10670.0,Minimarket,Tidak,Tidak,1.6,1,7.0,2021-08-04,Indonesia
+PLG-13328,40.0,Laki-laki,Jakarta,Basic,10,Tahunan,31,266,7839.0,E-Wallet,Tidak,Ya,5.5,0,6.0,2023-11-19,Indonesia
+PLG-13331,41.0,Perempuan,Jakarta,Basic,10,Bulanan,8,294,2415.0,Transfer Bank,Tidak,Ya,1.2,0,8.0,2025-10-08,Indonesia
+PLG-13335,41.0,Laki-laki,Yogyakarta,Basic,10,2 Tahun,36,203,7011.0,Kartu Kredit,Ya,Tidak,1.5,4,6.0,2023-06-15,Indonesia
+PLG-13339,32.0,Perempuan,Jakarta,Standar,30,2 Tahun,32,310,10393.0,Transfer Bank,Ya,Tidak,0.4,0,8.0,2023-10-09,Indonesia
+PLG-13346,52.0,Laki-laki,Medan,Standar,30,2 Tahun,24,432,10255.0,Kartu Kredit,Ya,Ya,0.7,0,8.0,2024-06-14,Indonesia
+PLG-13348,18.0,Perempuan,Bandung,Standar,30,Tahunan,46,420,18742.0,Transfer Bank,Ya,Ya,0.6,1,8.0,2022-08-13,Indonesia
+PLG-13351,18.0,Laki-laki,Bandung,Premium,100,2 Tahun,72,562,41145.0,Transfer Bank,Tidak,Tidak,0.9,1,9.0,2020-06-10,Indonesia
+PLG-13355,40.0,Perempuan,Makassar,Basic,10,Bulanan,17,290,4902.0,Kartu Kredit,Tidak,Ya,0.6,0,7.0,2025-01-16,Indonesia
+PLG-13360,51.0,Laki-laki,Bandung,Basic,10,Bulanan,17,283,4588.0,Transfer Bank,Ya,Ya,2.6,1,7.0,2025-01-18,Indonesia
+PLG-13361,18.0,Laki-laki,Makassar,Basic,10,Bulanan,16,183,2969.0,E-Wallet,Tidak,Tidak,1.1,1,7.0,2025-02-20,Indonesia
+PLG-13364,45.0,Laki-laki,Medan,Premium,100,2 Tahun,5,548,2714.0,Transfer Bank,Tidak,Tidak,0.4,0,9.0,2026-01-11,Indonesia
+PLG-13366,54.0,Perempuan,Jakarta,Premium,100,Bulanan,32,544,18204.0,E-Wallet,Tidak,Tidak,0.6,2,7.0,2023-10-10,Indonesia
+PLG-13371,52.0,Perempuan,Yogyakarta,Basic,10,Bulanan,14,286,3961.0,Minimarket,Tidak,Ya,0.2,1,,2025-04-03,Indonesia
+PLG-13372,31.0,Laki-laki,Medan,Premium,100,2 Tahun,26,560,14675.0,Transfer Bank,Tidak,Tidak,3.4,2,5.0,2024-04-29,Indonesia
+PLG-13377,45.0,Perempuan,Bandung,Standar,30,Tahunan,20,310,6178.0,Transfer Bank,Ya,Tidak,3.1,2,5.0,2024-10-21,Indonesia
+PLG-13381,30.0,Laki-laki,Bandung,Basic,10,Tahunan,12,202,2490.0,Kartu Kredit,Ya,Tidak,3.3,5,6.0,2025-06-21,Indonesia
+PLG-13384,36.0,Perempuan,Jakarta,Basic,10,Tahunan,27,196,5456.0,E-Wallet,Tidak,Tidak,1.0,0,,2024-03-10,Indonesia
+PLG-13389,,Perempuan,Bandung,Standar,30,Bulanan,7,337,2463.0,Minimarket,Tidak,Tidak,2.2,0,8.0,2025-11-20,Indonesia
+PLG-13391,37.0,Perempuan,Makassar,Standar,30,Bulanan,12,328,4104.0,Transfer Bank,Tidak,Tidak,1.3,0,9.0,2025-06-12,Indonesia
+PLG-13397,22.0,Laki-laki,Denpasar,Standar,30,Bulanan,23,346,8142.0,Transfer Bank,Ya,Tidak,1.6,1,7.0,2024-07-30,Indonesia
+PLG-13398,18.0,Perempuan,Bandung,Standar,30,Bulanan,16,344,5700.0,Kartu Kredit,Tidak,Tidak,2.2,1,,2025-02-05,Indonesia

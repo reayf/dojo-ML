@@ -1,0 +1,701 @@
+id,kota,luas_tanah_m2,luas_bangunan_m2,kamar_tidur,kamar_mandi,garasi,jarak_stasiun_km,tahun_dibangun,kondisi,sertifikat,daya_listrik_watt,hadap,dekat_tol
+3,Jakarta Timur,109.0,155.0,4,2,,2.7,1989,Butuh Renovasi,HGB,2200,Barat,Tidak
+7,Depok,170.0,198.0,6,5,1.0,0.3,1992,Butuh Renovasi,SHM,3500,Selatan,Ya
+8,Tangerang Selatan,166.0,108.0,2,1,2.0,1.5,2008,Butuh Renovasi,SHM,3500,Utara,Tidak
+11,Bekasi,100.0,69.0,2,2,1.0,6.0,2014,,SHM,900,Utara,Tidak
+16,Tangerang Selatan,83.0,129.0,4,4,2.0,3.5,2013,Bagus,SHM,2200,Barat,Ya
+17,Jakarta Barat,92.0,146.0,4,3,1.0,1.0,2004,Bagus,HGB,900,Timur,Ya
+18,Bogor,148.0,187.0,5,4,2.0,2.8,2004,Bagus,SHM,3500,Timur,Ya
+21,Tangerang Selatan,145.0,115.0,3,4,2.0,4.9,1991,Butuh Renovasi,SHM,1300,Utara,Tidak
+23,Bogor,110.0,175.0,5,3,1.0,3.9,2009,Bagus,SHM,3500,Utara,Tidak
+25,Bekasi,160.0,200.0,5,4,2.0,1.7,2003,Butuh Renovasi,SHM,2200,Selatan,Tidak
+26,Bogor,193.0,186.0,5,4,2.0,3.6,1990,Bagus,SHM,4400,Barat,Tidak
+27,Tangerang Selatan,192.0,136.0,4,3,1.0,9.9,2017,Bagus,SHM,1300,Timur,Tidak
+35,Depok,125.0,164.0,4,3,2.0,1.0,2019,Bagus,Lainnya,1300,Barat,Tidak
+36,Jakarta Timur,206.0,132.0,3,2,2.0,3.1,2025,Baru,SHM,2200,Barat,Tidak
+39,Jakarta Timur,68.0,66.0,3,3,-0.0,5.0,2007,,SHM,3500,Utara,Ya
+45,Jakarta Selatan,313.0,242.0,8,6,3.0,4.6,2013,Bagus,SHM,2200,Timur,Ya
+46,Bekasi,151.0,158.0,3,2,2.0,3.1,2023,Baru,SHM,3500,Timur,Tidak
+50,Jakarta Selatan,67.0,100.0,3,2,0.0,6.2,2008,Bagus,SHM,1300,Timur,Tidak
+52,Bogor,135.0,98.0,2,3,1.0,8.1,2011,Bagus,SHM,900,Timur,Tidak
+55,Jakarta Barat,56.0,63.0,2,1,0.0,4.3,2011,Bagus,HGB,2200,Selatan,Ya
+56,Jakarta Timur,134.0,161.0,4,3,0.0,6.3,2003,,HGB,2200,Timur,Tidak
+59,Depok,212.0,205.0,6,5,2.0,4.2,1998,Bagus,SHM,3500,Timur,Tidak
+62,Bekasi,69.0,87.0,2,1,0.0,2.0,2013,Bagus,SHM,2200,Barat,Tidak
+67,Bekasi,71.0,82.0,5,4,1.0,7.3,2011,Butuh Renovasi,SHM,900,Barat,Tidak
+68,Jakarta Timur,155.0,227.0,5,5,1.0,7.7,1992,Bagus,HGB,2200,Utara,Tidak
+70,Jakarta Timur,117.0,166.0,5,3,1.0,2.2,2011,Bagus,SHM,2200,Barat,Tidak
+72,Jakarta Timur,156.0,150.0,4,3,1.0,1.3,2018,Bagus,HGB,4400,Selatan,Tidak
+75,Jakarta Timur,109.0,127.0,4,3,0.0,4.8,2005,,SHM,2200,Barat,Tidak
+81,Jakarta Barat,129.0,87.0,2,1,2.0,2.7,2008,Bagus,HGB,900,Barat,Tidak
+83,Jakarta Barat,117.0,112.0,4,3,0.0,1.8,2015,Bagus,HGB,1300,Selatan,Tidak
+88,Tangerang Selatan,87.0,101.0,4,2,,1.8,2015,Butuh Renovasi,SHM,2200,Utara,Tidak
+92,Jakarta Barat,64.0,74.0,3,2,1.0,1.4,2020,Bagus,SHM,2200,Barat,Tidak
+95,Bekasi,167.0,227.0,7,5,1.0,6.6,2010,Bagus,SHM,4400,Utara,Tidak
+96,Bogor,58.0,,1,1,-0.0,1.9,2007,Bagus,Lainnya,900,Barat,Ya
+99,Jakarta Selatan,113.0,152.0,5,5,1.0,8.3,2014,Bagus,HGB,2200,Timur,Ya
+101,Tangerang Selatan,157.0,143.0,4,1,1.0,2.4,1975,Butuh Renovasi,SHM,2200,Utara,Tidak
+104,Bekasi,45.0,35.0,1,1,0.0,3.4,2004,Bagus,SHM,1300,Timur,Tidak
+107,Jakarta Timur,177.0,213.0,5,4,,3.4,2016,Bagus,SHM,3500,Utara,Ya
+109,Jakarta Selatan,125.0,118.0,4,4,2.0,2.8,2005,Butuh Renovasi,Lainnya,1300,Barat,Tidak
+124,Jakarta Timur,101.0,138.0,7,4,,0.8,2011,Bagus,SHM,3500,Timur,Tidak
+125,Jakarta Timur,62.0,72.0,3,3,-0.0,10.6,2001,Butuh Renovasi,HGB,1300,Utara,Tidak
+126,Depok,84.0,,4,3,1.0,7.2,2002,Butuh Renovasi,SHM,900,Barat,Ya
+132,Tangerang Selatan,124.0,101.0,3,3,2.0,2.3,0,Bagus,HGB,3500,Selatan,Tidak
+137,Jakarta Selatan,185.0,289.0,6,4,,2.6,2012,Bagus,SHM,5500,Selatan,Tidak
+138,Bekasi,51.0,64.0,3,2,1.0,4.1,2016,Bagus,SHM,3500,Selatan,Tidak
+142,Jakarta Selatan,105.0,110.0,4,4,1.0,2.3,2019,Bagus,SHM,1300,Barat,Ya
+147,Bekasi,141.0,159.0,5,5,,1.9,2012,Bagus,SHM,2200,Barat,Tidak
+149,Tangerang Selatan,113.0,168.0,6,5,,2.2,2025,Baru,SHM,2200,Timur,Ya
+150,Jakarta Timur,120.0,107.0,4,2,0.0,5.9,2001,,SHM,1300,Selatan,Ya
+155,Tangerang Selatan,123.0,153.0,4,3,2.0,3.4,2003,Butuh Renovasi,SHM,2200,Selatan,Tidak
+156,Bogor,80.0,,3,3,0.0,2.1,1991,Butuh Renovasi,SHM,2200,Selatan,Ya
+158,Depok,71.0,71.0,2,2,-0.0,7.7,2009,Bagus,SHM,2200,Barat,Ya
+159,Depok,170.0,233.0,5,4,2.0,3.6,0,Butuh Renovasi,SHM,3500,Barat,Tidak
+160,Bekasi,124.0,195.0,5,3,1.0,2.5,1998,Bagus,SHM,2200,Barat,Ya
+162,Tangerang Selatan,127.0,89.0,3,2,-0.0,4.1,2000,Bagus,SHM,1300,Utara,Tidak
+170,Bogor,86.0,126.0,3,2,1.0,4.7,2012,Bagus,SHM,1300,Barat,Tidak
+174,Tangerang Selatan,114.0,153.0,4,3,1.0,3.7,2014,Bagus,SHM,2200,Timur,Tidak
+175,Bekasi,175.0,112.0,2,2,,5.6,2013,Butuh Renovasi,SHM,2200,Barat,Tidak
+177,Depok,294.0,422.0,8,6,2.0,5.7,2010,Bagus,SHM,5500,Selatan,Tidak
+178,Jakarta Selatan,176.0,235.0,6,5,,1.7,2015,Bagus,SHM,5500,Utara,Ya
+181,Tangerang Selatan,142.0,143.0,4,3,-0.0,1.9,2017,Bagus,SHM,3500,Utara,Ya
+184,Bogor,212.0,130.0,2,1,0.0,3.1,2004,Bagus,SHM,2200,Utara,Tidak
+186,Depok,180.0,204.0,5,3,0.0,1.0,2022,Baru,HGB,4400,Barat,Tidak
+188,Jakarta Timur,92.0,95.0,3,2,1.0,10.0,2022,Bagus,SHM,900,Barat,Tidak
+192,Jakarta Barat,95.0,103.0,4,2,0.0,2.1,1998,Butuh Renovasi,HGB,2200,Utara,Tidak
+194,Bekasi,157.0,131.0,4,3,2.0,1.4,1993,Butuh Renovasi,SHM,1300,Timur,Ya
+196,Bekasi,110.0,154.0,6,5,,1.3,2008,Bagus,SHM,2200,Timur,Tidak
+198,Jakarta Barat,104.0,119.0,4,2,1.0,1.6,2012,,HGB,2200,Utara,Ya
+201,Bogor,91.0,55.0,1,1,2.0,6.8,0,Bagus,HGB,1300,Barat,Ya
+211,Jakarta Selatan,65.0,69.0,3,2,0.0,0.8,2021,Bagus,Lainnya,2200,Utara,Tidak
+212,Jakarta Selatan,87.0,119.0,4,2,0.0,2.0,2006,Bagus,SHM,2200,Utara,Ya
+214,Jakarta Selatan,155.0,194.0,5,3,0.0,6.9,2014,Bagus,HGB,3500,Barat,Tidak
+221,Depok,114.0,179.0,5,4,2.0,4.9,2004,Butuh Renovasi,SHM,3500,Utara,Ya
+226,Jakarta Barat,121.0,109.0,3,2,2.0,7.0,1994,Butuh Renovasi,HGB,900,Barat,Ya
+234,Bogor,219.0,233.0,6,4,2.0,1.6,2022,Baru,SHM,3500,Selatan,Ya
+236,Jakarta Selatan,189.0,174.0,3,1,2.0,4.8,1995,,HGB,2200,Selatan,Tidak
+245,Bekasi,176.0,214.0,5,4,1.0,10.2,2005,Butuh Renovasi,SHM,4400,Selatan,Ya
+248,Jakarta Timur,107.0,152.0,4,3,1.0,1.5,2004,Butuh Renovasi,SHM,1300,Selatan,Ya
+250,Bekasi,92.0,137.0,4,2,1.0,3.7,2018,Bagus,SHM,2200,Selatan,Tidak
+257,Bogor,121.0,136.0,2,1,0.0,4.1,2012,Bagus,SHM,1300,Barat,Tidak
+258,Jakarta Selatan,136.0,172.0,5,5,1.0,1.8,2006,Bagus,SHM,2200,Utara,Ya
+259,Bekasi,91.0,97.0,3,3,2.0,0.9,2016,Bagus,SHM,1300,Timur,Tidak
+263,Jakarta Timur,74.0,114.0,3,3,,4.3,2016,Bagus,SHM,3500,Utara,Ya
+265,Bogor,91.0,115.0,3,3,1.0,5.1,2005,Butuh Renovasi,SHM,2200,Selatan,Tidak
+273,Bekasi,160.0,214.0,5,4,,2.8,2003,Bagus,HGB,2200,Utara,Ya
+275,Jakarta Barat,154.0,135.0,3,1,2.0,0.6,2008,Bagus,HGB,2200,Selatan,Ya
+280,Jakarta Timur,210.0,131.0,5,4,2.0,2.5,2006,,SHM,2200,Selatan,Tidak
+282,Depok,173.0,165.0,4,3,1.0,5.5,2024,Baru,SHM,3500,Barat,Ya
+283,Tangerang Selatan,56.0,70.0,4,3,1.0,3.8,2009,Butuh Renovasi,HGB,900,Selatan,Tidak
+284,Tangerang Selatan,104.0,90.0,3,3,1.0,7.3,2011,Bagus,HGB,2200,Utara,Ya
+286,Jakarta Selatan,230.0,167.0,5,5,1.0,4.2,2010,Bagus,SHM,2200,Timur,Ya
+287,Bekasi,91.0,105.0,3,3,1.0,1.4,1999,Bagus,SHM,2200,Selatan,Tidak
+290,Tangerang Selatan,208.0,232.0,5,5,1.0,6.0,2017,Bagus,HGB,4400,Timur,Tidak
+295,Jakarta Selatan,115.0,129.0,4,3,1.0,2.0,2011,Bagus,SHM,1300,Utara,Tidak
+297,Bogor,172.0,138.0,5,5,1.0,2.4,2004,Butuh Renovasi,SHM,2200,Timur,Tidak
+299,Depok,143.0,211.0,6,5,1.0,2.8,2019,Bagus,SHM,3500,Timur,Tidak
+300,Depok,306.0,423.0,8,7,2.0,1.7,2025,,SHM,5500,Utara,Ya
+303,Jakarta Barat,225.0,207.0,6,5,2.0,2.2,2019,Bagus,SHM,3500,Utara,Ya
+306,Jakarta Barat,180.0,159.0,5,4,2.0,1.7,2002,Bagus,SHM,3500,Utara,Tidak
+311,Jakarta Timur,107.0,79.0,2,1,1.0,6.4,2013,Bagus,SHM,900,Timur,Ya
+312,Jakarta Barat,97.0,144.0,4,3,1.0,0.7,2014,Bagus,SHM,3500,Utara,Tidak
+315,Bogor,276.0,244.0,6,5,2.0,0.8,2008,Bagus,HGB,3500,Utara,Tidak
+321,Bekasi,60.0,44.0,2,2,2.0,9.5,2004,Bagus,SHM,900,Barat,Tidak
+322,Jakarta Barat,81.0,78.0,2,1,0.0,5.0,1998,Butuh Renovasi,HGB,2200,Utara,Ya
+323,Depok,93.0,58.0,3,2,1.0,2.7,2018,Bagus,SHM,2200,Timur,Tidak
+325,Jakarta Barat,102.0,108.0,3,2,1.0,1.9,2010,Bagus,SHM,2200,Barat,Ya
+334,Tangerang Selatan,86.0,130.0,4,3,1.0,13.2,2018,Bagus,HGB,1300,Utara,Tidak
+336,Tangerang Selatan,72.0,51.0,2,2,1.0,3.5,2015,Bagus,SHM,1300,Timur,Tidak
+340,Jakarta Timur,100.0,158.0,4,3,,6.2,2010,Bagus,SHM,3500,Barat,Ya
+344,Depok,123.0,191.0,5,5,2.0,8.1,1996,Bagus,SHM,4400,Utara,Tidak
+345,Bogor,99.0,111.0,6,5,1.0,5.7,2015,Bagus,SHM,2200,Utara,Tidak
+346,Jakarta Selatan,79.0,71.0,1,1,2.0,1.9,1999,Butuh Renovasi,SHM,2200,Utara,Ya
+347,Jakarta Selatan,109.0,95.0,3,2,1.0,1.8,2014,Butuh Renovasi,SHM,1300,Timur,Tidak
+351,Jakarta Timur,105.0,83.0,4,4,-0.0,1.6,1998,Butuh Renovasi,SHM,3500,Utara,Tidak
+353,Bogor,83.0,126.0,5,4,1.0,1.8,1996,Butuh Renovasi,SHM,1300,Timur,Tidak
+355,Bogor,106.0,97.0,3,2,-0.0,7.9,1999,Bagus,HGB,1300,Timur,Ya
+358,Tangerang Selatan,66.0,101.0,3,2,1.0,0.3,2013,Butuh Renovasi,SHM,2200,Utara,Tidak
+368,Jakarta Barat,145.0,136.0,3,3,1.0,7.3,2004,Bagus,SHM,1300,Barat,Tidak
+376,Tangerang Selatan,54.0,51.0,2,2,0.0,0.9,1993,Butuh Renovasi,HGB,900,Utara,Ya
+389,Bekasi,131.0,139.0,4,4,2.0,1.5,2012,Bagus,SHM,2200,Utara,Tidak
+396,Tangerang Selatan,63.0,71.0,3,3,-0.0,4.7,2002,Bagus,SHM ,2200,Barat,Tidak
+401,Jakarta Barat,67.0,51.0,4,4,0.0,2.0,2016,Bagus,HGB,1300,Barat,Tidak
+404,Tangerang Selatan,144.0,164.0,3,3,0.0,3.4,2008,Butuh Renovasi,HGB,3500,Timur,Tidak
+405,Jakarta Timur,113.0,159.0,4,3,1.0,7.6,2013,Bagus,SHM,2200,Timur,Tidak
+406,Bekasi,217.0,259.0,6,5,1.0,1.6,2000,Butuh Renovasi,SHM,3500,Barat,Tidak
+407,Bekasi,103.0,126.0,4,3,2.0,2.0,1998,Butuh Renovasi,SHM,2200,Utara,Ya
+410,Jakarta Barat,182.0,117.0,5,4,1.0,8.0,2008,Bagus,HGB,1300,Barat,Ya
+411,Jakarta Selatan,246.0,322.0,7,5,2.0,2.8,1995,Butuh Renovasi,SHM,5500,Utara,Tidak
+416,Jakarta Timur,75.0,45.0,1,1,0.0,8.0,2010,Butuh Renovasi,SHM,900,Utara,Ya
+421,Bogor,131.0,171.0,5,4,1.0,0.8,2004,Bagus,SHM,3500,Timur,Tidak
+425,Bekasi,45.0,57.0,2,1,0.0,1.5,2011,Bagus,Lainnya,1300,Barat,Tidak
+430,Tangerang Selatan,155.0,207.0,4,3,1.0,1.3,1997,Bagus,SHM,3500,Timur,Ya
+441,Depok,201.0,145.0,3,2,2.0,2.2,2005,Bagus,SHM,1300,Selatan,Tidak
+442,Depok,94.0,70.0,2,3,,2.5,2004,Bagus,SHM,1300,Barat,Tidak
+450,Bekasi,145.0,222.0,6,5,1.0,2.1,2004,Butuh Renovasi,HGB,3500,Selatan,Ya
+453,Jakarta Barat,165.0,228.0,6,4,3.0,4.4,2012,Bagus,HGB,2200,Barat,Tidak
+456,Jakarta Selatan,124.0,176.0,4,3,2.0,3.3,2010,Bagus,SHM,2200,Utara,Tidak
+457,Depok,106.0,122.0,3,2,0.0,4.9,2018,Bagus,SHM,3500,Selatan,Tidak
+461,Tangerang Selatan,67.0,53.0,1,1,1.0,4.9,2015,Butuh Renovasi,HGB,900,Barat,Tidak
+462,Bekasi,170.0,,4,2,1.0,1.5,2016,Bagus,SHM,3500,Barat,Ya
+465,Jakarta Barat,165.0,110.0,3,2,2.0,3.7,2024,Baru,SHM,2200,Utara,Tidak
+467,Jakarta Barat,92.0,133.0,3,2,1.0,1.5,2005,Bagus,shm,4400,Utara,Tidak
+468,Depok,61.0,40.0,1,1,1.0,2.7,2017,Bagus,SHM,900,Utara,Tidak
+473,Depok,130.0,123.0,4,2,0.0,8.1,2011,Butuh Renovasi,SHM,1300,Utara,Tidak
+474,Depok,96.0,68.0,2,2,1.0,5.9,2011,Bagus,SHM,900,Barat,Tidak
+475,Depok,124.0,179.0,5,5,1.0,2.8,2008,Bagus,HGB,2200,Timur,Tidak
+484,Jakarta Selatan,100.0,90.0,3,2,1.0,3.2,1987,Bagus,HGB,1300,Barat,Ya
+485,Bekasi,141.0,124.0,4,3,1.0,5.4,1999,Bagus,SHM,2200,Utara,Tidak
+488,Jakarta Selatan,65.0,81.0,3,3,2.0,6.8,2006,Bagus,HGB,1300,Selatan,Tidak
+493,Jakarta Barat,155.0,217.0,6,5,1.0,3.5,2000,Butuh Renovasi,SHM,2200,Utara,Tidak
+495,Bogor,80.0,113.0,3,3,2.0,2.8,2022,Baru,HGB,1300,Selatan,Tidak
+497,Depok,115.0,175.0,5,4,1.0,1.4,2001,Butuh Renovasi,SHM,2200,Selatan,Tidak
+499,Jakarta Selatan,102.0,153.0,4,3,-0.0,3.4,2005,Butuh Renovasi,SHM,3500,Utara,Tidak
+503,Depok,129.0,131.0,1,2,,7.5,2009,Bagus,HGB,2200,Selatan,Tidak
+507,Tangerang Selatan,96.0,76.0,1,1,1.0,4.2,2019,,HGB,2200,Barat,Tidak
+518,Bogor,144.0,104.0,2,2,,10.1,2013,Bagus,HGB,2200,Timur,Tidak
+519,Jakarta Barat,182.0,124.0,4,3,2.0,0.7,2012,Bagus,SHM,2200,Timur,Ya
+524,Depok,45.0,54.0,2,1,0.0,1.8,2022,Baru,HGB,1300,Timur,Tidak
+529,Jakarta Selatan,174.0,216.0,6,4,1.0,3.1,2006,Bagus,SHM,3500,Selatan,Ya
+534,Bekasi,217.0,196.0,5,4,2.0,4.5,2015,Bagus,SHM,4400,Barat,Tidak
+538,Bogor,91.0,100.0,2,1,0.0,3.3,2002,Bagus,SHM,1300,Timur,Tidak
+540,Tangerang Selatan,73.0,87.0,3,2,0.0,7.3,1995,Bagus,HGB,2200,Timur,Tidak
+541,Jakarta Barat,63.0,58.0,2,1,0.0,3.0,1994,Butuh Renovasi,HGB,900,Barat,Tidak
+542,Depok,203.0,254.0,8,6,2.0,2.9,2003,Butuh Renovasi,SHM,3500,Utara,Ya
+544,Jakarta Selatan,110.0,163.0,4,3,,4.6,2014,Bagus,HGB,4400,Selatan,Tidak
+546,Jakarta Timur,163.0,219.0,6,5,,2.1,2025,Baru,SHM ,5500,Utara,Tidak
+548,Tangerang Selatan,150.0,98.0,4,2,0.0,1.6,1994,Bagus,Lainnya,1300,Timur,Tidak
+553,Bogor,179.0,217.0,5,3,0.0,1.5,2017,Butuh Renovasi,Lainnya,3500,Utara,Tidak
+554,Bekasi,236.0,333.0,8,6,1.0,4.2,2015,Bagus,SHM,5500,Utara,Ya
+556,Depok,159.0,103.0,3,3,1.0,1.7,1996,Butuh Renovasi,SHM,2200,Barat,Tidak
+565,Jakarta Selatan,47.0,55.0,3,3,-0.0,3.6,2004,Butuh Renovasi,SHM,1300,Barat,Tidak
+566,Jakarta Barat,201.0,227.0,7,5,1.0,3.3,2013,Bagus,SHM,4400,Timur,Tidak
+572,Jakarta Timur,66.0,94.0,3,2,-0.0,2.9,2003,Bagus,SHM,2200,Utara,Ya
+575,Tangerang Selatan,128.0,149.0,4,3,1.0,3.1,2025,Baru,SHM,2200,Utara,Tidak
+587,Bogor,148.0,114.0,2,1,0.0,3.6,2017,Bagus,SHM,1300,Utara,Ya
+589,Tangerang Selatan,92.0,95.0,4,3,1.0,11.3,2019,Butuh Renovasi,SHM,1300,Timur,Tidak
+590,Jakarta Barat,70.0,81.0,4,3,,2.9,2001,Bagus,SHM ,2200,Timur,Tidak
+592,Tangerang Selatan,63.0,99.0,3,2,1.0,3.1,2005,Butuh Renovasi,HGB,2200,Timur,Tidak
+594,Jakarta Barat,145.0,127.0,4,3,1.0,6.0,2021,Bagus,SHM,2200,Barat,Tidak
+595,Tangerang Selatan,125.0,81.0,2,1,2.0,2.6,2002,Bagus,SHM,3500,Utara,Ya
+601,Jakarta Selatan,128.0,148.0,3,2,1.0,1.3,2012,Butuh Renovasi,SHM,900,Selatan,Tidak
+608,Bogor,155.0,205.0,6,4,1.0,4.0,2017,Butuh Renovasi,SHM,2200,Utara,Tidak
+611,Jakarta Selatan,127.0,159.0,4,4,2.0,0.8,1988,Butuh Renovasi,SHM,2200,Selatan,Tidak
+612,Depok,132.0,104.0,2,3,-0.0,1.0,1991,Bagus,SHM,2200,Barat,Ya
+619,Jakarta Timur,133.0,121.0,4,3,0.0,2.2,1997,Bagus,SHM,2200,Timur,Tidak
+622,Depok,208.0,144.0,4,3,1.0,3.0,2018,Butuh Renovasi,HGB,2200,Utara,Ya
+623,Bogor,64.0,100.0,2,1,0.0,3.7,2007,Bagus,SHM,2200,Utara,Ya
+626,Jakarta Selatan,210.0,220.0,5,4,1.0,2.0,1991,Bagus,SHM,3500,Timur,Tidak
+627,Jakarta Timur,89.0,142.0,3,1,0.0,6.2,0,Baru,SHM,2200,Barat,Tidak
+630,Jakarta Selatan,137.0,135.0,5,3,2.0,3.8,2004,Butuh Renovasi,SHM,3500,Barat,Tidak
+632,Tangerang Selatan,134.0,141.0,3,2,2.0,1.3,2002,Bagus,HGB,2200,Barat,Ya
+634,Jakarta Selatan,122.0,79.0,2,2,0.0,2.4,2000,Butuh Renovasi,HGB,1300,Utara,Tidak
+639,Depok,53.0,78.0,3,1,1.0,1.9,2005,Bagus,SHM,900,Utara,Tidak
+640,Depok,87.0,110.0,3,2,0.0,0.8,2009,Bagus,HGB,2200,Timur,Tidak
+642,Bogor,98.0,76.0,2,1,,0.8,2019,Bagus,SHM,1300,Barat,Ya
+644,Bogor,443.0,543.0,8,5,3.0,4.4,2005,Butuh Renovasi,HGB,5500,Utara,Ya
+645,Tangerang Selatan,218.0,206.0,5,4,2.0,2.0,2016,Bagus,HGB,4400,Utara,Tidak
+651,Jakarta Timur,113.0,159.0,4,3,2.0,3.7,2020,Bagus,SHM,2200,Selatan,Tidak
+652,Jakarta Selatan,97.0,65.0,2,2,1.0,6.2,2000,Butuh Renovasi,HGB,900,Timur,Tidak
+655,Bogor,192.0,245.0,7,5,1.0,3.7,2005,Butuh Renovasi,SHM,4400,Timur,Ya
+666,Depok,112.0,122.0,3,3,0.0,2.3,1996,Butuh Renovasi,HGB,3500,Utara,Ya
+669,Tangerang Selatan,168.0,222.0,6,4,1.0,4.9,2023,Baru,SHM,2200,Timur,Ya
+671,Depok,112.0,92.0,3,2,2.0,1.7,2004,Bagus,HGB,900,Selatan,Ya
+674,Jakarta Selatan,99.0,85.0,1,1,,2.9,2004,Bagus,HGB,900,Timur,Ya
+677,Tangerang Selatan,74.0,76.0,4,3,-0.0,4.4,2005,Bagus,hgb,2200,Barat,Tidak
+678,Tangerang Selatan,100.0,64.0,2,1,1.0,6.7,2022,Baru,SHM,900,Selatan,Ya
+688,Jakarta Timur,123.0,90.0,2,2,1.0,4.5,2004,Bagus,SHM,1300,Utara,Tidak
+693,Jakarta Barat,74.0,85.0,2,2,1.0,5.3,2012,Bagus,SHM,1300,Timur,Tidak
+695,Jakarta Timur,117.0,117.0,4,4,0.0,2.9,2009,Butuh Renovasi,HGB,2200,Utara,Ya
+696,Jakarta Selatan,99.0,99.0,4,3,,0.8,2002,Butuh Renovasi,SHM,1300,Timur,Tidak
+701,Tangerang Selatan,94.0,88.0,3,2,1.0,5.9,2011,Bagus,HGB,900,Timur,Tidak
+703,Jakarta Selatan,119.0,113.0,3,1,-0.0,1.5,2006,Butuh Renovasi,HGB,1300,Selatan,Tidak
+704,Depok,160.0,153.0,4,3,1.0,4.9,2001,Bagus,SHM,1300,Barat,Tidak
+708,Tangerang Selatan,126.0,,4,3,,1.8,2002,Bagus,Lainnya,2200,Timur,Ya
+712,Jakarta Barat,200.0,292.0,8,6,2.0,1.7,1995,,SHM,4400,Selatan,Tidak
+713,Bekasi,142.0,96.0,3,1,2.0,6.0,2018,Bagus,HGB,1300,Utara,Tidak
+714,Bekasi,90.0,57.0,2,2,1.0,2.2,2009,Bagus,SHM,2200,Selatan,Ya
+717,Tangerang Selatan,56.0,72.0,2,1,1.0,6.9,2008,Bagus,SHM,2200,Utara,Tidak
+722,Bekasi,123.0,183.0,4,3,0.0,2.5,2009,Bagus,HGB ,3500,Utara,Ya
+735,Jakarta Timur,166.0,133.0,4,3,2.0,0.5,2018,Bagus,SHM,2200,Selatan,Tidak
+740,Jakarta Timur,145.0,221.0,6,4,2.0,5.4,2009,Bagus,HGB,4400,Selatan,Tidak
+747,Tangerang Selatan,125.0,185.0,6,3,1.0,2.2,2010,Bagus,SHM,2200,Selatan,Ya
+748,Bogor,236.0,242.0,6,4,1.0,3.9,1990,Butuh Renovasi,SHM,3500,Barat,Tidak
+750,Bekasi,235.0,300.0,5,4,1.0,0.2,2005,Butuh Renovasi,HGB,4400,Timur,Tidak
+752,Bogor,96.0,81.0,1,1,2.0,2.3,1995,Butuh Renovasi,SHM,2200,Timur,Tidak
+759,Depok,202.0,318.0,8,6,2.0,10.6,2015,Bagus,HGB,4400,Utara,Ya
+764,Tangerang Selatan,94.0,97.0,3,2,0.0,7.1,1996,Butuh Renovasi,HGB,1300,Timur,Ya
+769,Bekasi,115.0,75.0,2,2,,1.7,2018,Bagus,SHM ,1300,Utara,Ya
+771,Bekasi,176.0,281.0,8,7,,1.8,2015,,HGB,4400,Barat,Tidak
+774,Tangerang Selatan,67.0,70.0,2,1,0.0,6.9,2009,,SHM,3500,Timur,Ya
+783,Bekasi,95.0,114.0,5,4,1.0,3.1,1994,Butuh Renovasi,SHM,2200,Timur,Tidak
+790,Jakarta Barat,174.0,152.0,4,3,0.0,6.4,2011,Butuh Renovasi,SHM,3500,Barat,Ya
+797,Bekasi,127.0,191.0,4,2,0.0,3.0,1999,Butuh Renovasi,SHM,4400,Barat,Tidak
+800,Jakarta Selatan,112.0,98.0,1,1,2.0,0.9,2015,Bagus,HGB,1300,Barat,Ya
+802,Bekasi,233.0,333.0,8,5,1.0,5.2,2025,Bagus,SHM,5500,Selatan,Ya
+806,Jakarta Timur,80.0,66.0,2,1,1.0,4.1,2025,Baru,HGB,900,Selatan,Tidak
+812,Depok,241.0,277.0,6,5,2.0,2.0,1996,Bagus,HGB,4400,Barat,Tidak
+813,Bekasi,234.0,166.0,4,2,2.0,1.3,2012,Bagus,SHM,2200,Barat,Tidak
+814,Depok,172.0,105.0,3,3,1.0,2.2,2009,Bagus,SHM,900,Selatan,Tidak
+822,Depok,46.0,57.0,3,2,-0.0,1.6,2012,,SHM,900,Utara,Tidak
+835,Jakarta Timur,78.0,109.0,1,1,1.0,6.7,2010,Bagus,SHM,3500,Timur,Tidak
+842,Jakarta Selatan,230.0,185.0,4,3,2.0,2.5,2009,Bagus,SHM,2200,Selatan,Ya
+844,Bogor,159.0,169.0,5,5,1.0,1.5,2012,Bagus,SHM,2200,Timur,Tidak
+845,Bekasi,59.0,38.0,2,1,-0.0,0.5,2000,Butuh Renovasi,SHM,1300,Timur,Tidak
+847,Jakarta Timur,171.0,200.0,4,3,2.0,4.8,2007,Bagus,SHM,4400,Utara,Ya
+848,Jakarta Selatan,122.0,146.0,3,3,1.0,3.4,2021,Bagus,Lainnya,900,Barat,Tidak
+849,Tangerang Selatan,84.0,82.0,2,2,-0.0,3.6,2001,Bagus,SHM,3500,Barat,Tidak
+851,Bekasi,89.0,85.0,3,2,1.0,2.6,2003,Bagus,SHM,2200,Timur,Ya
+855,Jakarta Timur,62.0,89.0,3,2,2.0,4.7,2004,Bagus,HGB,2200,Selatan,Tidak
+859,Jakarta Timur,114.0,85.0,1,1,1.0,0.7,0,Butuh Renovasi,SHM,2200,Timur,Tidak
+863,Jakarta Barat,106.0,125.0,4,3,,1.7,1999,Bagus,HGB,2200,Selatan,Ya
+871,Depok,65.0,56.0,2,1,1.0,4.8,2007,Bagus,SHM,900,Selatan,Ya
+873,Jakarta Timur,215.0,183.0,5,4,2.0,1.3,2008,Bagus,SHM,3500,Selatan,Tidak
+876,Bogor,79.0,63.0,3,2,1.0,9.5,2008,,SHM,1300,Utara,Tidak
+877,Depok,129.0,186.0,5,4,1.0,2.3,1998,,HGB,2200,Selatan,Tidak
+879,Jakarta Timur,117.0,142.0,3,2,0.0,2.8,2007,Bagus,SHM,4400,Barat,Tidak
+892,Bogor,86.0,55.0,1,2,1.0,0.8,2011,,SHM,900,Selatan,Tidak
+899,Depok,100.0,88.0,4,4,,1.4,1999,Bagus,SHM,2200,Timur,Ya
+906,Bogor,53.0,68.0,1,1,-0.0,2.0,2005,Bagus,SHM,900,Timur,Tidak
+914,Bogor,174.0,270.0,7,4,1.0,0.6,2020,Butuh Renovasi,HGB,3500,Timur,Tidak
+915,Tangerang Selatan,100.0,138.0,3,2,2.0,3.1,2004,Bagus,HGB,3500,Timur,Ya
+918,Jakarta Timur,123.0,163.0,4,3,0.0,2.1,1993,Bagus,HGB,2200,Selatan,Ya
+931,Bogor,84.0,58.0,2,2,0.0,3.6,2011,Bagus,SHM,1300,Barat,Tidak
+933,Jakarta Timur,107.0,133.0,6,5,0.0,7.5,2013,Bagus,HGB,1300,Timur,Tidak
+936,Tangerang Selatan,204.0,137.0,4,3,1.0,4.1,2001,Butuh Renovasi,SHM,3500,Timur,Tidak
+947,Tangerang Selatan,113.0,157.0,4,2,0.0,2.3,2020,Bagus,SHM,2200,Selatan,Ya
+950,Bekasi,134.0,201.0,5,3,2.0,5.5,2004,Butuh Renovasi,SHM,3500,Selatan,Tidak
+953,Jakarta Barat,99.0,137.0,4,3,1.0,3.3,1988,Butuh Renovasi,SHM,900,Utara,Ya
+954,Bekasi,167.0,155.0,4,2,1.0,2.0,2004,Butuh Renovasi,SHM,2200,Utara,Tidak
+965,Bogor,88.0,66.0,1,1,1.0,6.3,2011,Bagus,SHM,900,Utara,Tidak
+967,Jakarta Timur,131.0,158.0,4,3,2.0,5.3,2024,Baru,HGB,1300,Timur,Tidak
+969,Bogor,178.0,209.0,7,5,2.0,3.1,2013,Butuh Renovasi,HGB,4400,Timur,Tidak
+975,Depok,117.0,,3,3,1.0,3.4,2014,Bagus,HGB,2200,Timur,Tidak
+976,Jakarta Timur,120.0,162.0,3,2,1.0,2.1,2008,Bagus,SHM,3500,Barat,Tidak
+986,Jakarta Timur,70.0,51.0,1,1,-0.0,3.0,2008,Bagus,SHM,2200,Timur,Tidak
+987,Jakarta Timur,105.0,107.0,3,2,1.0,4.7,2005,Bagus,SHM,1300,Utara,Ya
+994,Bekasi,78.0,54.0,4,3,0.0,1.4,2016,Bagus,SHM,1300,Utara,Ya
+995,Bogor,157.0,206.0,6,4,2.0,1.7,2022,Baru,SHM,2200,Utara,Ya
+997,Jakarta Selatan,101.0,144.0,5,4,1.0,2.5,2015,Bagus,SHM,2200,Timur,Tidak
+1000,Jakarta Timur,96.0,122.0,3,2,0.0,3.2,2005,Bagus,SHM,1300,Utara,Tidak
+1008,Tangerang Selatan,115.0,176.0,5,4,1.0,2.5,2004,Butuh Renovasi,SHM,3500,Utara,Tidak
+1017,Jakarta Barat,156.0,180.0,5,5,1.0,3.4,2003,Bagus,HGB,3500,Utara,Tidak
+1018,Bogor,79.0,93.0,2,2,1.0,0.7,2014,Bagus,SHM,1300,Timur,Tidak
+1020,Jakarta Barat,55.0,85.0,3,2,-0.0,3.5,2010,Bagus,SHM,1300,Selatan,Tidak
+1022,Jakarta Barat,71.0,,3,2,2.0,1.8,0,Bagus,SHM,1300,Barat,Tidak
+1027,Tangerang Selatan,119.0,184.0,5,3,2.0,3.6,2009,Bagus,HGB,3500,Barat,Tidak
+1032,Jakarta Barat,117.0,123.0,3,3,1.0,0.6,1996,Butuh Renovasi,HGB,1300,Timur,Ya
+1035,Jakarta Selatan,136.0,137.0,3,2,-0.0,1.4,1994,Butuh Renovasi,HGB,2200,Timur,Tidak
+1037,Depok,94.0,59.0,2,2,1.0,2.4,2004,Butuh Renovasi,SHM,900,Utara,Tidak
+1039,Depok,51.0,,1,1,1.0,0.3,2016,Bagus,HGB,2200,Utara,Tidak
+1048,Tangerang Selatan,61.0,45.0,1,1,-0.0,4.8,2013,Bagus,SHM,900,Utara,Tidak
+1052,Jakarta Timur,82.0,94.0,3,2,1.0,3.4,2019,Bagus,HGB,1300,Selatan,Tidak
+1055,Jakarta Timur,99.0,142.0,4,3,1.0,5.4,2022,Baru,SHM,1300,Selatan,Tidak
+1059,Jakarta Selatan,88.0,104.0,3,3,1.0,2.1,2001,Butuh Renovasi,SHM,2200,Barat,Ya
+1061,Tangerang Selatan,117.0,96.0,3,2,1.0,8.8,2001,Butuh Renovasi,SHM,2200,Selatan,Ya
+1063,Depok,91.0,138.0,4,4,1.0,4.0,2004,Bagus,SHM,3500,Utara,Tidak
+1071,Jakarta Barat,76.0,106.0,4,3,1.0,6.1,2012,Bagus,SHM,2200,Barat,Tidak
+1074,Jakarta Barat,170.0,197.0,5,5,1.0,3.3,2016,Butuh Renovasi,SHM,2200,Utara,Ya
+1076,Bekasi,123.0,149.0,4,3,,5.5,2023,Bagus,SHM,2200,Utara,Tidak
+1080,Jakarta Barat,153.0,189.0,5,3,2.0,5.6,2016,Bagus,SHM,1300,Utara,Tidak
+1081,Jakarta Selatan,119.0,104.0,4,3,1.0,2.3,1997,Butuh Renovasi,SHM,2200,Selatan,Tidak
+1084,Bekasi,108.0,158.0,4,3,-0.0,1.8,2013,Butuh Renovasi,HGB,1300,Selatan,Tidak
+1085,Bekasi,183.0,141.0,4,3,1.0,5.6,2006,Butuh Renovasi,SHM,3500,Utara,Ya
+1086,Tangerang Selatan,101.0,95.0,3,2,1.0,3.8,2016,Bagus,SHM,3500,Utara,Ya
+1089,Depok,116.0,122.0,3,2,1.0,11.6,2011,Butuh Renovasi,SHM,2200,Barat,Tidak
+1092,Jakarta Barat,86.0,109.0,5,3,0.0,3.8,2013,Bagus,SHM,1300,Selatan,Ya
+1095,Tangerang Selatan,73.0,98.0,3,1,0.0,4.3,1999,Bagus,SHM,3500,Timur,Tidak
+1098,Tangerang Selatan,99.0,84.0,3,3,1.0,1.1,2017,Bagus,SHM,1300,Barat,Tidak
+1101,Depok,107.0,91.0,4,3,2.0,3.1,2015,Bagus,SHM,1300,Selatan,Tidak
+1102,Jakarta Timur,45.0,56.0,2,2,1.0,2.7,2009,Bagus,SHM,2200,Selatan,Ya
+1105,Depok,100.0,60.0,2,2,0.0,2.5,2023,Baru,SHM,2200,Selatan,Tidak
+1110,Depok,122.0,167.0,5,3,1.0,2.7,2019,Bagus,HGB,2200,Selatan,Tidak
+1113,Jakarta Barat,131.0,100.0,2,2,1.0,4.6,2024,Bagus,SHM,900,Selatan,Tidak
+1117,Bogor,91.0,70.0,2,2,1.0,4.2,1988,Butuh Renovasi,HGB,1300,Selatan,Ya
+1118,Jakarta Timur,66.0,44.0,2,1,0.0,6.7,2004,Bagus,SHM,2200,Barat,Tidak
+1119,Bekasi,204.0,291.0,8,6,1.0,11.0,2004,Butuh Renovasi,SHM,5500,Timur,Tidak
+1130,Jakarta Timur,141.0,191.0,5,4,0.0,5.7,2014,Bagus,HGB,3500,Utara,Ya
+1134,Bekasi,121.0,121.0,2,1,0.0,3.8,2025,Bagus,HGB,2200,Selatan,Tidak
+1135,Bogor,150.0,214.0,6,4,2.0,6.5,2013,Bagus,SHM,3500,Timur,Tidak
+1146,Jakarta Barat,74.0,72.0,3,2,0.0,3.5,2018,Bagus,SHM,900,Utara,Tidak
+1149,Depok,178.0,228.0,5,4,1.0,1.2,2008,Bagus,HGB,3500,Timur,Tidak
+1151,Jakarta Selatan,84.0,100.0,4,3,1.0,3.2,1997,Butuh Renovasi,HGB,900,Selatan,Ya
+1155,Bogor,58.0,77.0,3,3,1.0,1.2,1999,Butuh Renovasi,SHM,1300,Utara,Ya
+1162,Jakarta Selatan,127.0,81.0,2,1,2.0,1.7,2006,Bagus,SHM,1300,Utara,Tidak
+1165,Bogor,80.0,82.0,2,2,1.0,1.5,2023,Baru,HGB,1300,Utara,Tidak
+1167,Depok,130.0,109.0,4,3,,5.0,2011,Bagus,SHM,2200,Utara,Tidak
+1171,Tangerang Selatan,85.0,,3,2,2.0,3.0,2021,,SHM,900,Barat,Tidak
+1174,Bogor,95.0,136.0,5,3,1.0,4.5,2002,Bagus,SHM,2200,Barat,Tidak
+1175,Tangerang Selatan,91.0,83.0,2,2,2.0,1.1,2009,Bagus,HGB,1300,Barat,Tidak
+1182,Depok,79.0,82.0,1,1,-0.0,2.6,2006,Bagus,SHM,900,Selatan,Tidak
+1185,Bekasi,45.0,43.0,2,1,0.0,1.1,2025,Baru,SHM,1300,Timur,Tidak
+1188,Bogor,58.0,54.0,3,1,1.0,12.5,2015,Bagus,SHM,2200,Utara,Tidak
+1189,Bekasi,107.0,99.0,3,2,2.0,3.8,2015,Bagus,HGB,2200,Selatan,Tidak
+1190,Bogor,45.0,42.0,3,2,1.0,5.9,2014,Bagus,SHM,2200,Timur,Tidak
+1191,Bekasi,66.0,53.0,1,1,1.0,2.3,1994,Bagus,SHM,1300,Barat,Tidak
+1192,Jakarta Barat,114.0,82.0,2,2,2.0,6.8,2007,Bagus,SHM,1300,Selatan,Tidak
+1195,Jakarta Barat,204.0,243.0,5,4,1.0,6.8,2007,,SHM,3500,Timur,Tidak
+1198,Bekasi,335.0,423.0,8,6,4.0,1.5,1996,Bagus,Lainnya,5500,Timur,Ya
+1199,Depok,132.0,109.0,2,2,1.0,4.7,2015,Bagus,SHM,2200,Utara,Tidak
+1202,Jakarta Selatan,79.0,63.0,2,2,,3.7,1998,Butuh Renovasi,SHM,2200,Timur,Ya
+1206,Jakarta Selatan,167.0,242.0,8,6,1.0,7.1,2013,Bagus,HGB,3500,Barat,Ya
+1213,Jakarta Selatan,103.0,90.0,3,2,1.0,3.2,2010,Bagus,SHM,900,Barat,Tidak
+1215,Depok,76.0,119.0,3,2,2.0,1.0,2011,Bagus,SHM,2200,Selatan,Tidak
+1220,Jakarta Timur,94.0,78.0,4,3,2.0,1.3,1997,Butuh Renovasi,SHM,1300,Timur,Tidak
+1221,Jakarta Timur,128.0,160.0,4,4,,4.0,1987,Butuh Renovasi,SHM,2200,Utara,Tidak
+1223,Jakarta Barat,228.0,204.0,5,3,3.0,3.4,2009,Bagus,SHM,3500,Timur,Tidak
+1225,Bogor,115.0,142.0,4,3,,2.2,2004,Bagus,HGB,1300,Utara,Tidak
+1228,Bogor,102.0,102.0,4,2,-0.0,3.3,2012,Bagus,SHM,2200,Utara,Tidak
+1231,Tangerang Selatan,299.0,207.0,7,5,2.0,13.3,2025,Baru,SHM,3500,Timur,Ya
+1236,Jakarta Selatan,83.0,78.0,3,1,1.0,3.3,2010,Butuh Renovasi,HGB,1300,Barat,Tidak
+1238,Jakarta Timur,125.0,,4,3,0.0,4.6,1997,Butuh Renovasi,SHM,4400,Timur,Tidak
+1246,Jakarta Selatan,442.0,343.0,8,6,3.0,7.4,2009,Bagus,Lainnya,5500,Selatan,Ya
+1255,Bogor,101.0,124.0,4,3,,4.2,2015,Bagus,SHM,3500,Selatan,Tidak
+1266,Tangerang Selatan,166.0,231.0,6,4,1.0,2.4,1987,,SHM,5500,Utara,Ya
+1267,Jakarta Barat,240.0,302.0,7,5,3.0,3.8,2010,Bagus,SHM,4400,Selatan,Tidak
+1272,Bekasi,163.0,255.0,6,4,2.0,5.5,2008,Bagus,HGB,4400,Selatan,Ya
+1276,Bogor,56.0,37.0,2,1,0.0,1.9,1995,Bagus,Lainnya,1300,Selatan,Tidak
+1282,Bekasi,102.0,132.0,5,4,1.0,3.4,2003,Bagus,SHM,2200,Timur,Ya
+1289,Bekasi,207.0,272.0,8,6,2.0,1.4,2014,Bagus,SHM,3500,Utara,Tidak
+1290,Bekasi,92.0,89.0,4,3,1.0,4.5,2017,Bagus,SHM,1300,Utara,Tidak
+1292,Jakarta Timur,163.0,154.0,4,2,1.0,1.6,2003,Bagus,SHM,1300,Barat,Ya
+1302,Tangerang Selatan,271.0,404.0,8,6,2.0,1.6,2003,Butuh Renovasi,SHM,5500,Timur,Tidak
+1303,Jakarta Barat,255.0,346.0,8,6,3.0,2.2,2016,Bagus,SHM,5500,Barat,Tidak
+1305,Jakarta Barat,98.0,149.0,5,5,1.0,6.2,1988,Bagus,SHM,2200,Barat,Ya
+1308,Jakarta Timur,134.0,106.0,4,2,2.0,4.6,2011,Bagus,shm,2200,Barat,Tidak
+1316,Tangerang Selatan,118.0,132.0,5,2,2.0,2.2,1996,Bagus,SHM,2200,Barat,Tidak
+1318,Bogor,59.0,46.0,2,1,0.0,6.2,2015,,HGB,1300,Timur,Tidak
+1324,Depok,131.0,183.0,5,3,2.0,2.6,2015,Bagus,SHM,3500,Utara,Tidak
+1328,Tangerang Selatan,75.0,107.0,3,1,0.0,2.7,2018,,HGB,2200,Utara,Tidak
+1330,Bekasi,156.0,217.0,5,4,1.0,8.0,2007,,SHM,2200,Utara,Tidak
+1332,Jakarta Selatan,52.0,50.0,3,3,-0.0,0.9,2004,Bagus,SHM,1300,Selatan,Tidak
+1334,Jakarta Barat,49.0,70.0,2,2,0.0,1.2,2018,Bagus,SHM,1300,Utara,Ya
+1338,Tangerang Selatan,74.0,71.0,1,1,1.0,1.0,2025,Baru,SHM,1300,Timur,Ya
+1342,Tangerang Selatan,180.0,123.0,3,2,1.0,0.9,2007,Bagus,SHM,1300,Selatan,Ya
+1348,Bekasi,64.0,97.0,2,1,,6.0,2000,Butuh Renovasi,SHM,1300,Selatan,Ya
+1349,Bogor,77.0,63.0,2,1,0.0,4.2,2010,Bagus,SHM,900,Timur,Tidak
+1354,Depok,107.0,64.0,3,2,0.0,3.2,2018,Bagus,SHM,2200,Barat,Tidak
+1364,Jakarta Selatan,185.0,228.0,5,4,1.0,3.0,2006,Butuh Renovasi,HGB,3500,Utara,Tidak
+1366,Depok,113.0,123.0,3,3,0.0,0.3,2004,Bagus,Lainnya,1300,Barat,Tidak
+1369,Depok,85.0,99.0,3,1,1.0,2.9,2007,Bagus,SHM,2200,Timur,Tidak
+1384,Jakarta Barat,224.0,195.0,4,3,2.0,7.5,2003,Butuh Renovasi,SHM,2200,Barat,Tidak
+1386,Jakarta Selatan,65.0,47.0,2,2,0.0,1.2,2015,Bagus,HGB,1300,Timur,Ya
+1388,Bogor,136.0,191.0,6,4,2.0,2.0,2013,,SHM,4400,Barat,Tidak
+1390,Depok,58.0,44.0,1,1,1.0,1.0,2013,Bagus,SHM,3500,Timur,Tidak
+1392,Depok,66.0,72.0,2,2,0.0,1.8,2024,Bagus,SHM,1300,Timur,Tidak
+1397,Jakarta Timur,132.0,98.0,5,4,2.0,1.6,2011,Butuh Renovasi,HGB,1300,Utara,Tidak
+1399,Tangerang Selatan,201.0,303.0,7,5,2.0,5.4,2000,Butuh Renovasi,SHM,5500,Timur,Ya
+1413,Jakarta Barat,73.0,74.0,3,2,-0.0,2.0,1983,Bagus,SHM,1300,Barat,Ya
+1414,Depok,113.0,85.0,2,2,1.0,2.6,2017,Bagus,SHM,2200,Selatan,Tidak
+1416,Bogor,108.0,68.0,3,2,0.0,5.9,1999,Butuh Renovasi,SHM,1300,Timur,Ya
+1417,Depok,111.0,125.0,4,3,1.0,10.2,2002,Butuh Renovasi,SHM,3500,Utara,Tidak
+1436,Tangerang Selatan,200.0,121.0,3,2,1.0,4.8,2021,Bagus,SHM,1300,Barat,Tidak
+1439,Jakarta Timur,61.0,40.0,2,1,1.0,2.2,2011,Bagus,SHM,1300,Barat,Tidak
+1440,Bekasi,104.0,121.0,3,3,2.0,1.3,2000,Butuh Renovasi,SHM,3500,Timur,Tidak
+1441,Bekasi,164.0,236.0,7,5,1.0,0.2,2018,Bagus,SHM,2200,Utara,Tidak
+1447,Tangerang Selatan,67.0,95.0,3,3,1.0,3.4,2012,Bagus,SHM,1300,Timur,Ya
+1453,Tangerang Selatan,151.0,238.0,6,5,1.0,7.6,2007,Bagus,SHM,3500,Utara,Tidak
+1454,Jakarta Barat,96.0,83.0,3,3,1.0,0.8,2002,Bagus,SHM,2200,Timur,Tidak
+1458,Jakarta Barat,54.0,56.0,2,2,1.0,0.9,2022,Baru,SHM,900,Barat,Tidak
+1461,Tangerang Selatan,93.0,90.0,3,1,2.0,3.3,2021,Bagus,SHM,2200,Timur,Ya
+1462,Jakarta Selatan,255.0,309.0,8,6,,3.6,1990,Butuh Renovasi,SHM,4400,Timur,Tidak
+1466,Jakarta Timur,94.0,107.0,4,3,1.0,2.9,2020,Bagus,HGB,2200,Timur,Tidak
+1470,Bogor,136.0,191.0,4,3,2.0,6.3,2023,Baru,SHM,3500,Selatan,Ya
+1472,Bekasi,117.0,155.0,3,2,1.0,3.1,1997,Bagus,SHM,2200,Selatan,Ya
+1473,Bekasi,49.0,76.0,3,2,0.0,6.5,2006,Bagus,SHM,2200,Selatan,Ya
+1475,Tangerang Selatan,127.0,196.0,5,4,2.0,4.7,2010,Bagus,SHM,3500,Utara,Tidak
+1478,Jakarta Selatan,130.0,117.0,4,3,1.0,3.3,2011,Bagus,SHM,900,Barat,Tidak
+1481,Bogor,89.0,124.0,4,3,1.0,6.1,1998,Butuh Renovasi,SHM,1300,Timur,Tidak
+1482,Jakarta Selatan,173.0,222.0,7,6,2.0,3.4,2012,Bagus,SHM,4400,Utara,Ya
+1484,Jakarta Selatan,139.0,113.0,3,3,1.0,7.4,2011,Bagus,SHM,2200,Utara,Tidak
+1488,Bekasi,78.0,85.0,3,3,-0.0,1.3,2009,Butuh Renovasi,HGB,1300,Utara,Ya
+1493,Jakarta Barat,104.0,152.0,4,3,2.0,1.1,2001,Bagus,Lainnya,1300,Barat,Tidak
+1507,Jakarta Barat,109.0,128.0,4,2,-0.0,5.5,2019,Bagus,SHM,3500,Timur,Tidak
+1511,Jakarta Timur,103.0,85.0,3,2,1.0,1.7,2025,,SHM,1300,Selatan,Tidak
+1519,Jakarta Timur,105.0,105.0,2,1,0.0,6.7,2008,Bagus,SHM,1300,Utara,Tidak
+1521,Tangerang Selatan,255.0,346.0,8,6,2.0,1.8,2002,Butuh Renovasi,SHM,4400,Selatan,Tidak
+1527,Tangerang Selatan,60.0,44.0,2,1,0.0,7.3,2023,Baru,SHM,2200,Timur,Tidak
+1528,Bekasi,128.0,,4,4,0.0,0.2,2009,Bagus,Lainnya,4400,Timur,Ya
+1530,Bekasi,101.0,105.0,3,2,2.0,5.2,2010,Bagus,SHM,1300,Selatan,Tidak
+1536,Jakarta Timur,139.0,185.0,5,4,1.0,5.0,2006,Bagus,SHM,3500,Utara,Ya
+1538,Bekasi,58.0,41.0,1,1,0.0,1.1,1990,Bagus,SHM,1300,Selatan,Ya
+1540,Depok,100.0,113.0,3,2,0.0,1.8,2005,Bagus,HGB,1300,Selatan,Tidak
+1541,Depok,145.0,100.0,4,3,1.0,2.8,2002,Butuh Renovasi,SHM,1300,Barat,Tidak
+1544,Bekasi,111.0,100.0,1,2,,1.4,2003,Butuh Renovasi,SHM,1300,Selatan,Ya
+1551,Jakarta Timur,207.0,320.0,8,6,1.0,2.9,2012,,SHM,5500,Utara,Tidak
+1552,Tangerang Selatan,100.0,158.0,4,4,0.0,2.2,2013,Bagus,HGB,1300,Selatan,Tidak
+1555,Tangerang Selatan,113.0,73.0,2,2,1.0,2.5,1997,Butuh Renovasi,SHM,1300,Timur,Tidak
+1557,Depok,176.0,129.0,4,3,1.0,1.1,2012,Butuh Renovasi,SHM,3500,Selatan,Tidak
+1558,Jakarta Selatan,113.0,175.0,5,4,-0.0,1.2,2002,Butuh Renovasi,SHM,3500,Selatan,Tidak
+1564,Tangerang Selatan,244.0,282.0,7,5,0.0,2.1,2008,Bagus,SHM,5500,Barat,Ya
+1566,Jakarta Selatan,131.0,155.0,5,4,1.0,5.1,2011,Bagus,SHM,2200,Selatan,Ya
+1574,Depok,146.0,144.0,2,1,0.0,2.1,2003,Bagus,HGB,2200,Timur,Tidak
+1578,Bekasi,127.0,136.0,4,3,1.0,6.4,2020,Bagus,Lainnya,2200,Selatan,Ya
+1581,Depok,62.0,54.0,1,1,2.0,2.0,1998,Butuh Renovasi,SHM,900,Barat,Ya
+1582,Depok,177.0,262.0,8,6,1.0,6.4,1994,Butuh Renovasi,SHM,5500,Barat,Tidak
+1588,Jakarta Selatan,76.0,95.0,3,2,-0.0,6.4,1999,Bagus,SHM,3500,Selatan,Tidak
+1589,Depok,126.0,133.0,5,4,-0.0,1.5,2001,Butuh Renovasi,SHM,2200,Barat,Ya
+1591,Jakarta Selatan,80.0,111.0,2,1,-0.0,2.6,2002,Butuh Renovasi,SHM,3500,Selatan,Tidak
+1594,Depok,107.0,94.0,4,2,1.0,2.1,2015,Bagus,SHM,1300,Timur,Tidak
+1595,Tangerang Selatan,155.0,156.0,4,4,1.0,1.6,2004,Butuh Renovasi,SHM,1300,Utara,Ya
+1602,Jakarta Selatan,124.0,102.0,2,2,,4.5,2012,,SHM,1300,Timur,Tidak
+1605,Depok,125.0,169.0,4,3,2.0,6.6,1997,Butuh Renovasi,SHM,1300,Barat,Tidak
+1606,Jakarta Barat,115.0,96.0,1,1,2.0,1.0,2011,,HGB,1300,Utara,Tidak
+1610,Tangerang Selatan,72.0,49.0,2,2,1.0,3.9,1994,Butuh Renovasi,HGB,2200,Selatan,Tidak
+1612,Jakarta Timur,102.0,140.0,4,2,1.0,1.8,1998,Butuh Renovasi,SHM,3500,Barat,Tidak
+1615,Bogor,87.0,62.0,2,1,1.0,2.2,2014,Bagus,HGB,900,Timur,Tidak
+1616,Jakarta Selatan,86.0,54.0,1,1,0.0,3.0,2006,Bagus,SHM,900,Utara,Tidak
+1620,Jakarta Timur,78.0,52.0,3,3,0.0,0.8,2019,Bagus,HGB,2200,Barat,Tidak
+1628,Depok,154.0,156.0,4,3,,0.8,2014,Bagus,SHM,1300,Barat,Tidak
+1630,Jakarta Barat,109.0,121.0,2,1,1.0,1.5,2013,Butuh Renovasi,SHM,2200,Barat,Ya
+1632,Bogor,96.0,96.0,2,2,2.0,1.4,2012,Bagus,SHM,900,Barat,Tidak
+1634,Depok,97.0,102.0,3,3,2.0,1.5,2003,Butuh Renovasi,HGB,2200,Selatan,Ya
+1636,Bogor,67.0,91.0,3,3,1.0,3.9,2008,Bagus,SHM,3500,Timur,Tidak
+1638,Jakarta Selatan,180.0,268.0,7,6,,1.9,2002,Butuh Renovasi,SHM,4400,Utara,Ya
+1640,Jakarta Selatan,206.0,157.0,4,3,2.0,5.3,2022,Baru,HGB,4400,Utara,Tidak
+1643,Tangerang Selatan,53.0,62.0,1,1,0.0,8.8,2004,Butuh Renovasi,SHM,2200,Timur,Ya
+1644,Bogor,112.0,158.0,5,3,1.0,2.6,2022,Baru,SHM,2200,Timur,Tidak
+1650,Bogor,90.0,62.0,1,1,0.0,3.8,2005,Butuh Renovasi,SHM,900,Barat,Ya
+1651,Bogor,211.0,309.0,7,6,0.0,0.9,1996,Butuh Renovasi,SHM,5500,Utara,Tidak
+1657,Bekasi,127.0,122.0,4,3,1.0,3.6,2008,Bagus,SHM,1300,Selatan,Tidak
+1660,Tangerang Selatan,89.0,138.0,4,3,0.0,1.5,2010,Bagus,SHM,1300,Utara,Tidak
+1666,Jakarta Timur,155.0,225.0,5,4,,4.4,2015,Bagus,SHM,2200,Barat,Tidak
+1667,Jakarta Selatan,163.0,162.0,5,4,2.0,5.5,1990,Butuh Renovasi,SHM,3500,Barat,Tidak
+1670,Bekasi,248.0,280.0,7,6,1.0,6.7,2010,Bagus,SHM,4400,Selatan,Tidak
+1671,Bogor,247.0,189.0,6,4,2.0,1.2,2012,Bagus,SHM,3500,Barat,Tidak
+1684,Bogor,93.0,138.0,3,2,0.0,2.4,2011,Bagus,SHM,2200,Barat,Ya
+1686,Jakarta Barat,90.0,90.0,3,1,-0.0,2.9,2014,Bagus,SHM,2200,Selatan,Ya
+1690,Tangerang Selatan,136.0,120.0,4,4,1.0,2.8,2021,Bagus,SHM,1300,Selatan,Tidak
+1693,Bekasi,222.0,332.0,7,5,2.0,4.4,2004,Butuh Renovasi,SHM,5500,Selatan,Ya
+1697,Jakarta Selatan,64.0,91.0,2,2,0.0,4.4,2012,Butuh Renovasi,SHM,1300,Barat,Tidak
+1698,Jakarta Barat,106.0,145.0,3,3,1.0,4.8,2015,Bagus,SHM,2200,Timur,Ya
+1702,Tangerang Selatan,96.0,108.0,2,1,1.0,1.9,2007,Bagus,SHM,3500,Timur,Tidak
+1707,Jakarta Timur,45.0,70.0,3,3,0.0,4.5,1999,Butuh Renovasi,SHM,900,Barat,Ya
+1710,Depok,88.0,106.0,3,3,1.0,6.2,2010,Bagus,Lainnya,1300,Selatan,Ya
+1715,Jakarta Selatan,153.0,219.0,6,5,0.0,0.8,1997,Butuh Renovasi,SHM,4400,Timur,Ya
+1716,Jakarta Timur,61.0,62.0,1,1,0.0,3.7,2004,Butuh Renovasi,SHM,900,Barat,Tidak
+1720,Jakarta Timur,66.0,90.0,2,1,0.0,0.3,1997,Bagus,SHM,2200,Selatan,Tidak
+1724,Jakarta Barat,142.0,120.0,4,4,1.0,1.3,2012,Bagus,SHM,2200,Barat,Tidak
+1725,Jakarta Barat,71.0,77.0,3,3,1.0,2.6,2024,Baru,HGB,900,Utara,Tidak
+1733,Bekasi,84.0,106.0,5,4,0.0,4.1,2007,,HGB,1300,Selatan,Ya
+1742,Tangerang Selatan,72.0,,3,2,0.0,2.4,2013,Bagus,SHM,1300,Timur,Tidak
+1744,Depok,120.0,175.0,6,5,2.0,2.6,2025,Baru,HGB,2200,Selatan,Ya
+1745,Tangerang Selatan,156.0,208.0,4,3,1.0,3.1,2003,Bagus,SHM,3500,Timur,Ya
+1746,Jakarta Timur,79.0,103.0,3,3,0.0,3.0,2022,Baru,SHM,1300,Utara,Ya
+1749,Tangerang Selatan,63.0,56.0,2,1,,6.1,2009,Butuh Renovasi,SHM,900,Utara,Tidak
+1750,Bogor,139.0,154.0,4,3,0.0,1.8,2014,Bagus,HGB,3500,Utara,Tidak
+1752,Bekasi,194.0,169.0,5,4,,6.8,1990,Butuh Renovasi,shm,2200,Utara,Ya
+1754,Bogor,113.0,98.0,3,2,2.0,1.1,2020,Bagus,SHM,1300,Selatan,Tidak
+1756,Tangerang Selatan,209.0,235.0,7,7,,5.9,1999,Bagus,SHM,2200,Selatan,Tidak
+1758,Jakarta Timur,70.0,57.0,3,2,1.0,5.8,2011,Bagus,Lainnya,900,Selatan,Ya
+1764,Bogor,158.0,219.0,7,4,0.0,1.7,2008,Bagus,SHM,4400,Selatan,Tidak
+1765,Bogor,94.0,83.0,1,1,1.0,5.3,2002,Bagus,HGB,900,Timur,Tidak
+1768,Tangerang Selatan,144.0,143.0,5,4,2.0,11.8,2014,Bagus,HGB,3500,Utara,Tidak
+1773,Jakarta Selatan,96.0,65.0,3,2,0.0,4.8,2009,Bagus,SHM,2200,Selatan,Tidak
+1774,Jakarta Timur,67.0,76.0,2,3,1.0,3.6,1997,Butuh Renovasi,HGB,900,Utara,Tidak
+1779,Bekasi,94.0,57.0,2,1,0.0,0.6,1995,Butuh Renovasi,HGB,2200,Timur,Ya
+1787,Jakarta Timur,100.0,116.0,4,2,1.0,1.9,2007,Butuh Renovasi,HGB,1300,Utara,Tidak
+1790,Tangerang Selatan,152.0,203.0,5,3,1.0,2.2,0,Bagus,HGB,3500,Selatan,Ya
+1793,Tangerang Selatan,69.0,60.0,2,1,1.0,11.1,2006,Bagus,SHM,2200,Selatan,Ya
+1803,Depok,59.0,93.0,3,2,0.0,5.0,2004,Butuh Renovasi,HGB,1300,Utara,Tidak
+1804,Bekasi,90.0,82.0,3,3,1.0,2.5,1993,,SHM,2200,Timur,Ya
+1805,Bogor,138.0,180.0,5,4,2.0,12.3,2025,Baru,SHM,3500,Timur,Ya
+1806,Bekasi,76.0,55.0,2,2,1.0,6.0,0,Bagus,SHM,1300,Barat,Tidak
+1807,Bogor,105.0,66.0,1,1,1.0,1.1,2021,Bagus,SHM,1300,Barat,Tidak
+1810,Bekasi,241.0,,6,5,2.0,1.9,2005,Butuh Renovasi,SHM ,4400,Timur,Tidak
+1811,Jakarta Barat,125.0,146.0,4,3,1.0,1.5,2024,Baru,hgb,3500,Selatan,Tidak
+1813,Depok,124.0,97.0,3,3,1.0,3.3,2025,Baru,HGB,1300,Selatan,Tidak
+1818,Depok,160.0,174.0,5,3,2.0,3.2,2012,,HGB,2200,Barat,Ya
+1821,Jakarta Selatan,228.0,278.0,7,5,3.0,2.0,2004,Bagus,SHM,3500,Timur,Ya
+1824,Jakarta Selatan,153.0,111.0,4,3,1.0,4.7,2020,Bagus,HGB,1300,Selatan,Tidak
+1827,Bogor,105.0,84.0,2,1,1.0,1.7,1995,Butuh Renovasi,SHM,3500,Timur,Tidak
+1836,Jakarta Barat,126.0,90.0,1,1,1.0,3.2,2002,Bagus,Lainnya,900,Timur,Tidak
+1837,Jakarta Timur,80.0,78.0,2,1,0.0,3.1,2019,Bagus,HGB,1300,Barat,Tidak
+1843,Jakarta Barat,138.0,173.0,4,3,1.0,1.9,2022,Baru,SHM,2200,Barat,Tidak
+1847,Jakarta Barat,133.0,180.0,3,2,1.0,6.9,2018,Bagus,SHM,2200,Selatan,Ya
+1848,Jakarta Barat,304.0,429.0,8,5,2.0,4.2,2009,Bagus,SHM,5500,Timur,Ya
+1857,Jakarta Barat,96.0,135.0,4,3,1.0,0.7,2025,Baru,HGB,2200,Utara,Ya
+1861,Jakarta Barat,191.0,179.0,6,3,1.0,2.6,1999,Butuh Renovasi,HGB,3500,Selatan,Tidak
+1864,Jakarta Selatan,104.0,79.0,2,1,1.0,1.6,2012,Bagus,HGB,2200,Utara,Tidak
+1866,Tangerang Selatan,159.0,117.0,5,4,1.0,2.5,1985,Butuh Renovasi,SHM,3500,Barat,Tidak
+1867,Jakarta Selatan,184.0,193.0,6,5,1.0,2.9,2015,Bagus,SHM,3500,Utara,Ya
+1869,Jakarta Barat,127.0,143.0,4,3,1.0,3.8,2012,Bagus,hgb,3500,Utara,Tidak
+1870,Jakarta Timur,100.0,74.0,2,2,1.0,2.6,2004,Butuh Renovasi,SHM,3500,Timur,Tidak
+1873,Jakarta Selatan,323.0,250.0,6,4,2.0,3.1,2013,Butuh Renovasi,SHM,4400,Timur,Tidak
+1880,Depok,93.0,102.0,3,3,1.0,1.1,2008,Bagus,SHM,1300,Selatan,Ya
+1884,Tangerang Selatan,95.0,59.0,3,3,1.0,1.5,2007,,SHM,1300,Timur,Tidak
+1886,Bogor,168.0,202.0,6,3,2.0,5.7,2002,Bagus,SHM,2200,Selatan,Tidak
+1888,Bekasi,95.0,132.0,3,2,-0.0,1.4,2014,Bagus,SHM,2200,Barat,Ya
+1889,Bekasi,117.0,164.0,4,3,1.0,1.7,2008,Bagus,HGB,2200,Barat,Tidak
+1892,Bekasi,115.0,147.0,5,4,1.0,11.8,2016,Bagus,SHM,3500,Timur,Ya
+1893,Bekasi,110.0,92.0,1,1,0.0,5.3,2005,Butuh Renovasi,SHM,2200,Selatan,Tidak
+1895,Bogor,111.0,91.0,2,2,1.0,3.0,2011,Bagus,SHM,3500,Timur,Tidak
+1899,Jakarta Timur,75.0,98.0,2,1,,1.3,2004,Butuh Renovasi,SHM,2200,Selatan,Ya
+1905,Bekasi,86.0,109.0,3,3,1.0,2.5,0,Bagus,SHM,1300,Utara,Tidak
+1907,Depok,196.0,206.0,6,5,1.0,1.5,2012,Bagus,HGB,2200,Utara,Tidak
+1913,Jakarta Timur,124.0,124.0,3,3,0.0,0.7,2005,Butuh Renovasi,SHM,2200,Barat,Tidak
+1919,Bogor,74.0,,3,2,0.0,4.6,2020,Bagus,SHM,2200,Timur,Tidak
+1923,Depok,70.0,105.0,3,3,-0.0,7.8,2019,Bagus,Lainnya,2200,Barat,Ya
+1925,Jakarta Selatan,183.0,172.0,3,2,1.0,4.2,2003,Bagus,SHM,2200,Timur,Ya
+1930,Tangerang Selatan,67.0,60.0,3,2,2.0,3.5,2010,Bagus,SHM,1300,Utara,Tidak
+1931,Bekasi,80.0,57.0,1,1,0.0,1.3,1996,Butuh Renovasi,SHM,1300,Utara,Tidak
+1935,Jakarta Selatan,90.0,80.0,4,3,1.0,3.3,2001,Bagus,SHM,1300,Utara,Tidak
+1938,Jakarta Timur,273.0,258.0,7,5,2.0,5.8,2017,Bagus,SHM,3500,Selatan,Ya
+1950,Bogor,67.0,58.0,4,2,1.0,3.9,2002,Butuh Renovasi,SHM,900,Utara,Tidak
+1954,Depok,157.0,249.0,6,5,2.0,4.6,2012,Bagus,HGB,2200,Timur,Ya
+1963,Jakarta Barat,107.0,159.0,5,3,1.0,1.3,2013,Bagus,SHM,2200,Selatan,Tidak
+1970,Jakarta Timur,138.0,113.0,4,3,0.0,1.2,1996,Bagus,HGB,3500,Selatan,Tidak
+1982,Jakarta Barat,176.0,245.0,6,5,1.0,5.1,2007,Bagus,SHM,3500,Utara,Ya
+1984,Bekasi,165.0,180.0,6,6,,2.2,2005,Bagus,HGB,3500,Barat,Ya
+1986,Jakarta Barat,59.0,71.0,2,3,-0.0,1.6,0,Butuh Renovasi,SHM,2200,Utara,Tidak
+1993,Tangerang Selatan,67.0,,2,2,-0.0,5.2,1997,Bagus,SHM,1300,Timur,Ya
+1997,Jakarta Barat,116.0,185.0,5,3,2.0,3.9,2010,Bagus,SHM,1300,Barat,Tidak
+1998,Bogor,66.0,93.0,2,1,0.0,8.1,2011,Bagus,HGB,1300,Utara,Tidak
+2004,Jakarta Timur,211.0,273.0,6,5,1.0,2.1,1999,Bagus,HGB,4400,Selatan,Tidak
+2008,Tangerang Selatan,116.0,82.0,2,2,1.0,1.5,2007,Butuh Renovasi,SHM,2200,Timur,Tidak
+2009,Tangerang Selatan,192.0,231.0,6,4,2.0,3.2,2005,Butuh Renovasi,HGB,4400,Barat,Tidak
+2010,Depok,217.0,260.0,6,6,,3.8,2018,Bagus,SHM,4400,Barat,Tidak
+2011,Depok,77.0,65.0,3,2,1.0,1.1,2006,Bagus,SHM,2200,Barat,Ya
+2012,Tangerang Selatan,124.0,141.0,4,3,1.0,2.8,2000,Butuh Renovasi,SHM,2200,Utara,Tidak
+2013,Jakarta Timur,153.0,125.0,3,1,2.0,3.9,0,Bagus,SHM,2200,Selatan,Ya
+2014,Bekasi,217.0,308.0,7,5,2.0,4.9,2005,Butuh Renovasi,HGB,4400,Utara,Tidak
+2017,Bekasi,136.0,,4,3,0.0,1.1,2007,Bagus,SHM,2200,Selatan,Ya
+2018,Tangerang Selatan,144.0,102.0,4,3,1.0,2.0,2009,Bagus,hgb,1300,Utara,Tidak
+2022,Jakarta Selatan,45.0,68.0,2,1,1.0,5.7,2006,Bagus,SHM,2200,Utara,Ya
+2026,Bekasi,96.0,110.0,3,2,1.0,3.0,1989,Bagus,HGB,2200,Utara,Tidak
+2028,Bogor,104.0,98.0,3,3,1.0,9.3,1999,Butuh Renovasi,SHM,1300,Barat,Tidak
+2034,Tangerang Selatan,204.0,293.0,8,6,2.0,0.5,2007,Bagus,SHM,4400,Timur,Ya
+2035,Jakarta Barat,131.0,127.0,4,4,1.0,5.1,1990,Bagus,HGB,2200,Selatan,Ya
+2036,Jakarta Barat,87.0,,2,1,-0.0,3.6,2020,Bagus,SHM,1300,Selatan,Ya
+2037,Jakarta Timur,78.0,106.0,3,2,,5.7,2006,Bagus,HGB,1300,Utara,Tidak
+2047,Bekasi,107.0,108.0,3,2,0.0,1.5,2002,Butuh Renovasi,SHM,1300,Utara,Tidak
+2049,Jakarta Selatan,275.0,328.0,8,5,,4.2,2003,Butuh Renovasi,SHM,3500,Utara,Tidak
+2057,Bekasi,96.0,147.0,6,4,-0.0,4.3,1993,Butuh Renovasi,HGB,3500,Timur,Ya
+2060,Bogor,102.0,159.0,5,4,1.0,3.2,2006,Bagus,Lainnya,4400,Selatan,Tidak
+2065,Jakarta Barat,109.0,85.0,2,1,2.0,1.5,1993,Bagus,SHM,1300,Timur,Tidak
+2066,Jakarta Barat,145.0,93.0,3,2,0.0,9.1,2018,Bagus,HGB,1300,Timur,Tidak
+2070,Depok,138.0,125.0,4,4,1.0,2.2,1995,Bagus,SHM,1300,Selatan,Tidak
+2071,Depok,103.0,,4,4,0.0,1.8,1995,Bagus,SHM,900,Timur,Tidak
+2072,Jakarta Selatan,221.0,292.0,7,5,3.0,0.4,2021,Bagus,SHM,3500,Selatan,Ya
+2082,Bogor,144.0,155.0,5,4,2.0,0.8,2014,Bagus,HGB,2200,Utara,Tidak
+2089,Bogor,119.0,190.0,3,3,-0.0,1.9,2020,Bagus,SHM,2200,Timur,Ya
+2095,Bekasi,175.0,176.0,5,3,1.0,1.6,2004,Bagus,SHM,3500,Timur,Ya
+2098,Bogor,50.0,50.0,1,1,1.0,1.7,2005,Butuh Renovasi,SHM,900,Barat,Tidak
+2103,Jakarta Barat,139.0,170.0,4,3,1.0,1.3,2005,Bagus,HGB,2200,Barat,Ya
+2104,Jakarta Timur,83.0,63.0,3,2,1.0,1.3,2001,Butuh Renovasi,SHM,1300,Selatan,Ya
+2106,Tangerang Selatan,147.0,233.0,6,4,,2.4,2003,Butuh Renovasi,SHM,4400,Timur,Ya
+2107,Bogor,141.0,148.0,4,3,1.0,0.4,1998,Butuh Renovasi,HGB,2200,Utara,Tidak
+2119,Bekasi,182.0,160.0,5,2,2.0,5.6,0,Bagus,HGB,2200,Selatan,Tidak
+2120,Bekasi,112.0,163.0,5,3,1.0,8.4,2006,Butuh Renovasi,SHM,3500,Utara,Ya
+2122,Bekasi,162.0,184.0,4,3,1.0,6.3,2006,Bagus,SHM,2200,Utara,Ya
+2123,Depok,199.0,306.0,5,4,,3.6,2002,Bagus,SHM,5500,Utara,Ya
+2126,Jakarta Timur,195.0,152.0,5,3,,5.5,2006,Bagus,HGB,3500,Barat,Ya
+2131,Jakarta Barat,53.0,83.0,3,3,0.0,4.1,2015,Bagus,SHM,900,Selatan,Ya
+2132,Bekasi,93.0,99.0,4,3,0.0,9.3,1998,Bagus,HGB,1300,Timur,Tidak
+2134,Depok,283.0,217.0,5,4,,6.2,2009,Bagus,SHM,3500,Selatan,Ya
+2135,Jakarta Selatan,177.0,163.0,3,2,1.0,1.0,2006,Bagus,SHM,1300,Selatan,Tidak
+2136,Depok,94.0,146.0,4,3,1.0,2.6,2015,Butuh Renovasi,SHM,2200,Selatan,Tidak
+2141,Tangerang Selatan,108.0,95.0,3,2,0.0,1.7,2009,Bagus,SHM,1300,Selatan,Tidak
+2143,Jakarta Barat,77.0,,3,2,1.0,0.4,2024,Baru,HGB,1300,Selatan,Ya
+2146,Bekasi,118.0,119.0,4,3,1.0,3.2,2001,Butuh Renovasi,SHM,2200,Timur,Tidak
+2147,Depok,86.0,122.0,3,2,1.0,10.7,2015,,HGB,3500,Utara,Tidak
+2150,Bekasi,82.0,125.0,4,3,1.0,3.6,1998,,SHM,900,Barat,Tidak
+2159,Jakarta Barat,114.0,126.0,3,2,1.0,2.0,1995,Bagus,SHM,3500,Utara,Ya
+2165,Jakarta Selatan,147.0,218.0,5,4,2.0,2.9,1995,Butuh Renovasi,SHM,3500,Selatan,Tidak
+2166,Jakarta Barat,117.0,128.0,3,1,,2.8,2022,Bagus,SHM,1300,Utara,Tidak
+2169,Jakarta Barat,100.0,112.0,3,3,1.0,2.7,2017,Bagus,SHM,3500,Barat,Ya
+2171,Jakarta Barat,196.0,137.0,4,3,1.0,2.1,2021,Bagus,SHM,3500,Utara,Tidak
+2172,Bekasi,52.0,71.0,3,2,-0.0,0.6,2008,Bagus,SHM,2200,Selatan,Ya
+2176,Jakarta Barat,147.0,164.0,5,3,0.0,3.7,2014,Bagus,SHM,3500,Barat,Ya
+2178,Depok,104.0,124.0,3,3,1.0,2.6,2003,Bagus,HGB,1300,Timur,Tidak
+2179,Jakarta Selatan,212.0,260.0,6,5,2.0,1.8,2002,Butuh Renovasi,SHM,4400,Selatan,Tidak
+2180,Jakarta Selatan,88.0,66.0,2,2,1.0,3.9,2010,Bagus,SHM,2200,Timur,Ya
+2186,Bekasi,88.0,133.0,4,3,2.0,0.7,2020,Bagus,SHM,2200,Selatan,Ya
+2188,Depok,106.0,97.0,2,1,-0.0,0.6,2007,Bagus,HGB,900,Barat,Tidak
+2190,Jakarta Timur,169.0,162.0,4,2,0.0,7.7,2020,Bagus,SHM,2200,Selatan,Ya
+2191,Jakarta Barat,182.0,187.0,6,4,1.0,2.1,2011,Butuh Renovasi,SHM,2200,Utara,Tidak
+2196,Bekasi,88.0,65.0,2,2,,7.9,2014,Bagus,SHM,1300,Selatan,Tidak
+2200,Bekasi,115.0,183.0,5,4,0.0,2.5,2002,Butuh Renovasi,SHM,3500,Barat,Tidak
+2202,Bekasi,74.0,95.0,3,2,1.0,3.2,2006,Bagus,SHM,2200,Barat,Tidak
+2217,Depok,105.0,118.0,3,2,1.0,5.6,1999,Butuh Renovasi,SHM,1300,Utara,Ya
+2218,Bekasi,83.0,60.0,2,2,1.0,0.8,2014,Bagus,SHM,1300,Barat,Tidak
+2219,Bogor,87.0,79.0,1,1,0.0,2.4,2017,Bagus,HGB,1300,Timur,Tidak
+2220,Bekasi,155.0,214.0,5,4,1.0,2.7,1995,Bagus,SHM,2200,Barat,Ya
+2222,Bogor,95.0,125.0,3,3,-0.0,3.3,2012,Butuh Renovasi,HGB,1300,Barat,Tidak
+2226,Depok,219.0,199.0,7,6,1.0,8.8,2023,Baru,SHM,4400,Barat,Tidak
+2229,Bogor,318.0,270.0,6,5,2.0,5.2,2004,Bagus,SHM,4400,Selatan,Tidak
+2240,Bogor,172.0,184.0,5,3,2.0,3.0,2008,Bagus,SHM,3500,Barat,Tidak
+2242,Jakarta Selatan,81.0,56.0,3,3,1.0,4.1,2008,Bagus,SHM,2200,Utara,Ya
+2245,Jakarta Timur,93.0,124.0,3,3,2.0,0.4,2001,Butuh Renovasi,HGB,900,Timur,Tidak
+2252,Jakarta Timur,165.0,248.0,6,4,2.0,7.5,2005,Butuh Renovasi,SHM,4400,Barat,Ya
+2254,Jakarta Timur,157.0,120.0,3,3,2.0,2.2,2019,Bagus,SHM,2200,Barat,Ya
+2257,Tangerang Selatan,248.0,,8,6,1.0,5.1,2001,Bagus,HGB,5500,Selatan,Ya
+2258,Jakarta Barat,70.0,,3,2,-0.0,3.5,2012,Bagus,HGB,900,Barat,Tidak
+2259,Bekasi,65.0,39.0,2,1,,3.9,2013,Bagus,SHM,1300,Selatan,Ya
+2266,Jakarta Timur,58.0,83.0,3,3,1.0,4.2,2018,Bagus,SHM,900,Barat,Tidak
+2270,Jakarta Barat,91.0,92.0,3,2,0.0,3.8,2003,Butuh Renovasi,SHM,1300,Timur,Ya
+2272,Jakarta Timur,154.0,111.0,4,4,1.0,0.8,2004,Butuh Renovasi,SHM,1300,Barat,Ya
+2277,Depok,110.0,87.0,2,2,-0.0,4.3,2023,Baru,SHM,900,Barat,Tidak
+2278,Tangerang Selatan,129.0,92.0,2,1,-0.0,3.4,2003,Butuh Renovasi,Lainnya,2200,Utara,Tidak
+2280,Jakarta Timur,192.0,125.0,4,2,1.0,4.3,2007,Butuh Renovasi,SHM,1300,Utara,Tidak
+2282,Bekasi,134.0,126.0,3,2,1.0,6.2,2007,Bagus,SHM,2200,Barat,Tidak
+2283,Bogor,184.0,285.0,8,4,1.0,4.6,1996,Bagus,SHM,4400,Timur,Ya
+2284,Jakarta Selatan,105.0,125.0,3,3,1.0,1.4,2001,Bagus,SHM,2200,Utara,Tidak
+2286,Bogor,177.0,219.0,7,5,2.0,4.1,2013,Bagus,HGB,2200,Utara,Ya
+2287,Jakarta Timur,80.0,127.0,4,3,1.0,7.9,2016,Bagus,SHM,1300,Timur,Tidak
+2291,Depok,99.0,67.0,2,1,-0.0,4.5,2025,Baru,SHM,1300,Timur,Ya
+2294,Jakarta Timur,55.0,60.0,3,2,1.0,1.3,2016,Bagus,HGB,2200,Timur,Tidak
+2304,Bogor,117.0,155.0,5,4,1.0,3.3,2010,Bagus,SHM,3500,Barat,Tidak
+2305,Depok,135.0,104.0,3,2,1.0,7.0,1976,Butuh Renovasi,HGB,900,Barat,Tidak
+2306,Bekasi,139.0,183.0,4,2,0.0,2.6,2006,Bagus,HGB,2200,Timur,Tidak
+2310,Jakarta Timur,120.0,77.0,3,2,0.0,1.6,2006,Bagus,SHM,1300,Barat,Ya
+2316,Tangerang Selatan,179.0,269.0,8,6,1.0,1.9,2021,Bagus,SHM,5500,Utara,Tidak
+2325,Jakarta Selatan,443.0,506.0,8,5,4.0,4.5,2013,Butuh Renovasi,SHM,5500,Utara,Tidak
+2332,Jakarta Selatan,168.0,174.0,5,4,2.0,7.0,2021,Butuh Renovasi,SHM,2200,Barat,Tidak
+2338,Jakarta Selatan,86.0,116.0,3,2,1.0,3.2,2003,Bagus,SHM,1300,Timur,Tidak
+2339,Jakarta Barat,95.0,150.0,3,3,1.0,3.1,2010,Bagus,SHM,3500,Selatan,Tidak
+2352,Jakarta Barat,126.0,178.0,5,4,2.0,5.3,2002,Bagus,HGB,3500,Barat,Tidak
+2353,Bogor,177.0,258.0,6,3,2.0,3.4,2009,Butuh Renovasi,SHM,5500,Timur,Ya
+2355,Bogor,76.0,54.0,3,2,1.0,1.8,2016,Bagus,SHM,900,Barat,Tidak
+2356,Depok,162.0,215.0,6,5,1.0,2.6,2017,Bagus,SHM,5500,Selatan,Ya
+2361,Jakarta Barat,134.0,190.0,6,5,1.0,3.8,1998,Butuh Renovasi,SHM,3500,Selatan,Tidak
+2364,Jakarta Timur,92.0,64.0,1,1,0.0,3.6,2025,Bagus,SHM,2200,Timur,Tidak
+2366,Tangerang Selatan,118.0,188.0,4,3,1.0,5.7,2008,Bagus,SHM,4400,Selatan,Ya
+2369,Jakarta Barat,127.0,118.0,5,3,1.0,2.5,2016,Butuh Renovasi,SHM,2200,Barat,Ya
+2376,Tangerang Selatan,232.0,328.0,8,6,1.0,0.8,2001,Butuh Renovasi,SHM,4400,Utara,Tidak
+2379,Bekasi,108.0,172.0,4,3,1.0,5.3,2007,Bagus,SHM,1300,Barat,Tidak
+2380,Bogor,83.0,69.0,3,3,0.0,5.1,2008,Bagus,HGB,1300,Utara,Ya
+2383,Jakarta Selatan,77.0,82.0,3,2,0.0,1.4,2014,Bagus,Lainnya,1300,Timur,Tidak
+2390,Tangerang Selatan,63.0,56.0,2,2,0.0,2.8,2009,Bagus,SHM,900,Barat,Tidak
+2393,Bekasi,94.0,98.0,3,3,1.0,5.9,2013,Bagus,SHM,2200,Utara,Tidak
+2397,Tangerang Selatan,90.0,83.0,3,2,0.0,4.7,2012,Butuh Renovasi,SHM,1300,Timur,Tidak
+2398,Jakarta Selatan,222.0,230.0,5,5,2.0,3.5,1998,Butuh Renovasi,SHM,5500,Selatan,Ya
+2404,Bogor,81.0,63.0,1,1,2.0,2.5,2025,Baru,SHM,1300,Barat,Ya
+2405,Bogor,124.0,87.0,3,2,,4.4,1992,Butuh Renovasi,shm,1300,Utara,Tidak
+2407,Bekasi,166.0,166.0,5,3,1.0,3.2,2008,Bagus,SHM,3500,Utara,Tidak
+2408,Jakarta Barat,135.0,179.0,4,3,1.0,2.3,2002,Butuh Renovasi,SHM,3500,Utara,Tidak
+2412,Jakarta Timur,139.0,142.0,4,4,-0.0,2.3,2001,Bagus,SHM,2200,Utara,Ya
+2426,Jakarta Barat,147.0,181.0,4,3,0.0,5.6,1999,Butuh Renovasi,SHM,2200,Timur,Ya
+2429,Tangerang Selatan,94.0,74.0,2,2,0.0,1.1,2025,Baru,HGB,1300,Utara,Tidak
+2432,Bekasi,249.0,352.0,8,7,2.0,4.3,2023,Baru,SHM,5500,Timur,Ya
+2435,Tangerang Selatan,74.0,85.0,3,4,1.0,3.0,2007,,SHM,2200,Selatan,Tidak
+2439,Depok,82.0,83.0,1,2,2.0,4.1,2008,Bagus,SHM,2200,Timur,Ya
+2441,Tangerang Selatan,192.0,271.0,8,6,2.0,4.6,1992,Bagus,HGB,5500,Selatan,Tidak
+2444,Tangerang Selatan,80.0,91.0,2,2,0.0,2.8,2013,Bagus,HGB,1300,Timur,Ya
+2449,Jakarta Selatan,115.0,71.0,3,3,1.0,3.3,2012,Bagus,SHM,1300,Barat,Ya
+2450,Tangerang Selatan,197.0,247.0,6,4,1.0,2.5,2009,Bagus,SHM,4400,Barat,Tidak
+2452,Jakarta Timur,179.0,280.0,7,6,1.0,0.8,1994,,HGB,5500,Selatan,Ya
+2455,Jakarta Selatan,72.0,60.0,1,2,-0.0,4.5,2022,Baru,SHM,900,Utara,Ya
+2457,Bogor,75.0,74.0,2,1,0.0,0.4,2014,Bagus,SHM,900,Selatan,Tidak
+2461,Tangerang Selatan,119.0,75.0,2,1,1.0,3.0,2001,Butuh Renovasi,SHM,900,Timur,Tidak
+2465,Jakarta Timur,116.0,102.0,2,1,0.0,1.6,2012,Bagus,SHM,900,Barat,Tidak
+2467,Jakarta Timur,132.0,127.0,4,2,2.0,1.4,2011,Bagus,SHM,2200,Selatan,Tidak
+2471,Depok,69.0,72.0,4,3,1.0,2.8,2018,,SHM,1300,Timur,Ya
+2478,Tangerang Selatan,142.0,114.0,3,2,1.0,0.2,2013,Bagus,shm,2200,Barat,Tidak
+2482,Tangerang Selatan,146.0,149.0,3,2,2.0,1.8,2018,Bagus,SHM,2200,Utara,Ya
+2483,Bogor,159.0,97.0,2,1,2.0,7.6,2016,Butuh Renovasi,SHM,2200,Barat,Tidak
+2485,Jakarta Barat,253.0,238.0,6,4,2.0,2.3,2019,Bagus,HGB,3500,Selatan,Tidak
+2488,Bogor,120.0,109.0,4,3,1.0,4.2,2016,Bagus,SHM,1300,Timur,Tidak
+2496,Bogor,72.0,112.0,3,2,1.0,0.8,2018,Bagus,SHM,1300,Selatan,Tidak
+2497,Jakarta Barat,59.0,90.0,3,2,0.0,1.0,2012,Bagus,HGB,1300,Timur,Tidak
